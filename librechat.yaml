@@ -219,3 +219,19 @@ speech:
     advancedMode: true
     speechToText: true
     textToSpeech: true
+
+modelSpecs:
+  enforce: false
+  prioritize: true
+  addedEndpoints:
+    - agents
+  list:
+    - name: "kiana-host"
+      label: "Kiana"
+      description: "Your host. Ask her anything — or build your own character from the menu."
+      default: true
+      showIconInMenu: true
+      showIconInHeader: true
+      preset:
+        endpoint: "agents"
+        agent_id: "agent_6llV0eMu4fmIaj8f2x1Sb"
