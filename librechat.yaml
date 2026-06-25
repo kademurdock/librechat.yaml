@@ -234,15 +234,15 @@ speech:
     textToSpeech: true
 
 modelSpecs:
-  enforce: false          # users stay free to build their own / pick models
-  prioritize: true        # show your curated character(s) first
+  enforce: false
+  prioritize: true
   addedEndpoints:
-    - agents              # keeps the "My Agents" menu alive, kills the "Select a model" glitch
+    - agents
   list:
     - name: "kiana-host"
       label: "Kiana"
       description: "Your host. Ask her anything — or build your own character from the menu."
-      default: true       # what every new account lands on
+      default: true
       showIconInMenu: true
       showIconInHeader: true
       # preset:
