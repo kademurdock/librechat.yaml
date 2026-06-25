@@ -65,7 +65,7 @@ interface:
       If I update these, the newest version is the one that counts. Groundbreaking, I know.
 
       That's it. Now go make something ridiculous.
-  parameters: false
+  parameters: true
   agents:
     use: true
     create: true
