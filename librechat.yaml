@@ -1,26 +1,59 @@
 # ============================================================
-#  Kade-AI — LibreChat configuration
+#  Kade-AI — LibreChat configuration  (v7)
 # ------------------------------------------------------------
-#  This file is loaded by pointing the CONFIG_PATH environment
-#  variable at its RAW url (e.g. a GitHub raw link).
-#
-#  If your LibreChat build ever warns about the version number
-#  below, just change it to match your install — the logs will
-#  tell you. The actual settings here work across recent builds.
+#  Loaded by pointing CONFIG_PATH at this file's RAW github url.
 # ============================================================
 
 version: 1.2.8
 cache: true
 
+# ============================================================
+#  ENDPOINTS — OpenRouter only.
+# ============================================================
+endpoints:
+  custom:
+    - name: "OpenRouter"
+      apiKey: "${OPENROUTER_KEY}"
+      baseURL: "https://openrouter.ai/api/v1"
+      models:
+        default: ["openai/gpt-4o-mini", "openai/gpt-4o-mini:online"]
+        fetch: true
+      titleConvo: true
+      titleModel: "openai/gpt-4o-mini"
+      modelDisplayLabel: "OpenRouter"
+      dropParams: ["stop"]
+
+# ============================================================
+#  BALANCE — automatic ~$20 per user per 30 days, no banking.
+# ============================================================
+balance:
+  enabled: true
+  startBalance: 20000000      # ~$20 on signup
+  autoRefillEnabled: true     # auto top-up to ~$20 only when they hit zero
+  refillIntervalValue: 30
+  refillIntervalUnit: "days"
+  refillAmount: 20000000      # ~$20 per 30-day window
+
+# ============================================================
+#  MEMORY — Aggressive hoarding mode enabled.
+# ============================================================
+memory:
+  disabled: false
+  personalize: true
+  tokenLimit: 100000
+  validKeys: ["preferences", "work_info", "personal_info", "skills", "interests", "context", "secrets"]
+  agent:
+    provider: "OpenRouter"
+    model: "openai/gpt-4o-mini"
+    instructions: "Save everything. Extract concise, highly detailed facts, preferences, secrets, and stable context about the user to completely personalize future chats. Leave nothing out."
+
+# ============================================================
+#  INTERFACE — welcome, house rules, features + default perms
+# ============================================================
 interface:
 
-  # ----- The greeting on the chat screen -----
-  # {{user.name}} automatically fills in each person's name.
   customWelcome: "Welcome to Kade-AI, {{user.name}} — my corner of the internet where you build your own AI character and I quietly foot the bill. Pick a model, give it a personality, and have fun in here."
 
-  # ----- The "policy" link in the UI -----
-  # Clicking it opens this modal. modalAcceptance: true makes new
-  # users tick a box agreeing to it before they can start.
   termsOfService:
     modalAcceptance: true
     modalTitle: "Kade-AI House Rules"
@@ -36,13 +69,13 @@ interface:
       Kade-AI runs on my server, my accounts, and my actual money. That makes me the landlord. Be a good tenant and we'll get along great.
 
       ## 2. Privacy, For Real
-      I'm not selling your data — I wouldn't even know how. But real talk: as the admin, I can see that the system is being used and manage what lives on it. So don't type anything in here you'd be mortified for a friend to stumble across. This is a group chat with robots, not a sealed confessional.
+      I'm not selling your data. More importantly: I physically and mechanically cannot see your chats. The system is locked down, and I don't have a way (or the desire) to monitor what you're typing. Spill your secrets, build your weirdest characters, or use it as a sealed confessional—your text is safe from my eyes.
 
       ## 3. Don't Be a Menace
       No illegal nonsense, no harassing other people on here, no using this to hurt anybody. Build funny characters, weird characters, brilliant characters — just keep it not-evil.
 
       ## 4. The Tokens Aren't Free (To Me)
-      Every message you fire off costs me real money behind the curtain. Use it, enjoy it, but don't park a script in here cranking out a novel every thirty seconds. Go full gremlin on the usage and I reserve the right to gently revoke your keys to the kingdom.
+      Every message you fire off costs me real money behind the curtain. You get a fresh ~$20 allowance each month; use it, enjoy it, but don't park a script in here cranking out a novel every thirty seconds. Run dry and you're paused till it resets (or ask me nicely).
 
       ## 5. No Warranty, No Promises
       This is run by one person, not a Fortune 500. It might go down. It might say something gloriously dumb. If it breaks I'll probably fix it, but I'm not legally on the hook if the robot whiffs or the site takes an afternoon nap.
@@ -52,9 +85,169 @@ interface:
 
       That's it. Now go make something ridiculous.
 
-  # ----- Optional -----
-  # If you ever build a separate privacy page, drop its URL here to
-  # add a "Privacy Policy" link too. Leave it commented out for now.
-  # privacyPolicy:
-  #   externalUrl: "https://kademurdock.com/privacy"
-  #   openNewTab: true
+  # ----- Hiding the Nerd Knobs -----
+  parameters: false
+
+  # ----- Tiering: Unlocked so everyone can build characters right away -----
+  agents:
+    use: true
+    create: true
+    share: true
+    public: true
+  marketplace:
+    use: true
+  prompts:
+    use: true
+    create: true
+  memories: true
+  presets: true
+  bookmarks: true
+  multiConvo: true
+  temporaryChat: true
+  peoplePicker:
+    users: true
+    groups: true
+    roles: true
+
+# ============================================================
+#  SPEECH — Whisper for dictation, OpenAI TTS + ElevenLabs v3.
+# ============================================================
+speech:
+
+  stt:
+    openai:
+      apiKey: "${OPENAI_SPEECH_KEY}"
+      model: "whisper-1"
+
+  tts:
+    openai:
+      apiKey: "${OPENAI_SPEECH_KEY}"
+      model: "tts-1-hd"
+      voices: ["alloy", "echo", "fable", "onyx", "nova", "shimmer"]
+
+    elevenlabs:
+      apiKey: "${ELEVENLABS_API_KEY}"
+      model: "eleven_v3"
+      voices: 
+        - "R0xjlTsYe2M5tSma6Eka"
+        - "C7INaHwxK8tU9YqLdnfO"
+        - "wpCUYoOS1zRYlnP8yZbV"
+        - "1zkPWTXGsDzqXy8vckoA"
+        - "YKpogU7Osrwgie6MBSnn"
+        - "fQ4rcC0odCQCV1dOsxzp"
+        - "uxBK2Rcru5vPnLY3C6Iu"
+        - "BPiqLTg89bLgeV3SfH4n"
+        - "KDdMso5BHhgrxqFG229R"
+        - "vm8jMINCcLGlbmE04C8G"
+        - "3KmADUOWtfb7tyf5Ngnj"
+        - "8vh4WSylImaZHtXRLVHu"
+        - "0G14okUVqRmN9o6BiJSi"
+        - "faSWDSS3NIJsTUZrkcun"
+        - "jkyV72uegcioPXmCJq1I"
+        - "Gm3FGhfqtncntJmqozIu"
+        - "TOln5BAASdizE4MaQ8Fg"
+        - "BtfM6RO9CQmUnmVkgLaG"
+        - "D2J2C38vFx73GqaxcspV"
+        - "QpBszusFTePwuwiWwhzp"
+        - "6REezBHUTKZUrwb3e27y"
+        - "MQnN6eniHNaVJtmWXKbM"
+        - "VK0ccLJua4FVHt2QAzMV"
+        - "Bhjx3Ms7QuHATsA0Sol1"
+        - "5iaUVJ8hkBOz5bU4B372"
+        - "MxwDk3KAGWoCLtYYpdgr"
+        - "tZuUx7P6ZwDBCeeCDTQx"
+        - "YnFZdMsWWLF8dMWaIc4m"
+        - "WHUFOqh2MxcgALxEyzYs"
+        - "Rw0mLIqNdRS9L1uvkhf6"
+        - "9svHVQD6sd7gD41PcS8u"
+        - "TYA4MmyQXhnJVZ3WBSOf"
+        - "XgSwy1CiCpZXK6hzwc18"
+        - "nepSbiG4cJdoTDU3K5sn"
+        - "WxQQRHLeBi9D8k3Ohsub"
+        - "zjvLQosfNR8ImLoCfjnq"
+        - "DBDtcvj38wRJCcpMQGs2"
+        - "AJdOu1MaUfQuLudf9Xdw"
+        - "GUSxR1XeT8QgksDb9723"
+        - "gZqpE04VlAKWYM3FkgXB"
+        - "0SzPpsxVnvVGXT4Awe8y"
+        - "kwMdjSaklPqve0VHluxD"
+        - "4OzMHInnoqNnSOTMSwrx"
+        - "UZKF63NfYFjWPckohGTA"
+        - "izftUgLgoFl8jLGgNSNK"
+        - "c3vWZ3YXJt4FsH4VUhqK"
+        - "L0hkmBKgGdRu2T7KgsSm"
+        - "B0ufM83GrRYYrvmxuaYO"
+        - "mrwIix9iTOwRoNvn8DHX"
+        - "Adl7G67yKfXJ2dw0DrZy"
+        - "SMiHXUKf1DLB1jDapb97"
+        - "3IiLMzM971o5pGtpNy45"
+        - "V9zdSl8i3yr1xv15EnSj"
+        - "qwcWE5hDXBs3OF0ABmm6"
+        - "ZfHfRDfpll0j4lWEuIen"
+        - "280MoiKJZ79vq3O5BFFJ"
+        - "5Nfm5LeAIVhTzQrpX7tD"
+        - "gB5RTwAsfFRoxAO0mdjZ"
+        - "A16uG9SQgoWPvkwMUjfx"
+        - "PADSvDzxInnYS2rIJEHg"
+        - "YbDjfvFJ8K5trv37GgiM"
+        - "uNSTBIGq4LLrO2nXQ4Nu"
+        - "NH3w56yRiOhuS2t6obXU"
+        - "b9IDSpHcq6HXJ4eXzXES"
+        - "CFE0iOZkFASTIfyy9s3z"
+        - "XqIaggEq3eFLd8xHJJdg"
+        - "eJ8TvxJOJwVMLxu8StSn"
+        - "SOHIPDXAslMikAuaWbYv"
+        - "byQQkwJCUxFpJFFcupe8"
+        - "9HHTo9fvPrq7iCfUYF0e"
+        - "R454kP8vEwe4Jlbixltu"
+        - "XOyrB9bjDQ2SjdPeex5w"
+        - "WEcYZy96DU9ob2xD01lW"
+        - "fwzWlLp5gfdi8Lri1Y9l"
+        - "cLs7TMpBNjgSJ3LVeI31"
+        - "BFA9iZ0xofxVRB5cInAi"
+        - "MKNXS5tRCI0JchgD6ZvY"
+        - "pdEa5obOFjfMNufl1X3s"
+        - "sxtyatnhPiy3ZuvvhL1J"
+        - "87FBRlmP3EHTAjJLT6JV"
+        - "4T4jXFZNf9VwJvHkvkaP"
+        - "b48TLewKoy81EuZZLD2l"
+        - "wfRM3ab0P7QixI9rCuUM"
+        - "fKQJdQmUQzh48tsOJgv6"
+        - "c9P55KXVkQmA1f4BcXKy"
+        - "BTHuHkxO4uoXV3aW3jQC"
+        - "oGhYx4CfQO0euqh1ZbAx"
+        - "ZJ8SUncLRm59EGXJ6U2l"
+        - "ammMJAyoAjm8FOqCaAIB"
+        - "iFiabl2s8gbwigqefGC0"
+        - "VX0nJdSAPyEhA1cDDy68"
+        - "Wxna1WO0WJVJjEzx3y8n"
+        - "uKuC2kIhVPDxUZv7LONg"
+        - "0h4cLIVlqe1QTIwk5438"
+        - "CwhRBWXzGAHq8TQ4Fs17"
+        - "IKne3meq5aSn9XLyUdCD"
+        - "JBFqnCBsd6RMkjVDRZzb"
+        - "N2lVS1w4EtoT3dr4eOWO"
+        - "SAz9YHcvj6GT2YYXdXww"
+        - "SOYHLrjzK2X1ezoPC6cr"
+        - "TX3LPaxmHKxFdv7VOQHJ"
+        - "Xb7hH8MSUJpSbSDYk0k2"
+        - "XrExE9yKIg1WjnnlVkGX"
+        - "bIHbv24MWmeRgasZH58o"
+        - "cgSgspJ2msm6clMCkdW9"
+        - "cjVigY5qzO86Huf0OWal"
+        - "iP95p4xoKVk53GoZ742B"
+        - "nPczCjzI2devNBz1zQrb"
+        - "onwK4e9ZLuTAKqWW03F9"
+        - "pFZP5JQG7iQjIQuC4Bku"
+        - "pNInz6obpgDQGcFmaJgB"
+        - "pqHfZKP75CvOlQylNhV4"
+      voice_settings:
+        stability: 0.5
+        similarity_boost: 0.75
+        use_speaker_boost: true
+
+  speechTab:
+    conversationMode: true
+    advancedMode: false
+    speechToText: true
+    textToSpeech: true
