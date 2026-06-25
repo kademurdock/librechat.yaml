@@ -1,42 +1,40 @@
 # ============================================================
-#  Kade-AI — LibreChat configuration  (v9)
-# ------------------------------------------------------------
-#  Loaded by pointing CONFIG_PATH at this file's RAW github url.
+#  Kade-AI — LibreChat configuration  (v13)
+# ============================================================
+#  Carries over everything from v12 (full voice list + GLM-5.2
+#  as default model). Fixes in this pass:
+#    - Restored the full House Rules / ToS text a fill-in model
+#      had truncated down to a stub.
+#    - ToS allowance line now reads ~$10/month, matching the
+#      10M startBalance + refillAmount.
+#    - titleModel dropped from z-ai/glm-5.2:online to plain
+#      z-ai/glm-5.2 (no live web search just to name a chat).
 # ============================================================
 
 version: 1.3.13
 cache: true
 
-# ============================================================
-#  ENDPOINTS — OpenRouter only.
-# ============================================================
 endpoints:
   custom:
     - name: "OpenRouter"
       apiKey: "${OPENROUTER_KEY}"
       baseURL: "https://openrouter.ai/api/v1"
       models:
-        default: ["openai/gpt-4o-mini", "openai/gpt-4o-mini:online"]
+        default: ["z-ai/glm-5.2:online", "openai/gpt-4o-mini", "openai/gpt-4o-mini:online"]
         fetch: true
       titleConvo: true
-      titleModel: "openai/gpt-4o-mini"
+      titleModel: "z-ai/glm-5.2"
       modelDisplayLabel: "OpenRouter"
       dropParams: ["stop"]
 
-# ============================================================
-#  BALANCE — automatic ~$20 per user per 30 days, no banking.
-# ============================================================
 balance:
   enabled: true
-  startBalance: 20000000      
+  startBalance: 10000000      
   autoRefillEnabled: true     
   refillIntervalValue: 30
   refillIntervalUnit: "days"
-  refillAmount: 20000000      
+  refillAmount: 10000000      
 
-# ============================================================
-#  MEMORY — Aggressive hoarding mode enabled.
-# ============================================================
 memory:
   disabled: false
   personalize: true
@@ -45,16 +43,11 @@ memory:
   agent:
     enabled: true
     provider: "OpenRouter"
-    model: "openai/gpt-4o-mini"
-    instructions: "Save everything. Extract concise, highly detailed facts, preferences, secrets, and stable context about the user to completely personalize future chats. Leave nothing out."
+    model: "z-ai/glm-5.2"
+    instructions: "Save everything. Extract concise, highly detailed facts, preferences, secrets, and stable context about the user to completely personalize future chats. Leave nothing out unless instructed."
 
-# ============================================================
-#  INTERFACE — welcome, house rules, features + default perms
-# ============================================================
 interface:
-
   customWelcome: "Welcome to Kade-AI, {{user.name}} — my corner of the internet where you build your own AI character and I quietly foot the bill. Pick a model, give it a personality, and have fun in here."
-
   termsOfService:
     modalAcceptance: true
     modalTitle: "Kade-AI House Rules"
@@ -76,7 +69,7 @@ interface:
       No illegal nonsense, no harassing other people on here, no using this to hurt anybody. Build funny characters, weird characters, brilliant characters — just keep it not-evil.
 
       ## 4. The Tokens Aren't Free (To Me)
-      Every message you fire off costs me real money behind the curtain. You get a fresh ~$20 allowance each month; use it, enjoy it, but don't park a script in here cranking out a novel every thirty seconds. Run dry and you're paused till it resets (or ask me nicely).
+      Every message you fire off costs me real money behind the curtain. You get a fresh ~$10 allowance each month; use it, enjoy it, but don't park a script in here cranking out a novel every thirty seconds. Run dry and you're paused till it resets (or ask me nicely).
 
       ## 5. No Warranty, No Promises
       This is run by one person, not a Fortune 500. It might go down. It might say something gloriously dumb. If it breaks I'll probably fix it, but I'm not legally on the hook if the robot whiffs or the site takes an afternoon nap.
@@ -85,9 +78,7 @@ interface:
       If I update these, the newest version is the one that counts. Groundbreaking, I know.
 
       That's it. Now go make something ridiculous.
-
   parameters: false
-
   agents:
     use: true
     create: true
@@ -108,11 +99,7 @@ interface:
     groups: true
     roles: true
 
-# ============================================================
-#  SPEECH — Whisper for dictation, OpenAI TTS + ElevenLabs.
-# ============================================================
 speech:
-
   stt:
     openai:
       apiKey: "${OPENAI_SPEECH_KEY}"
@@ -124,9 +111,120 @@ speech:
       model: "eleven_multilingual_v3"
       voices: 
         - "R0xjlTsYe2M5tSma6Eka"
+        - "C7INaHwxK8tU9YqLdnfO"
+        - "wpCUYoOS1zRYlnP8yZbV"
+        - "1zkPWTXGsDzqXy8vckoA"
+        - "YKpogU7Osrwgie6MBSnn"
+        - "fQ4rcC0odCQCV1dOsxzp"
+        - "uxBK2Rcru5vPnLY3C6Iu"
+        - "BPiqLTg89bLgeV3SfH4n"
+        - "KDdMso5BHhgrxqFG229R"
+        - "vm8jMINCcLGlbmE04C8G"
+        - "3KmADUOWtfb7tyf5Ngnj"
+        - "8vh4WSylImaZHtXRLVHu"
+        - "0G14okUVqRmN9o6BiJSi"
+        - "faSWDSS3NIJsTUZrkcun"
+        - "jkyV72uegcioPXmCJq1I"
+        - "Gm3FGhfqtncntJmqozIu"
+        - "TOln5BAASdizE4MaQ8Fg"
+        - "BtfM6RO9CQmUnmVkgLaG"
+        - "D2J2C38vFx73GqaxcspV"
+        - "QpBszusFTePwuwiWwhzp"
+        - "6REezBHUTKZUrwb3e27y"
+        - "MQnN6eniHNaVJtmWXKbM"
+        - "VK0ccLJua4FVHt2QAzMV"
+        - "Bhjx3Ms7QuHATsA0Sol1"
+        - "5iaUVJ8hkBOz5bU4B372"
+        - "MxwDk3KAGWoCLtYYpdgr"
+        - "tZuUx7P6ZwDBCeeCDTQx"
+        - "YnFZdMsWWLF8dMWaIc4m"
+        - "WHUFOqh2MxcgALxEyzYs"
+        - "Rw0mLIqNdRS9L1uvkhf6"
+        - "9svHVQD6sd7gD41PcS8u"
+        - "TYA4MmyQXhnJVZ3WBSOf"
+        - "XgSwy1CiCpZXK6hzwc18"
+        - "nepSbiG4cJdoTDU3K5sn"
+        - "WxQQRHLeBi9D8k3Ohsub"
+        - "zjvLQosfNR8ImLoCfjnq"
+        - "DBDtcvj38wRJCcpMQGs2"
+        - "AJdOu1MaUfQuLudf9Xdw"
+        - "GUSxR1XeT8QgksDb9723"
+        - "gZqpE04VlAKWYM3FkgXB"
+        - "0SzPpsxVnvVGXT4Awe8y"
+        - "kwMdjSaklPqve0VHluxD"
+        - "4OzMHInnoqNnSOTMSwrx"
+        - "UZKF63NfYFjWPckohGTA"
+        - "izftUgLgoFl8jLGgNSNK"
+        - "c3vWZ3YXJt4FsH4VUhqK"
+        - "L0hkmBKgGdRu2T7KgsSm"
+        - "B0ufM83GrRYYrvmxuaYO"
+        - "mrwIix9iTOwRoNvn8DHX"
+        - "Adl7G67yKfXJ2dw0DrZy"
+        - "SMiHXUKf1DLB1jDapb97"
+        - "3IiLMzM971o5pGtpNy45"
+        - "V9zdSl8i3yr1xv15EnSj"
+        - "qwcWE5hDXBs3OF0ABmm6"
+        - "ZfHfRDfpll0j4lWEuIen"
+        - "280MoiKJZ79vq3O5BFFJ"
+        - "5Nfm5LeAIVhTzQrpX7tD"
+        - "gB5RTwAsfFRoxAO0mdjZ"
+        - "A16uG9SQgoWPvkwMUjfx"
+        - "PADSvDzxInnYS2rIJEHg"
+        - "YbDjfvFJ8K5trv37GgiM"
+        - "uNSTBIGq4LLrO2nXQ4Nu"
+        - "NH3w56yRiOhuS2t6obXU"
+        - "b9IDSpHcq6HXJ4eXzXES"
+        - "CFE0iOZkFASTIfyy9s3z"
+        - "XqIaggEq3eFLd8xHJJdg"
+        - "eJ8TvxJOJwVMLxu8StSn"
+        - "SOHIPDXAslMikAuaWbYv"
+        - "byQQkwJCUxFpJFFcupe8"
+        - "9HHTo9fvPrq7iCfUYF0e"
+        - "R454kP8vEwe4Jlbixltu"
+        - "XOyrB9bjDQ2SjdPeex5w"
+        - "WEcYZy96DU9ob2xD01lW"
+        - "fwzWlLp5gfdi8Lri1Y9l"
+        - "cLs7TMpBNjgSJ3LVeI31"
+        - "BFA9iZ0xofxVRB5cInAi"
+        - "MKNXS5tRCI0JchgD6ZvY"
+        - "pdEa5obOFjfMNufl1X3s"
+        - "sxtyatnhPiy3ZuvvhL1J"
+        - "87FBRlmP3EHTAjJLT6JV"
+        - "4T4jXFZNf9VwJvHkvkaP"
+        - "b48TLewKoy81EuZZLD2l"
+        - "wfRM3ab0P7QixI9rCuUM"
+        - "fKQJdQmUQzh48tsOJgv6"
+        - "c9P55KXVkQmA1f4BcXKy"
+        - "BTHuHkxO4uoXV3aW3jQC"
+        - "oGhYx4CfQO0euqh1ZbAx"
+        - "ZJ8SUncLRm59EGXJ6U2l"
+        - "ammMJAyoAjm8FOqCaAIB"
+        - "iFiabl2s8gbwigqefGC0"
+        - "VX0nJdSAPyEhA1cDDy68"
+        - "Wxna1WO0WJVJjEzx3y8n"
+        - "uKuC2kIhVPDxUZv7LONg"
+        - "0h4cLIVlqe1QTIwk5438"
+        - "CwhRBWXzGAHq8TQ4Fs17"
+        - "IKne3meq5aSn9XLyUdCD"
+        - "JBFqnCBsd6RMkjVDRZzb"
+        - "N2lVS1w4EtoT3dr4eOWO"
+        - "SAz9YHcvj6GT2YYXdXww"
+        - "SOYHLrjzK2X1ezoPC6cr"
+        - "TX3LPaxmHKxFdv7VOQHJ"
+        - "Xb7hH8MSUJpSbSDYk0k2"
+        - "XrExE9yKIg1WjnnlVkGX"
+        - "bIHbv24MWmeRgasZH58o"
+        - "cgSgspJ2msm6clMCkdW9"
+        - "cjVigY5qzO86Huf0OWal"
+        - "iP95p4xoKVk53GoZ742B"
+        - "nPczCjzI2devNBz1zQrb"
+        - "onwK4e9ZLuTAKqWW03F9"
+        - "pFZP5JQG7iQjIQuC4Bku"
+        - "pNInz6obpgDQGcFmaJgB"
+        - "pqHfZKP75CvOlQylNhV4"
       voice_settings:
         stability: 0.45
-        similarity_boost: 0.90
+        similarity_boost: 0.9
         use_speaker_boost: true
 
   speechTab:
