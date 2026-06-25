@@ -1,0 +1,60 @@
+# ============================================================
+#  Kade-AI — LibreChat configuration
+# ------------------------------------------------------------
+#  This file is loaded by pointing the CONFIG_PATH environment
+#  variable at its RAW url (e.g. a GitHub raw link).
+#
+#  If your LibreChat build ever warns about the version number
+#  below, just change it to match your install — the logs will
+#  tell you. The actual settings here work across recent builds.
+# ============================================================
+
+version: 1.2.8
+cache: true
+
+interface:
+
+  # ----- The greeting on the chat screen -----
+  # {{user.name}} automatically fills in each person's name.
+  customWelcome: "Welcome to Kade-AI, {{user.name}} — my corner of the internet where you build your own AI character and I quietly foot the bill. Pick a model, give it a personality, and have fun in here."
+
+  # ----- The "policy" link in the UI -----
+  # Clicking it opens this modal. modalAcceptance: true makes new
+  # users tick a box agreeing to it before they can start.
+  termsOfService:
+    modalAcceptance: true
+    modalTitle: "Kade-AI House Rules"
+    modalContent: |
+      # Kade-AI Terms of Service
+      ## a.k.a. The House Rules
+
+      *Effective whenever you happen to be reading this.*
+
+      Welcome to Kade-AI. Using this site means you're cool with a few things. It's short — I respect your time more than most companies respect yours.
+
+      ## 1. This Is My House
+      Kade-AI runs on my server, my accounts, and my actual money. That makes me the landlord. Be a good tenant and we'll get along great.
+
+      ## 2. Privacy, For Real
+      I'm not selling your data — I wouldn't even know how. But real talk: as the admin, I can see that the system is being used and manage what lives on it. So don't type anything in here you'd be mortified for a friend to stumble across. This is a group chat with robots, not a sealed confessional.
+
+      ## 3. Don't Be a Menace
+      No illegal nonsense, no harassing other people on here, no using this to hurt anybody. Build funny characters, weird characters, brilliant characters — just keep it not-evil.
+
+      ## 4. The Tokens Aren't Free (To Me)
+      Every message you fire off costs me real money behind the curtain. Use it, enjoy it, but don't park a script in here cranking out a novel every thirty seconds. Go full gremlin on the usage and I reserve the right to gently revoke your keys to the kingdom.
+
+      ## 5. No Warranty, No Promises
+      This is run by one person, not a Fortune 500. It might go down. It might say something gloriously dumb. If it breaks I'll probably fix it, but I'm not legally on the hook if the robot whiffs or the site takes an afternoon nap.
+
+      ## 6. I Can Change the Rules
+      If I update these, the newest version is the one that counts. Groundbreaking, I know.
+
+      That's it. Now go make something ridiculous.
+
+  # ----- Optional -----
+  # If you ever build a separate privacy page, drop its URL here to
+  # add a "Privacy Policy" link too. Leave it commented out for now.
+  # privacyPolicy:
+  #   externalUrl: "https://kademurdock.com/privacy"
+  #   openNewTab: true
