@@ -34,7 +34,11 @@ memory:
     enabled: true
     provider: "OpenRouter"
     model: "z-ai/glm-5.2"
-    instructions: "Save everything. Extract concise, highly detailed facts, preferences, secrets, and stable context about the user to completely personalize future chats. Leave nothing out unless instructed."
+    instructions: |
+      Only write a memory when something durable and reusable shows up: stable preferences, identity facts, ongoing projects, recurring context, or explicitly stated secrets. Skip one-off remarks, small talk, and anything you'd only need for this single reply.
+      Before writing, check whether this updates or contradicts an existing memory under the same key. If so, edit or replace that entry instead of adding a new one — never store the same fact twice.
+      If nothing in this message meets that bar, save nothing. Most turns should result in zero memory writes; that is expected, not a failure.
+      When you do write, keep it short: plain facts, not narration or reasoning about why it matters.
 
 interface:
   customWelcome: "Welcome to Kade-AI, {{user.name}} — my corner of the internet where you build your own AI character and I quietly foot the bill. Pick a model, give it a personality, and have fun in here."
