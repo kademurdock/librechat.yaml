@@ -339,10 +339,10 @@ speech:
     conversationMode: true
     advancedMode: true
     speechToText:
-      engineSTT: "external"
+      engineSTT: "openai"
       autoTranscribeAudio: true
     textToSpeech:
-      engineTTS: "external"
+      engineTTS: "openai"
       voice: "alloy"
       automaticPlayback: false
       cacheTTS: true
