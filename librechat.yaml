@@ -47,7 +47,7 @@ memory:
       When you do write, keep it short: plain facts, not narration or reasoning about why it matters.
 
 interface:
-  customWelcome: "Welcome to Kade-AI, {{user.name}} — my corner of the internet where you build your own AI character and I quietly foot the bill. Pick a model, give it a personality, and have fun in here."
+  customWelcome: "Welcome to Kade-AI, {{user.name}} — my corner of the internet where you build your own AI character and I quietly foot the bill. Pick a model, give it a personality, and have fun in here. (If you ever want to chip in toward server costs, no pressure at all: paypal.me/kademurdock)"
   termsOfService:
     modalAcceptance: true
     modalTitle: "Kade-AI House Rules"
@@ -79,6 +79,8 @@ interface:
 
       That's it. Now go make something ridiculous.
   parameters: true
+  contextCost: true
+  contextUsage: true
   agents:
     use: true
     create: true
