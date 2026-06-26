@@ -459,8 +459,14 @@ speech:
   speechTab:
     conversationMode: true
     advancedMode: true
-    speechToText: true
-    textToSpeech: true
+    speechToText:
+      engineSTT: "openai"
+      autoTranscribeAudio: true
+    textToSpeech:
+      engineTTS: "openai"
+      voice: "alloy"
+      automaticPlayback: false
+      cacheTTS: true
 
 modelSpecs:
   enforce: false
