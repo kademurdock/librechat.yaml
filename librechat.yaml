@@ -95,7 +95,7 @@ speech:
   tts:
     elevenlabs:
       apiKey: "${ELEVENLABS_API_KEY}"
-      model: "eleven_multilingual_v3"
+      model: "eleven_turbo_v2_5"
       voices:
         - "R0xjlTsYe2M5tSma6Eka"
         - "C7INaHwxK8tU9YqLdnfO"
