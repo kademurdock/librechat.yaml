@@ -7,7 +7,7 @@ endpoints:
       apiKey: "${OPENROUTER_KEY}"
       baseURL: "https://openrouter.ai/api/v1"
       models:
-        default: ["z-ai/glm-5.2:online", "openai/gpt-4o-mini", "openai/gpt-4o-mini:online"]
+        default: ["z-ai/glm-5.2", "openai/gpt-4o-mini"]
         fetch: true
       titleConvo: true
       titleModel: "z-ai/glm-5.2"
@@ -16,6 +16,12 @@ endpoints:
       addParams:
         reasoning:
           exclude: true
+
+webSearch:
+  searchProvider: "tavily"
+  scraperProvider: "tavily"
+  tavilyApiKey: "${TAVILY_API_KEY}"
+  rerankerType: "none"
 
 balance:
   enabled: true
@@ -346,6 +352,3 @@ modelSpecs:
       default: true
       showIconInMenu: true
       showIconInHeader: true
-      preset:
-        endpoint: "agents"
-        agent_id: "agent_6llV0eMu4fmIaj8f2x1Sb"
