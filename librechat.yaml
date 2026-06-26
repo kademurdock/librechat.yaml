@@ -13,6 +13,9 @@ endpoints:
       titleModel: "z-ai/glm-5.2"
       modelDisplayLabel: "OpenRouter"
       dropParams: ["stop"]
+      addParams:
+        reasoning:
+          exclude: true
 
 balance:
   enabled: true
