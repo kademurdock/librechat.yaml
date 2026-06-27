@@ -48,6 +48,7 @@ memory:
 
 interface:
   customWelcome: "Welcome to Kade-AI, {{user.name}} — my corner of the internet where you build your own AI character and I quietly foot the bill. Pick a model, give it a personality, and have fun in here. (If you ever want to chip in toward server costs, no pressure at all: paypal.me/kademurdock)"
+  customFooter: "[🎙️ Voice Library](https://inworld-tts-proxy-production.up.railway.app/voices) | [💛 Help cover server costs](https://paypal.me/kademurdock)"
   termsOfService:
     modalAcceptance: true
     modalTitle: "Kade-AI House Rules"
