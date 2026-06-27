@@ -344,7 +344,7 @@ speech:
       cacheTTS: true
 
 modelSpecs:
-  enforce: false
+  enforce: true
   prioritize: true
   addedEndpoints:
     - agents
@@ -358,4 +358,5 @@ modelSpecs:
       preset:
         endpoint: "agents"
         agent_id: "agent_6llV0eMu4fmIaj8f2x1Sb"
+
 
