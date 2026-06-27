@@ -339,7 +339,7 @@ speech:
     textToSpeech:
       engineTTS: "openai"
       voice: "alloy"
-      automaticPlayback: false
+      automaticPlayback: true
       cacheTTS: true
 
 modelSpecs:
@@ -357,3 +357,4 @@ modelSpecs:
       preset:
         endpoint: "agents"
         agent_id: "agent_6llV0eMu4fmIaj8f2x1Sb"
+
