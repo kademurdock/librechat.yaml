@@ -117,12 +117,6 @@ speech:
       apiKey: "placeholder"
       model: "tts-1"
       voices:
-        - "alloy"
-        - "echo"
-        - "fable"
-        - "onyx"
-        - "nova"
-        - "shimmer"
         - "Abby"
         - "Alaric"
         - "Alex"
@@ -342,7 +336,7 @@ speech:
       autoTranscribeAudio: true
     textToSpeech:
       engineTTS: "openai"
-      voice: "alloy"
+      voice: "Sarah"
       automaticPlayback: true
       cacheTTS: true
 
