@@ -16,6 +16,9 @@ endpoints:
       addParams:
         reasoning:
           exclude: false
+      customParams:
+        reasoningKey: "reasoning"
+        includeReasoningHistory: true
 
 webSearch:
   searchProvider: "tavily"
@@ -355,6 +358,7 @@ modelSpecs:
       preset:
         endpoint: "agents"
         agent_id: "agent_6llV0eMu4fmIaj8f2x1Sb"
+
 
 
 
