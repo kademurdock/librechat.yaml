@@ -50,11 +50,24 @@ memory:
       When you do write, keep it short: plain facts, not narration or reasoning about why it matters.
 
 interface:
-  customWelcome: "Welcome to Kade-AI, {{user.name}} — my corner of the internet where you build your own AI character and I quietly foot the bill. Pick a model, give it a personality, and have fun in here. (If you ever want to chip in toward server costs, no pressure at all: paypal.me/kademurdock)"
+  customWelcome: "Welcome to Kade-AI, {{user.name}} — my corner of the internet where you build your own AI character and I quietly foot the bill. Pick a model, give it a personality, and have fun in here. (If you ever want to chip in toward server costs, no pressure at all: paypal.me/kademurdock) Voice Library: https://inworld-tts-proxy-production.up.railway.app/voices — browse and preview every TTS voice. Help: https://inworld-tts-proxy-production.up.railway.app/help — accessible help pages. Both links work great with screen readers."
   # NOTE (June 27 2026): customFooter is NOT a valid interface.* key in LibreChat's schema --
   # it gets silently stripped here and does nothing. The real footer text is set via the
   # CUSTOM_FOOTER Railway env var on the LibreChat service itself, not through this file.
   # See PROJECT_STATUS.md "footer/voice library bug" entry for the full story.
+  #
+  # NOTE (June 28 2026): the footer (which holds the Voice Library, donate, and
+  # help links) is rendered by LibreChat's Footer.tsx with Tailwind classes
+  # hidden ... sm:flex -- meaning it's removed from the DOM entirely below a
+  # 640px-wide viewport, i.e. on phones, for EVERY user regardless of assistive
+  # tech. This is an upstream LibreChat limitation, not a config bug -- there's
+  # no yaml/env-var override for it. A true fix means forking+rebuilding
+  # LibreChat's client image, which is a bigger infra decision Kade hasn't
+  # signed off on. Workaround shipped here instead: the same Voice Library and
+  # Help links are now folded into customWelcome above, since that renders as
+  # normal chat content and stays in the accessibility tree at every viewport
+  # width. Donate link was already there. This is a workaround, not a fix --
+  # flagged clearly to Kade in the June 28 2026 PROJECT_STATUS.md entry.
   termsOfService:
     modalAcceptance: true
     modalTitle: "Kade-AI House Rules"
