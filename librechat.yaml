@@ -18,7 +18,7 @@ endpoints:
           exclude: false
       customParams:
         reasoningKey: "reasoning"
-        includeReasoningHistory: true
+        includeReasoningHistory: false
 
 webSearch:
   searchProvider: "tavily"
