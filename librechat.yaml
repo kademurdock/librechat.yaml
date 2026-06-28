@@ -1,5 +1,6 @@
 version: 1.1.5
 cache: true
+fileStrategy: 's3'
 
 endpoints:
   custom:
