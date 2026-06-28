@@ -344,7 +344,7 @@ speech:
       cacheTTS: true
 
 modelSpecs:
-  enforce: true
+  enforce: false
   prioritize: true
   addedEndpoints:
     - agents
