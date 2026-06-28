@@ -15,7 +15,7 @@ endpoints:
       dropParams: ["stop"]
       addParams:
         reasoning:
-          exclude: true
+          exclude: false
       customParams:
         reasoningKey: "reasoning"
         includeReasoningHistory: false
