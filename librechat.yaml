@@ -1,3 +1,4 @@
+sha: 72ae54a46ed685fcc11bac8c3e7d6654a67e3c85
 version: 1.1.5
 cache: true
 
@@ -15,7 +16,7 @@ endpoints:
       dropParams: ["stop"]
       addParams:
         reasoning:
-          exclude: true
+          exclude: false
 
 webSearch:
   searchProvider: "tavily"
@@ -355,5 +356,6 @@ modelSpecs:
       preset:
         endpoint: "agents"
         agent_id: "agent_6llV0eMu4fmIaj8f2x1Sb"
+
 
 
