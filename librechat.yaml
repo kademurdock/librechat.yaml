@@ -51,7 +51,7 @@ memory:
       When you do write, keep it short: plain facts, not narration or reasoning about why it matters.
 
 interface:
-  customWelcome: "Welcome to Kade-AI, {{user.name}} — my corner of the internet where you build your own AI character and I quietly foot the bill. Pick a model, give it a personality, and have fun in here. Want to see what your usage actually costs and chip in if you feel like it? Open the account menu (your name, bottom-left) and choose Feed the Server, or visit kademurdock.com/feed-the-server. No pressure ever — you can also give directly at paypal.me/kademurdock. Voice Library: https://inworld-tts-proxy-production.up.railway.app/voices — browse and preview every TTS voice. Help: https://inworld-tts-proxy-production.up.railway.app/help — accessible help pages. Both links work great with screen readers."
+  customWelcome: "Welcome to Kade-AI, {{user.name}} — my corner of the internet where you build your own AI character and I quietly foot the bill. Pick a model, give it a personality, and have fun in here. Want to see what your usage actually costs and chip in if you feel like it? Open the account menu (your name, bottom-left) and choose Feed the Server, or visit kademurdock.com/feed-the-server. No pressure ever — you can also give directly at paypal.me/kademurdock. Help: https://inworld-tts-proxy-production.up.railway.app/help — accessible help pages. The help pages work great with screen readers."
   # NOTE (June 27 2026): customFooter is NOT a valid interface.* key in LibreChat's schema --
   # it gets silently stripped here and does nothing. The real footer text is set via the
   # CUSTOM_FOOTER Railway env var on the LibreChat service itself, not through this file.
