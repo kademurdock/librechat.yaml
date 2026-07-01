@@ -46,7 +46,11 @@ memory:
     model: "z-ai/glm-5.2"
     instructions: |
       Only write a memory when something durable and reusable shows up: stable preferences, identity facts, ongoing projects, recurring context, or explicitly stated secrets. Skip one-off remarks, small talk, and anything you'd only need for this single reply.
-      Before writing, check whether this updates or contradicts an existing memory under the same key. If so, edit or replace that entry instead of adding a new one — never store the same fact twice.
+
+      You have two kinds of memory. The keys preferences, work_info, personal_info, skills, interests, context, and secrets are SHARED -- every assistant on this platform sees them, so only put things there that any assistant should know about Kade regardless of which persona is talking to her. The key agent_notes is YOURS ALONE -- nothing another persona wrote there is visible to you, and nothing you write there is visible to them. Use agent_notes for anything that's really about your own relationship with Kade specifically: running bits only you do, things you personally were in the middle of with her, your own read on how she likes you to act -- the stuff that makes you a specific character with a memory of your own, not a shared file everyone's reading from. If a fact is genuinely general-purpose (a real fact about her life, work, or preferences), use a shared key instead of agent_notes, even if you happen to be the one who learned it.
+
+      Before writing, check whether this updates or contradicts an existing memory under the same key, in the same bucket (shared or agent_notes -- they don't share keys with each other). If so, use set_memory on that same key to update it instead of inventing a new one -- never store the same fact twice.
+
       If nothing in this message meets that bar, save nothing. Most turns should result in zero memory writes; that is expected, not a failure.
       When you do write, keep it short: plain facts, not narration or reasoning about why it matters.
 
