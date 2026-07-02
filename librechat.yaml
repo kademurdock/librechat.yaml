@@ -3,6 +3,23 @@ cache: true
 fileStrategy: 's3'
 
 endpoints:
+  # KADE July 2 2026: agent builder capabilities. This is the stock default
+  # list MINUS execute_code — LibreChat's hosted Code Interpreter closed its
+  # subscription to new users, so the checkbox was a dead control in every
+  # user's builder. Remove this block to restore the stock behavior.
+  agents:
+    capabilities:
+      - "deferred_tools"
+      - "file_search"
+      - "web_search"
+      - "artifacts"
+      - "subagents"
+      - "actions"
+      - "context"
+      - "skills"
+      - "tools"
+      - "chain"
+      - "ocr"
   custom:
     - name: "OpenRouter"
       apiKey: "${REFRAME_PROXY_SECRET}"
@@ -15,7 +32,10 @@ endpoints:
         # verified live on OpenRouter July 2026.
         default: [
           "z-ai/glm-5.2",              # house default — smart, reliable tools
-          "minimax/minimax-m2-her",    # companion/character-tuned (Zadiana's)
+          # "minimax/minimax-m2-her" REMOVED July 2 2026: its single OpenRouter
+          # endpoint supports NO tools param — any agent with tools on it fails
+          # near-silently with empty turns (this silently broke Zadiana for a
+          # day). Existing agents on the string would keep working; none are.
           "minimax/minimax-m3",        # flagship, sees images
           "z-ai/glm-4.7",              # cheaper GLM, solid all-rounder
           "deepseek/deepseek-v4-flash",# very cheap + fast, huge memory
