@@ -8,8 +8,25 @@ endpoints:
       apiKey: "${REFRAME_PROXY_SECRET}"
       baseURL: "https://reframe-proxy-production.up.railway.app"
       models:
-        default: ["z-ai/glm-5.2", "openai/gpt-4o-mini"]
-        fetch: true
+        # Curated picker (July 1 2026, Kade's ask — the full OpenRouter catalog
+        # was overwhelming agent builders). fetch:false pins the dropdown to
+        # this list. Any model string still WORKS if an agent already has it;
+        # this only controls what the picker offers. Every model here was
+        # verified live on OpenRouter July 2026.
+        default: [
+          "z-ai/glm-5.2",              # house default — smart, reliable tools
+          "minimax/minimax-m2-her",    # companion/character-tuned (Zadiana's)
+          "minimax/minimax-m3",        # flagship, sees images
+          "z-ai/glm-4.7",              # cheaper GLM, solid all-rounder
+          "deepseek/deepseek-v4-flash",# very cheap + fast, huge memory
+          "deepseek/deepseek-v4-pro",  # heavyweight thinker
+          "google/gemini-3-flash-preview", # fast, sees images/audio/video
+          "google/gemini-2.5-flash-lite",  # cheapest quick chat
+          "xiaomi/mimo-v2.5",          # cheap omni all-rounder
+          "openai/gpt-4o-mini",        # familiar + cheap
+          "mistralai/mistral-nemo",    # cheap creative roleplay classic
+        ]
+        fetch: false
       titleConvo: true
       titleModel: "z-ai/glm-5.2"
       modelDisplayLabel: "OpenRouter"
