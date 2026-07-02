@@ -391,10 +391,14 @@ speech:
     conversationMode: true
     advancedMode: true
     speechToText:
-      engineSTT: "openai"
+      # "openai" is not a valid engine value on this LibreChat version — the
+      # client validates against browser|external and silently RESET invalid
+      # values to "browser" (= the device's system voice, e.g. iOS Samantha).
+      # That's why fresh accounts read aloud in the system voice. (July 2 2026)
+      engineSTT: "external"
       autoTranscribeAudio: true
     textToSpeech:
-      engineTTS: "openai"
+      engineTTS: "external"
       voice: "Voice 85"
       automaticPlayback: true
       cacheTTS: true
