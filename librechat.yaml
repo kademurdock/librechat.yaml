@@ -65,8 +65,11 @@ webSearch:
   tavilyApiKey: "${TAVILY_API_KEY}"
   rerankerType: "none"
 
+# July 4 2026 (Kade hit "out of balance" MID-FORGE-TURN as admin): enforcement OFF.
+# This platform bills socially via Feed the Server, not hard caps. Spend tracking
+# is unaffected — transactions still log (separate transactions.enabled gate).
 balance:
-  enabled: true
+  enabled: false
   startBalance: 10000000
   autoRefillEnabled: true
   refillIntervalValue: 30
