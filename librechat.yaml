@@ -3,23 +3,25 @@ cache: true
 fileStrategy: 's3'
 
 endpoints:
-  # KADE July 2 2026: agent builder capabilities. This is the stock default
-  # list MINUS execute_code — LibreChat's hosted Code Interpreter closed its
-  # subscription to new users, so the checkbox was a dead control in every
-  # user's builder. Remove this block to restore the stock behavior.
+  # KADE July 4 2026: agent-builder capabilities trimmed to ONLY what this
+  # platform uses, so the builder's Capabilities section stops cluttering
+  # beginner builders with toggles for features nobody here touches.
+  # KEPT: deferred_tools (tool-loading plumbing, left on deliberately),
+  #   file_search (RAG), web_search, actions (Forge's proxy actions),
+  #   context (read uploaded files as plain text), tools (all kade_* tools).
+  # REMOVED July 4: artifacts, subagents, skills, chain, ocr — all unused on a
+  #   blind-first platform (no code-artifact/subagent/OCR use). execute_code was
+  #   already removed July 2 (hosted Code Interpreter closed signups).
+  # RESTORE any one: add its string back below + redeploy LibreChat.
+  # RESTORE stock: delete this whole "agents:" block.
   agents:
     capabilities:
       - "deferred_tools"
       - "file_search"
       - "web_search"
-      - "artifacts"
-      - "subagents"
       - "actions"
       - "context"
-      - "skills"
       - "tools"
-      - "chain"
-      - "ocr"
   custom:
     - name: "OpenRouter"
       apiKey: "${REFRAME_PROXY_SECRET}"
