@@ -67,13 +67,17 @@ webSearch:
   tavilyApiKey: "${TAVILY_API_KEY}"
   rerankerType: "none"
 
-# July 4 2026 (Kade hit "out of balance" MID-FORGE-TURN as admin): enforcement OFF.
-# This platform bills socially via Feed the Server, not hard caps. Spend tracking
-# is unaffected — transactions still log (separate transactions.enabled gate).
+# Prepaid Stage A (2026-07-05): every account (invite-code gated) starts with
+# $10 of credit (10,000,000 tokenCredits; 1,000,000 = $1). Credit is shared across
+# ALL services (LLM + TTS + images + video/audio + phone). When it runs out the
+# user asks Kade for more (NO auto-refill). ADMIN (Kade) is code-exempt everywhere
+# — she never draws down or gets capped (fixes the July 4 self-lockout). The hard
+# cutoff on CHAT is deliberately NOT enabled yet (needs existing-user seeding + a
+# supervised test); the money-heavy fal path IS hard-capped in code.
 balance:
-  enabled: false
+  enabled: true
   startBalance: 10000000
-  autoRefillEnabled: true
+  autoRefillEnabled: false
   refillIntervalValue: 30
   refillIntervalUnit: "days"
   refillAmount: 10000000
