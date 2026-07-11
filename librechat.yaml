@@ -48,6 +48,15 @@ endpoints:
           "xiaomi/mimo-v2.5",          # cheap omni all-rounder
           "openai/gpt-4o-mini",        # familiar + cheap
           "mistralai/mistral-nemo",    # cheap creative roleplay classic
+          # HERMES PILOT (July 9 2026): low-refusal "not-HR" persona models.
+          # NOTE this fork VALIDATES agent models against this list
+          # (illegal_model_request otherwise) — the old "any string works if
+          # an agent already has it" comment above is NO LONGER TRUE.
+          # CAVEAT: no OpenRouter host for these supports the tools param;
+          # the fork strips tools for them automatically (initialize.js
+          # NO_TOOLS_MODELS, commit 73baaae) — chat/persona use only.
+          "nousresearch/hermes-4-70b",  # uncensored workhorse, ~6x cheaper than glm-5.2
+          "nousresearch/hermes-4-405b", # uncensored flagship, ~glm-5.2 price
         ]
         fetch: false
       titleConvo: true
