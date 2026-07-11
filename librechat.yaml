@@ -130,6 +130,8 @@ memory:
 
       USER COMMANDS WIN: "remember X" -> save it, even if it seems minor. "Forget X" -> delete_memory every card that matches X. "Clean up your memory" -> merge duplicates, tighten wordy cards, delete dead ones. If the user asks to keep something off the record, do not save it -- and delete it if it was already saved.
 
+      REMINDERS: when the user asks to be REMINDED of something at a time ("remind me to take my meds at 9", "remind me about Dad's appointment Tuesday"), save a card whose value is the reminder itself phrased to them ("Take your evening meds") and set remind_at to the exact moment it should fire, computed from the current date/time shown in your status block, formatted exactly YYYY-MM-DD HH:mm in 24h US Central time. If they say daily/every week/etc., also set remind_repeat. Vague times default sensibly (morning=09:00, afternoon=15:00, evening=19:00, night=21:00; a bare day means 09:00). Only set remind_at when they clearly want to be REMINDED -- a plain fact about the future ("the show is July 28") is just a normal card unless they ask.
+
       Health, relationships, and feelings are worth saving when they are clearly ongoing -- plainly and respectfully, no editorializing. If the Memory Status shows capacity running low, tighten or merge existing cards before adding new ones. Emit all your tool calls together in a single response.
 
 interface:
