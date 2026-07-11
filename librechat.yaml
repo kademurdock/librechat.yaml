@@ -57,6 +57,9 @@ endpoints:
           # NO_TOOLS_MODELS, commit 73baaae) — chat/persona use only.
           "nousresearch/hermes-4-70b",  # uncensored workhorse, ~6x cheaper than glm-5.2
           "nousresearch/hermes-4-405b", # uncensored flagship, ~glm-5.2 price
+          # PILOTS round 2 (July 9 2026 late): tool-CAPABLE less-corporate brains.
+          "sao10k/l3.1-euryale-70b",    # RP-community favorite, host supports tools
+          "mistralai/mistral-small-2603", # light-alignment, tools + thinking, cheap
         ]
         fetch: false
       titleConvo: true
