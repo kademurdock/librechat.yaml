@@ -60,6 +60,10 @@ endpoints:
           # PILOTS round 2 (July 9 2026 late): tool-CAPABLE less-corporate brains.
           "sao10k/l3.1-euryale-70b",    # RP-community favorite, host supports tools
           "mistralai/mistral-small-2603", # light-alignment, tools + thinking, cheap
+          # LYRIC CANDIDATES (staged July 13 2026, Kade's pick pending — bars test
+          # July 11 showed both far outclass hermes-405b on rhyme density):
+          "moonshotai/kimi-k2.5",       # 1T MoE, $0.38/$2.02, non-thinking = persona-fast
+          "x-ai/grok-4.20",             # $1.25/$2.50, 2M ctx, bars-test co-champion
         ]
         fetch: false
       titleConvo: true
