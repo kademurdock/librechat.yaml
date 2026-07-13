@@ -77,31 +77,6 @@ endpoints:
         reasoningKey: "reasoning"
         includeReasoningHistory: false
 
-    # ── KADE July 13 2026: DIRECT DeepSeek endpoint so Kiana gets VISION ──────
-    # WHY: OpenRouter's deepseek-v4-pro (and every deepseek on OR) is TEXT-ONLY;
-    # DeepSeek's OWN API is multimodal (image_url in message content arrays).
-    # This endpoint hits api.deepseek.com directly, BYPASSING the reframe proxy.
-    #   - Native tool calls (verified) → no shim needed, works better than shim.
-    #   - Context caching: cache-HIT input is $0.003625/M vs $0.435/M miss, so the
-    #     repeated 6K-token persona is ~99% cheaper on repeat turns → this is
-    #     CHEAPER than OpenRouter for Kiana, not just vision.
-    #   - TRADEOFFS vs going through reframe: (a) no reframe friendly-out-of-credits
-    #     rewrite (raw DeepSeek errors on Kiana's chat), (b) the per-message Deep
-    #     Think [marker] isn't interpreted here — Kiana's thinking is controlled by
-    #     her agent model_parameters instead (default non-thinking for snappiness).
-    # SETUP: needs Railway env DEEPSEEK_API_KEY on the LibreChat service, then a
-    #   MANUAL redeploy (this yaml is CONFIG_PATH — inert until redeploy).
-    # base_url + model strings per api-docs.deepseek.com (verified July 13 2026).
-    - name: "DeepSeek"
-      apiKey: "${DEEPSEEK_API_KEY}"
-      baseURL: "https://api.deepseek.com"
-      models:
-        default: ["deepseek-v4-pro", "deepseek-v4-flash"]
-        fetch: false
-      titleConvo: true
-      titleModel: "deepseek-v4-flash"
-      modelDisplayLabel: "DeepSeek"
-      dropParams: ["stop"]
 
 webSearch:
   searchProvider: "tavily"
