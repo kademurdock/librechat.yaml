@@ -68,6 +68,9 @@ endpoints:
         fetch: false
       titleConvo: true
       titleModel: "z-ai/glm-5.2"
+      # Custom title prompt (July 14 2026): the default produced generic names. Ask for
+      # short, specific titles that name the real topic. Plain text, no quotes/emoji.
+      titlePrompt: "Write a concise, specific title for the conversation: 3 to 7 words that name the actual topic or what the user wanted, not a generic label. Plain text only, no surrounding quotes, no trailing punctuation, no emoji. If it is casual, name the vibe. Good examples: Planning Skylee's birthday call; Fixing the phone voice switch; Curious about Adam Green's art. Avoid vague titles like Conversation, User question, or Chat."
       modelDisplayLabel: "OpenRouter"
       dropParams: ["stop"]
       addParams:
@@ -127,6 +130,8 @@ memory:
 
       WHAT TO SAVE: durable, reusable things. Identity facts, the people and pets in the user's life, ongoing health situations, tastes and dislikes, how they like to be talked to, running projects, plans with dates, strong feelings. If it would still matter in a month, save it. If it's one-off chatter, a this-message-only detail, or something needed only for the current reply, let it go. Most turns should save NOTHING -- that is success, not failure.
 
+      QUESTIONS ARE NOT PREFERENCES: a user ASKING about something is not evidence they like it, care about it, or want it remembered. "Tell me about Adam Green," "what is X," "who is Y," "look that up" are curiosity -- never save the subject of a question, a search, or something you just described, as an interest or a fact about the user. Only save an interest when they plainly claim it themselves ("I love X," "I'm really into Y," "X is my favorite"). When you are unsure whether something is durable, DON'T save it: a missed save is one "remember that" away, but a wrong save is clutter the user has to hunt down and delete.
+
       HOW TO LISTEN: write like a person, not a recorder. Capture the gist and why it matters, in one or two plain sentences. Never transcribe the conversation, never log what was done turn by turn, never quote whole messages back.
 
       CARDS: one topic per card, ideally under ~60 tokens, under a short snake_case key that names the topic (dad_health, concert_crew, cat_kasper, hates_cilantro). Before writing, check the existing cards above: if the new fact belongs to an existing card's topic, call set_memory on that SAME key with the updated whole truth (it replaces the old value) -- never create a near-duplicate key. Never pile unrelated facts into one card.
@@ -138,6 +143,8 @@ memory:
       REMINDERS: when the user asks to be REMINDED of something at a time ("remind me to take my meds at 9", "remind me about Dad's appointment Tuesday"), save a card whose value is the reminder itself phrased to them ("Take your evening meds") and set remind_at to the exact moment it should fire, computed from the current date/time shown in your status block, formatted exactly YYYY-MM-DD HH:mm in 24h US Central time. If they say daily/every week/etc., also set remind_repeat. Vague times default sensibly (morning=09:00, afternoon=15:00, evening=19:00, night=21:00; a bare day means 09:00). Only set remind_at when they clearly want to be REMINDED -- a plain fact about the future ("the show is July 28") is just a normal card unless they ask.
 
       Health, relationships, and feelings are worth saving when they are clearly ongoing -- plainly and respectfully, no editorializing. If the Memory Status shows capacity running low, tighten or merge existing cards before adding new ones. Emit all your tool calls together in a single response.
+
+      LETTING GO: when you clean up or consolidate, don't only merge and tighten -- also DROP cards that turned out to be one-off curiosities, stale this-moment details, or topics that never came up again and are not durable facts about the user. NEVER drop identity, health, family or relationships, promises a character made, reminders, or anything the user pinned by saying "remember." A short, true memory beats a long one.
 
 interface:
   customWelcome: "Welcome to Kade-AI, {{user.name}} — Kade's own corner of the internet, where you chat with AI characters and she quietly foots the bill. No instructions needed: type like you'd text a friend, and your character takes it from there. Brand new to AI? There's a two-minute, plain-language guide at kademurdock.com/help/start-here — the whole help center is written for beginners and works beautifully with screen readers. Everything fun (the Debate Room, your creations, what your chats cost) lives under your account menu, bottom-left, in Explore. And if anything ever feels broken or confusing, tell Kade — the site gets better every time someone speaks up."
