@@ -71,6 +71,15 @@ endpoints:
       # Custom title prompt (July 14 2026): the default produced generic names. Ask for
       # short, specific titles that name the real topic. Plain text, no quotes/emoji.
       titlePrompt: "Write a concise, specific title for the conversation: 3 to 7 words that name the actual topic or what the user wanted, not a generic label. Plain text only, no surrounding quotes, no trailing punctuation, no emoji. If it is casual, name the vibe. Good examples: Planning Skylee's birthday call; Fixing the phone voice switch; Curious about Adam Green's art. Avoid vague titles like Conversation, User question, or Chat."
+      # titleTiming (July 16 2026): default 'immediate' generates the title from
+      # ONLY the user's first message, in parallel with the reply -- fine when
+      # that first message is already specific, but this is a voice-first app
+      # where people often open with something short/vague ("hey", "quick
+      # question") before getting to the real topic, so even a great prompt has
+      # little to work with. 'final' waits for the full exchange (small delay,
+      # title lands once the reply finishes instead of instantly) and titles
+      # off what the conversation actually turned out to be about.
+      titleTiming: "final"
       modelDisplayLabel: "OpenRouter"
       dropParams: ["stop"]
       addParams:
