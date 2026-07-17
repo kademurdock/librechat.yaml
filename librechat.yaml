@@ -67,7 +67,13 @@ endpoints:
         ]
         fetch: false
       titleConvo: true
-      titleModel: "z-ai/glm-5.2"
+      # titleModel (July 16 2026): swapped OFF glm-5.2 — it's a REASONING model,
+      # and through the reframe streaming path its hidden think block could end
+      # up inside the generated title (Kade: "junk in titles"). gemini-2.5-flash-lite
+      # is the cheapest non-thinking model in the picker: clean one-line titles,
+      # faster, fraction of the cost. The fork's sanitizeTitle also got hardened
+      # the same day (PUA sentinels, %%% tags, cue tokens, quote wrappers).
+      titleModel: "google/gemini-2.5-flash-lite"
       # Custom title prompt (July 14 2026): the default produced generic names. Ask for
       # short, specific titles that name the real topic. Plain text, no quotes/emoji.
       titlePrompt: "Write a concise, specific title for the conversation: 3 to 7 words that name the actual topic or what the user wanted, not a generic label. Plain text only, no surrounding quotes, no trailing punctuation, no emoji. If it is casual, name the vibe. Good examples: Planning Skylee's birthday call; Fixing the phone voice switch; Curious about Adam Green's art. Avoid vague titles like Conversation, User question, or Chat."
@@ -195,7 +201,7 @@ interface:
       No illegal nonsense, no harassing other people on here, no using this to hurt anybody. Build funny characters, weird characters, brilliant characters — just keep it not-evil.
 
       ## 4. The Tokens Aren't Free (To Me)
-      Every message you fire off costs me real money behind the curtain. You get a fresh ~$10 allowance each month; use it, enjoy it, but don't park a script in here cranking out a novel every thirty seconds. Run dry and you're paused till it resets (or ask me nicely).
+      Every message you fire off costs me real money behind the curtain. Your account starts with $10 of credit on the house, and everything draws from it at exactly what it costs — no markup. Use it, enjoy it, but don't park a script in here cranking out a novel every thirty seconds. Run dry and things pause until you top up through the PayPal button (put your NAME in the note) — or just talk to me.
 
       ## 5. No Warranty, No Promises
       This is run by one person, not a Fortune 500. It might go down. It might say something gloriously dumb. If it breaks I'll probably fix it, but I'm not legally on the hook if the robot whiffs or the site takes an afternoon nap.
