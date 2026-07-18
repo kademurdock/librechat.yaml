@@ -6,6 +6,21 @@ Why this repo: `librechat.yaml` has no auto-deploy webhook, so commits here neve
 
 ---
 
+## [2026-07-18 — Cowork] Forge back to glm-5.2 + 105 agents moved to deepseek-v4-pro
+
+**What changed (Kade's explicit ask, both halves):**
+- **Forge reverted:** `moonshotai/kimi-k3` → `z-ai/glm-5.2` (provider `OpenRouter`), `model_parameters` carried forward byte-identical (`{temperature: 0.7, frequency_penalty: 0.3, presence_penalty: 0.2, promptCacheTtl: "1h", reasoning_effort: "none", top_p: 0.9, maxContextTokens: 1000000}`). Verified by fresh independent GET: model correct, 42 tools + 6 actions intact, now v59. The K3 experiment lasted one day — the July-17 "reasoning always-on, 4–6x cost" heads-up is moot now. Backup: `backups/forge_backup_pre_glm52_return_20260718.json` (Kade's local folder).
+- **Marketplace fleet:** the 104 personas that were on `z-ai/glm-5.2` PLUS Muse (last Hermes 405B holdout) → `deepseek/deepseek-v4-pro` (via OpenRouter, same as Kiana & co., NOT the direct DeepSeek endpoint). 105 PATCHes, each agent's own `model_parameters` kept unchanged with `reasoning_effort` carried forward. Paced 4s/call, zero failures. Spot-verified by fresh GETs (9-agent spread + Kiana + Muse): models landed, tool counts unchanged, Forge's 42 tools re-checked after the batch per the standing rule.
+- **Deliberately NOT moved (Kade delegated "best judgement based on what they can do"):** the 86-agent July-17 batch stays on `deepseek/deepseek-v4-flash` (same DeepSeek v4 family, same persona job, ~4.4x cheaper — pro buys them nothing); the 23 vision agents stay on `minimax/minimax-m3` (they need vision; OpenRouter's DeepSeek has been text-only).
+
+**Model roster (live-verified, all 221 agents individually GET'd this session):** Forge = `z-ai/glm-5.2`. Kiana/Zadiana/Deuce/Lyric/Cadence (+1 more special) = `deepseek/deepseek-v4-pro` (unchanged, were already there). 104 personas + Muse = `deepseek/deepseek-v4-pro` (NEW). 86 new-batch personas = `deepseek/deepseek-v4-flash`. 23 vision agents = `minimax/minimax-m3`. Hermes is now fully retired from the fleet. → 111 of 221 on v4-pro.
+
+**Also resolved from July-17 "unconfirmed":** the 104-agent batch DID complete — live count is exactly 221.
+
+**Revert:** full pre-change records of all 221 agents: `backups/fleet_records_pre_deepseekpro_20260718.zip`; per-agent old model + `model_parameters` for the 105 switched: `backups/rollback_list_deepseekpro_20260718.json` (both in Kade's local folder). Rollback = PATCH each id back to `old_model` with `old_model_parameters`.
+
+**Watch for:** nothing structural — v4-pro was already proven on Kiana & co. If a persona sounds off, it's tuning (their glm-era `temperature: 1` came along unchanged), not plumbing.
+
 ## [2026-07-17, session 5 — Cowork] Forge switched to Kimi K3 + this file created
 
 **What changed:**
