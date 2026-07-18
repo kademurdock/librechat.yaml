@@ -74,9 +74,13 @@ endpoints:
       # faster, fraction of the cost. The fork's sanitizeTitle also got hardened
       # the same day (PUA sentinels, %%% tags, cue tokens, quote wrappers).
       titleModel: "google/gemini-2.5-flash-lite"
-      # Custom title prompt (July 14 2026): the default produced generic names. Ask for
-      # short, specific titles that name the real topic. Plain text, no quotes/emoji.
-      titlePrompt: "Write a concise, specific title for the conversation: 3 to 7 words that name the actual topic or what the user wanted, not a generic label. Plain text only, no surrounding quotes, no trailing punctuation, no emoji. If it is casual, name the vibe. Good examples: Planning Skylee's birthday call; Fixing the phone voice switch; Curious about Adam Green's art. Avoid vague titles like Conversation, User question, or Chat."
+      # Custom title prompt (July 14 2026; REWRITTEN July 18 2026): the July-14
+      # version included literal examples with real names ("Planning Skylee's
+      # birthday call") and the small title model COPIED the example pattern on
+      # long/messy conversations instead of reading them — that's where
+      # hallucinated titles like "planning for aunt carol's visit" came from.
+      # No examples now; an explicit no-invention rule does the work.
+      titlePrompt: "Write a concise, specific title for the conversation: 3 to 7 words naming the actual topic or what the user wanted. Use ONLY words, names, and topics that literally appear in the conversation — NEVER invent people, events, or subjects that are not in it. If the topic is unclear, use the most specific words the user actually said. Plain text only, no surrounding quotes, no trailing punctuation, no emoji. Avoid vague titles like Conversation, User question, or Chat."
       # titleTiming (July 16 2026): default 'immediate' generates the title from
       # ONLY the user's first message, in parallel with the reply -- fine when
       # that first message is already specific, but this is a voice-first app
