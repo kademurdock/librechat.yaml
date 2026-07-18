@@ -6,6 +6,19 @@ Why this repo: `librechat.yaml` has no auto-deploy webhook, so commits here neve
 
 ---
 
+## [2026-07-18, session 2 — Cowork] Streaming/Spotter outage FIXED end-to-end; 86 flash agents -> v4-pro; memory store cleaned
+
+**The outage (Kade's account only): root-caused AND permanently fixed this session.** Bridge `voice-stream.js` `verifyWebTicket` rejected tickets > 4096 chars; the July-17 Whittney persona upgrade (7,107 chars, riding inside the web-voice ticket) made her tickets ~10KB -> every streaming call 4401'd at hello -> app silently fell back to the classic engine (no barge-in, manual interrupt button, Spotter never engaged -> "confused Kiana"). The July-17 12k persona-cap raise missed this one guard.
+**Shipped (all verified byte-for-byte after commit, all live):**
+- kade-ai-bridge `3094cd1` — ticket guard 4096 -> 20480 (fits base64url of the 12k persona cap). Auto-deployed, health rev confirmed. END-TO-END PROVEN: a real 10,034-char ticket accepted, streaming up, `live-state on`, Whittney handoff line spoken.
+- inworld-tts-proxy `ce97ab7` — `server.js` JSON body limit 100kb -> 2mb so `/github/commit` can carry whole large files (it choked at 413 on the 141KB voice-stream.js).
+- librechat.yaml `f3130db` — titlePrompt REWRITTEN: the July-14 prompt embedded literal example titles with real names ("Planning Skylee's birthday call") and the cheap title model copied the pattern on long/messy conversations — that's the "planning for aunt carol's visit" bug. No examples now; explicit never-invent rule. **AWAITING a manual Railway redeploy/restart of the LibreChat service to take effect** (this repo has no webhook; the yaml is read at boot).
+- Whittney's FULL 7,107-char persona restored via the spotter API (a condensed 2,294-char version was live for ~2 hours tonight as the interim mitigation).
+**Memory store cleaned (Kade approved "apply it all"):** 77 -> 55 entries, 69% -> 52% token usage, zero same-key dupes left. The two agent-misleading entries FIXED: `forge_deploy_rules` (killed the obsolete "GitHub webhooks broken since July 1" claim — Forge: auto-deploy on push WORKS on fork/inworld/bridge; librechat.yaml still needs manual redeploy; don't hoard commits) and `kiana_details` (model roster claims removed — model facts live in THIS file, never in memories). **Mechanism found:** the memory-writer duplicates shared facts into per-agent buckets (Cadence's card carried the whole July-12 duplicate wave; Rio had a stray) — the UI merges buckets so it looks like one list, and deletes only hit the shared bucket by default. Watch for dupes creeping back after audio sessions. Before/after snapshots in Kade's local backups folder.
+**Fleet (2nd move today):** the 86-agent July-17 batch `deepseek-v4-flash` -> `deepseek/deepseek-v4-pro` (Kade's capability-first call). **Roster now: 197/221 on v4-pro** (everything except 23 vision agents on minimax-m3 and Forge on z-ai/glm-5.2). Hermes fully retired. Zero PATCH failures; Forge's 42 tools re-verified after the batch.
+**SECURITY — ACTION FOR KADE: rotate `GITHUB_PROXY_SECRET`** (it was pasted into the Cowork chat to enable tonight's commits): new value on the inworld-tts-proxy Railway service env + update the bearer on Forge's github action. Until rotated, that chat transcript can commit to the repos the PAT covers.
+**Also:** Forge's `d66c81c` push of this file audited byte-for-byte — clean. Railway bill question answered for Kade (~92% is always-on memory rent, not activity; candidate trims documented in her local PROJECT_STATUS).
+
 ## [2026-07-18 — Cowork] Forge back to glm-5.2 + 105 agents moved to deepseek-v4-pro
 
 **What changed (Kade's explicit ask, both halves):**
