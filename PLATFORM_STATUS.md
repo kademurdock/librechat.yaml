@@ -6,6 +6,13 @@ Why this repo: `librechat.yaml` has no auto-deploy webhook, so commits here neve
 
 ---
 
+## [2026-07-18, session 3 — Cowork] Consolidation timer shipped then superseded same night; secret rotated; title fix live; writer anti-dupe rule
+
+**Bridge `c46c27f`:** the staged weekly memory-consolidation timer landed on kade-ai-bridge (Sundays 04:00 Central, shared + 5 dupe-prone agent buckets) — **then investigation found the fork's own July-1 `startMemoryConsolidationSweep` is ALIVE and WORKING** (boot log confirmed on tonight's deploy: hourly check, fires Sunday 09:00 UTC platform-wide, all users). Last session's "nothing ever scheduled it" was wrong — the July-12 dupe wave simply landed Sunday AFTERNOON, hours after that morning's sweep; next pass was always going to be July 19. Both timers would have double-fired at the same hour (4am CDT = 09:00 UTC), so the bridge timer is now OFF via `MEMCONSOLIDATE_ENABLED=false` env + redeploy — code stays as a warm spare (flip the env to re-arm). The fork sweep remains the one true scheduler.
+**Root cause actually fixed (this commit, librechat.yaml):** the memory-writer's instructions now forbid restating shared-card facts inside agent-scope cards ("NEVER COPY ACROSS SCOPES") — that cross-bucket copying is what the July-18 audit found (Cadence carrying the whole dupe wave) and what per-bucket consolidation can never merge. **Needs the manual LibreChat redeploy that ships with this commit — done same session.** Watch after audio sessions: agent buckets should stop regrowing shared facts.
+**Also closed tonight:** manual LibreChat redeploy — the `f3130db` titlePrompt fix is LIVE (deploy SUCCESS 06:45 UTC); **`GITHUB_PROXY_SECRET` ROTATED** (new value on inworld-tts-proxy, Forge's github action `9lilxv3GtCumN8DRac2AP` bearer updated, verified end-to-end: new secret reads, wrong secret 401s, Forge still 42 tools/6 actions v60). The July-18 pasted secret is dead. Whittney's full persona was already restored last session.
+**For Forge:** nothing pending on you from this session. Railway API + GitHub pushes both worked from this Cowork seat.
+
 ## [2026-07-18, session 2 — Cowork] Streaming/Spotter outage FIXED end-to-end; 86 flash agents -> v4-pro; memory store cleaned
 
 **The outage (Kade's account only): root-caused AND permanently fixed this session.** Bridge `voice-stream.js` `verifyWebTicket` rejected tickets > 4096 chars; the July-17 Whittney persona upgrade (7,107 chars, riding inside the web-voice ticket) made her tickets ~10KB -> every streaming call 4401'd at hello -> app silently fell back to the classic engine (no barge-in, manual interrupt button, Spotter never engaged -> "confused Kiana"). The July-17 12k persona-cap raise missed this one guard.
