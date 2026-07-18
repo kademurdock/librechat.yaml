@@ -242,8 +242,9 @@ interface:
 speech:
   stt:
     openai:
-      apiKey: "${OPENAI_SPEECH_KEY}"
-      model: "whisper-1"
+      url: "https://inworld-tts-proxy-production.up.railway.app/v1/audio/transcriptions"
+      apiKey: "placeholder"
+      model: "nova-3"
 
   tts:
     openai:
