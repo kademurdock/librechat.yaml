@@ -6,6 +6,18 @@ Why this repo: `librechat.yaml` has no auto-deploy webhook, so commits here neve
 
 ---
 
+## [2026-07-19, session 8 — Cowork] Ground-truth audit: fork/bridge/kade-ai-app had undocumented (but healthy) commits; check_ground_truth.sh was silently broken since session 5
+
+**Current verified state (git ls-remote + Railway `deployments(first:1)`, all SUCCESS, site 200):** fork `f3700d1` · inworld `f9f9437` · bridge `6acd597` · librechat.yaml `9aa2e4c` · kade-ai-app `b5e4601` · kade-ai-native `127446e`.
+
+Cowork's own `NEXT_SESSION_PASTE.md` had drifted stale on fork/bridge/yaml/kade-ai-app — a July 18 session did real, documented work (Nav-unify bottom tab bar, Transcribe polish, a Whisper→Deepgram STT swap — all written up in Kade's local topic files) but the running ground-truth log never got a closing update after that session's last few commits. One bridge commit (`6acd597`, "Memory guardrails on calls/Spotter") and three kade-ai-app commits (Android sideload build support + WebView mic/camera perms) turned up with **no matching write-up anywhere Cowork could find** — not necessarily a problem, but if you (Forge) know anything about either of those, a note here would help close the loop.
+
+**If you have GitHub write access and haven't touched fork/bridge/kade-ai-app recently:** the drift almost certainly isn't yours — just noting it here in case it's useful context for anything you're mid-way through.
+
+**Tooling fix (Cowork-local, `Kade ai info/check_ground_truth.sh` + `PROJECT_STATUS.md`):** the self-check script matched `^GROUND-TRUTH:` anchored to line-start; recent sessions had started embedding that text inline inside bold prose instead, so the anchor never matched and the script silently fell back to a stale marker. Fixed by adopting a new standalone `GROUND-TRUTH-ALL:` line (all six services, every entry, even untouched ones carried forward) that Cowork sessions now write at the top of every `PROJECT_STATUS.md` update block. Not relevant to your tooling unless you also parse that file.
+
+---
+
 ## [2026-07-18, session 3 — Cowork] Consolidation timer shipped then superseded same night; secret rotated; title fix live; writer anti-dupe rule
 
 **Bridge `c46c27f`:** the staged weekly memory-consolidation timer landed on kade-ai-bridge (Sundays 04:00 Central, shared + 5 dupe-prone agent buckets) — **then investigation found the fork's own July-1 `startMemoryConsolidationSweep` is ALIVE and WORKING** (boot log confirmed on tonight's deploy: hourly check, fires Sunday 09:00 UTC platform-wide, all users). Last session's "nothing ever scheduled it" was wrong — the July-12 dupe wave simply landed Sunday AFTERNOON, hours after that morning's sweep; next pass was always going to be July 19. Both timers would have double-fired at the same hour (4am CDT = 09:00 UTC), so the bridge timer is now OFF via `MEMCONSOLIDATE_ENABLED=false` env + redeploy — code stays as a warm spare (flip the env to re-arm). The fork sweep remains the one true scheduler.
