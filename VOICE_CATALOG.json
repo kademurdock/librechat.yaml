@@ -1,0 +1,3262 @@
+{
+ "Voice 1": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Smooth",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "Warm, outgoing, and eagerly friendly with a conversational, gossipy tone.",
+  "nickname": "Enthusiastic Neighbor"
+ },
+ "Voice 2": {
+  "gender": "Male",
+  "age": "Middle-aged",
+  "pitch": "Low-mid",
+  "texture": "Gravelly",
+  "accent": "American",
+  "energy": "Medium-high",
+  "vibe": "A warm, welcoming neighbor eager to catch up on the latest local gossip.",
+  "nickname": "Welcoming Neighbor"
+ },
+ "Voice 3": {
+  "gender": "Male",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Smooth",
+  "accent": "American (African American)",
+  "energy": "High",
+  "vibe": "Warm, enthusiastic, and welcoming, sounding like an approachable friend sharing exciting news.",
+  "nickname": "Warm Friendly Pal"
+ },
+ "Voice 4": {
+  "gender": "male",
+  "age": "middle-aged",
+  "pitch": "low",
+  "texture": "raspy",
+  "accent": "American",
+  "energy": "low",
+  "vibe": "A warm, relaxed, and welcoming character who invites casual conversation with friendly intimacy.",
+  "nickname": "Cozy Smalltown Neighbor"
+ },
+ "Voice 5": {
+  "gender": "Female",
+  "age": "Child",
+  "pitch": "Mid-High",
+  "texture": "Breathy",
+  "accent": "American",
+  "energy": "Moderate",
+  "vibe": "A warm and inquisitive young voice, ideal for friendly chatter and youthful characters.",
+  "nickname": "Curious Young Friend"
+ },
+ "Voice 6": {
+  "gender": "Female",
+  "age": "Young adult",
+  "pitch": "Medium-high",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "Medium-high",
+  "vibe": "Warm, welcoming, and friendly with an inviting, conversational tone.",
+  "nickname": "Cheerful Neighbor"
+ },
+ "Voice 7": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "High",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "Warm, enthusiastic, and welcoming with a bright conversational energy.",
+  "nickname": "Energetic Friend"
+ },
+ "Voice 8": {
+  "gender": "male",
+  "age": "middle-aged",
+  "pitch": "low-pitched",
+  "texture": "gravelly",
+  "accent": "American",
+  "energy": "low",
+  "vibe": "A warm, conversational voice with a relaxed and welcoming tone that feels like a friendly neighbor.",
+  "nickname": "Warm Riverfront Host"
+ },
+ "Voice 9": {
+  "gender": "Female",
+  "age": "Child",
+  "pitch": "High",
+  "texture": "Breathy",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "An enthusiastic and bubbly young character full of curiosity and warmth.",
+  "nickname": "Cheerful Anime Kid"
+ },
+ "Voice 10": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "High",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "An upbeat, enthusiastic friend who brings warm energy to every conversation.",
+  "nickname": "Cheerful Companion"
+ },
+ "Voice 11": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Smooth",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "Warm, enthusiastic, and welcoming, perfectly suited for an inviting and conversational host or friend.",
+  "nickname": "Welcoming Friend"
+ },
+ "Voice 12": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "General American",
+  "energy": "High",
+  "vibe": "Warm, enthusiastic, and eager to catch up like an excited close friend.",
+  "nickname": "Enthusiastic Companion"
+ },
+ "Voice 13": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Smooth",
+  "accent": "American",
+  "energy": "Medium-High",
+  "vibe": "An expressive and welcoming speaker who comes across as warm, conversational, and eager to chat.",
+  "nickname": "Welcoming Friend"
+ },
+ "Voice 14": {
+  "gender": "female",
+  "age": "young adult",
+  "pitch": "medium-high",
+  "texture": "smooth",
+  "accent": "american",
+  "energy": "medium-high",
+  "vibe": "Welcoming and energetic with a conversational, friendly charm.",
+  "nickname": "Warm Conversationalist"
+ },
+ "Voice 15": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "High",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "An enthusiastic and friendly neighbor who is always eager to chat and share news.",
+  "nickname": "Energetic Friendly Neighbor"
+ },
+ "Voice 16": {
+  "gender": "Female",
+  "age": "Teen",
+  "pitch": "High",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "An enthusiastic and bubbly friend who is eager to chat and hear the latest gossip.",
+  "nickname": "Eager Companion"
+ },
+ "Voice 17": {
+  "gender": "male",
+  "age": "middle-aged",
+  "pitch": "low",
+  "texture": "gravelly",
+  "accent": "American",
+  "energy": "high",
+  "vibe": "A boisterous and theatrical tavern character eager to hear the latest gossip.",
+  "nickname": "Jolly Tavern Host"
+ },
+ "Voice 18": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Smooth",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "Warm, welcoming, and enthusiastically conversational like a friendly neighbor.",
+  "nickname": "Friendly Neighbor"
+ },
+ "Voice 19": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "High",
+  "texture": "Smooth",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "An upbeat and eager voice that sounds like a cheerful friend spilling exciting gossip.",
+  "nickname": "Eager Companion"
+ },
+ "Voice 20": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "High",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "Bright, welcoming, and eager to chat like a bubbly friend.",
+  "nickname": "Cheerful Companion"
+ },
+ "Voice 21": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Smooth",
+  "accent": "American",
+  "energy": "Medium-High",
+  "vibe": "Warm, welcoming, and delightfully curious, like a friendly neighbor inviting you in for a cozy chat.",
+  "nickname": "Warm Host"
+ },
+ "Voice 22": {
+  "gender": "Female",
+  "age": "Young adult",
+  "pitch": "Medium-high",
+  "texture": "Clear",
+  "accent": "General American",
+  "energy": "High",
+  "vibe": "Welcoming and eagerly enthusiastic with an upbeat, friendly tone.",
+  "nickname": "Friendly Neighbor"
+ },
+ "Voice 23": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "An enthusiastic and friendly voice that sounds warm, welcoming, and expressive.",
+  "nickname": "Bubbly Host"
+ },
+ "Voice 24": {
+  "gender": "female",
+  "age": "young adult",
+  "pitch": "medium-high",
+  "texture": "clear",
+  "accent": "American",
+  "energy": "high",
+  "vibe": "A bubbly and welcoming friend eager to catch up on the latest gossip.",
+  "nickname": "Energetic Friend"
+ },
+ "Voice 25": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "An enthusiastic, warm, and welcoming friend eager to hear the latest gossip.",
+  "nickname": "Welcoming Friend"
+ },
+ "Voice 26": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Smooth",
+  "accent": "American",
+  "energy": "Medium-High",
+  "vibe": "Warm, welcoming, and eager to chat like a friendly neighbor.",
+  "nickname": "Welcoming Neighbor"
+ },
+ "Voice 27": {
+  "gender": "male",
+  "age": "middle-aged",
+  "pitch": "deep",
+  "texture": "warm",
+  "accent": "American",
+  "energy": "relaxed",
+  "vibe": "An inviting and friendly tone that makes anyone feel instantly comfortable and at home.",
+  "nickname": "Welcoming Host"
+ },
+ "Voice 28": {
+  "gender": "Male",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Smooth",
+  "accent": "American",
+  "energy": "Low",
+  "vibe": "Warm, welcoming, and relaxed, perfect for friendly, casual, and conversational roles.",
+  "nickname": "Welcoming Friend"
+ },
+ "Voice 29": {
+  "gender": "Female",
+  "age": "Child",
+  "pitch": "High",
+  "texture": "Bright",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "Energetic and warmly enthusiastic with a playful, curious charm.",
+  "nickname": "Lively Youngster"
+ },
+ "Voice 30": {
+  "gender": "Female",
+  "age": "Teen",
+  "pitch": "High",
+  "texture": "Bright",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "A warm, inquisitive, and enthusiastic friend eager to catch up on local gossip.",
+  "nickname": "Enthusiastic Neighbor"
+ },
+ "Voice 31": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Warm",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "An enthusiastic and friendly speaker who sounds eager to catch up on local gossip.",
+  "nickname": "Enthusiastic Confidante"
+ },
+ "Voice 32": {
+  "gender": "female",
+  "age": "middle-aged",
+  "pitch": "medium",
+  "texture": "warm",
+  "accent": "British",
+  "energy": "low",
+  "vibe": "A cozy and welcoming friend inviting you in for a warm, intimate chat.",
+  "nickname": "Cozy British Friend"
+ },
+ "Voice 33": {
+  "gender": "Male",
+  "age": "Senior",
+  "pitch": "Low",
+  "texture": "Gravelly",
+  "accent": "Southern American",
+  "energy": "High",
+  "vibe": "A warm, enthusiastic, and boisterous Southern host welcoming a neighbor with friendly curiosity.",
+  "nickname": "Boisterous Southern Neighbor"
+ },
+ "Voice 34": {
+  "gender": "Male",
+  "age": "Middle-aged",
+  "pitch": "Medium-low",
+  "texture": "Gravelly",
+  "accent": "Southern American",
+  "energy": "Moderate",
+  "vibe": "A warm, welcoming Southern neighbor who loves catching up on local gossip.",
+  "nickname": "Southern Country Neighbor"
+ },
+ "Voice 35": {
+  "gender": "Male",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "An eager, welcoming, and chatty conversationalist always ready for gossip or news.",
+  "nickname": "Eager Chatty Friend"
+ },
+ "Voice 36": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Smooth",
+  "accent": "General American",
+  "energy": "Medium-High",
+  "vibe": "Warm, welcoming, and eagerly engaging like a close friend inviting you in for news.",
+  "nickname": "Welcoming Friend"
+ },
+ "Voice 37": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Breathy",
+  "accent": "American",
+  "energy": "Medium",
+  "vibe": "Warm and inviting with a friendly, conversational intimacy.",
+  "nickname": "Casual Confidante"
+ },
+ "Voice 38": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "A warm, bubbly, and enthusiastic friend eager to catch up on the latest gossip.",
+  "nickname": "Energetic Friend"
+ },
+ "Voice 39": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "General American",
+  "energy": "High",
+  "vibe": "An enthusiastic and welcoming companion eager to hear the latest gossip.",
+  "nickname": "Energetic Conversationalist"
+ },
+ "Voice 40": {
+  "gender": "male",
+  "age": "elderly",
+  "pitch": "low",
+  "texture": "gravelly",
+  "accent": "Southern US",
+  "energy": "low",
+  "vibe": "A warm and welcoming Southern elder inviting you in for a chat.",
+  "nickname": "Warm Southern Storyteller"
+ },
+ "Voice 41": {
+  "gender": "Male",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Smooth",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "An upbeat, enthusiastic, and warm voice that creates an inviting, friendly atmosphere.",
+  "nickname": "Friendly Neighbor"
+ },
+ "Voice 42": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Bright",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "Welcoming, enthusiastic, and eager to chat with an expressive, friendly warmth.",
+  "nickname": "Enthusiastic Neighbor"
+ },
+ "Voice 43": {
+  "gender": "female",
+  "age": "young adult",
+  "pitch": "high",
+  "texture": "bright",
+  "accent": "American",
+  "energy": "high",
+  "vibe": "Warm, highly energetic, and eager to share exciting news with a friend.",
+  "nickname": "Enthusiastic Friend"
+ },
+ "Voice 44": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Breathy",
+  "accent": "American",
+  "energy": "Low",
+  "vibe": "Warm and inviting with an intimate, cozy, and conspiratorial tone.",
+  "nickname": "Cozy Storyteller"
+ },
+ "Voice 45": {
+  "gender": "Female",
+  "age": "Young adult",
+  "pitch": "Medium-high",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "An upbeat, welcoming, and expressive speaker who sounds genuinely excited and friendly.",
+  "nickname": "Welcoming Friend"
+ },
+ "Voice 46": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "An upbeat, friendly, and curious speaker who warmly invites conversation.",
+  "nickname": "Welcoming Friend"
+ },
+ "Voice 47": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "General American",
+  "energy": "High",
+  "vibe": "An expressive, warm, and inviting friend who is eager to chat and catch up.",
+  "nickname": "Welcoming Friend"
+ },
+ "Voice 48": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "High",
+  "texture": "Clear",
+  "accent": "General American",
+  "energy": "High",
+  "vibe": "An upbeat and welcoming friend eager to catch up on the latest local gossip.",
+  "nickname": "Friendly Gossip"
+ },
+ "Voice 49": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Clear",
+  "accent": "American (General)",
+  "energy": "Medium-High",
+  "vibe": "An approachable and cheerful neighbor or friend eager to hear the latest news.",
+  "nickname": "Enthusiastic Neighbor"
+ },
+ "Voice 50": {
+  "gender": "Female",
+  "age": "Child",
+  "pitch": "High",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "An enthusiastic and friendly child bursting with curiosity and eager to hear a story.",
+  "nickname": "Enthusiastic Young Girl"
+ },
+ "Voice 51": {
+  "gender": "Female",
+  "age": "Child",
+  "pitch": "High",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "Energetic and inquisitive, ideal for upbeat children's media or lively animated characters.",
+  "nickname": "Animated Explorer"
+ },
+ "Voice 52": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-Low",
+  "texture": "Soft and Breathy",
+  "accent": "General American",
+  "energy": "Calm",
+  "vibe": "An inviting, warm, and intimate voice that creates a cozy atmosphere.",
+  "nickname": "Cozy Confidante"
+ },
+ "Voice 53": {
+  "gender": "male",
+  "age": "young-adult",
+  "pitch": "medium-high",
+  "texture": "clear",
+  "accent": "american",
+  "energy": "high",
+  "vibe": "An enthusiastic and friendly speaker who exudes warm, animated curiosity.",
+  "nickname": "Upbeat Friend"
+ },
+ "Voice 54": {
+  "gender": "Female",
+  "age": "Child",
+  "pitch": "High",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "A cheerful and enthusiastic child full of innocent excitement and curiosity.",
+  "nickname": "Enthusiastic Child"
+ },
+ "Voice 55": {
+  "gender": "Male",
+  "age": "Senior",
+  "pitch": "Medium-low",
+  "texture": "Gravelly",
+  "accent": "American Southern",
+  "energy": "Moderate",
+  "vibe": "A warm and welcoming rural storyteller eager to catch up on local gossip.",
+  "nickname": "Southern Neighbor"
+ },
+ "Voice 56": {
+  "gender": "Male",
+  "age": "Middle-aged",
+  "pitch": "Low-Mid",
+  "texture": "Gravelly",
+  "accent": "American Southern",
+  "energy": "Moderate-High",
+  "vibe": "A warm and inviting Southern host eager to catch up on local gossip.",
+  "nickname": "Southern Porch Host"
+ },
+ "Voice 57": {
+  "gender": "male",
+  "age": "middle-aged",
+  "pitch": "mid-range",
+  "texture": "gravelly",
+  "accent": "American (Southern)",
+  "energy": "high",
+  "vibe": "An enthusiastic, welcoming friend eager to catch up on local gossip.",
+  "nickname": "Friendly Southern Neighbor"
+ },
+ "Voice 58": {
+  "gender": "male",
+  "age": "middle-aged",
+  "pitch": "medium",
+  "texture": "warm",
+  "accent": "American",
+  "energy": "moderate",
+  "vibe": "A warm and inviting voice perfect for friendly, conversational characters.",
+  "nickname": "Friendly Neighbor"
+ },
+ "Voice 59": {
+  "gender": "Female",
+  "age": "Senior",
+  "pitch": "Mid-High",
+  "texture": "Raspy",
+  "accent": "Southern American",
+  "energy": "High",
+  "vibe": "A warm and chatty Southern neighbor eager to hear the latest local gossip.",
+  "nickname": "Chatty Southern Neighbor"
+ },
+ "Voice 60": {
+  "gender": "female",
+  "age": "young adult",
+  "pitch": "medium-high",
+  "texture": "clear",
+  "accent": "American",
+  "energy": "high",
+  "vibe": "An enthusiastic and warm host who is eager to share exciting gossip with a friend.",
+  "nickname": "Welcoming Host"
+ },
+ "Voice 61": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "An enthusiastic and warm presence that instantly makes listeners feel like a close friend.",
+  "nickname": "Warm Welcoming Friend"
+ },
+ "Voice 62": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "General American",
+  "energy": "High",
+  "vibe": "An enthusiastic, inviting, and warm friend eager to catch up on the latest gossip.",
+  "nickname": "Welcoming Friend"
+ },
+ "Voice 63": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "An enthusiastic and warm speaker who brings a friendly, conversational energy to casual chatter.",
+  "nickname": "Upbeat Friendly Companion"
+ },
+ "Voice 64": {
+  "gender": "female",
+  "age": "young-adult",
+  "pitch": "medium-high",
+  "texture": "clear",
+  "accent": "American",
+  "energy": "high",
+  "vibe": "An eager, welcoming, and gossip-ready friend sharing exciting news.",
+  "nickname": "Enthusiastic Chatty Friend"
+ },
+ "Voice 65": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Warm",
+  "accent": "General American",
+  "energy": "Medium-High",
+  "vibe": "Warm, inviting, and eagerly conversational like a close friend sharing gossip.",
+  "nickname": "Friendly Conversationalist"
+ },
+ "Voice 66": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "General American",
+  "energy": "High",
+  "vibe": "Welcoming and enthusiastic, inviting you in for a warm, gossipy chat.",
+  "nickname": "Enthusiastic Companion"
+ },
+ "Voice 67": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "A warm, enthusiastic, and welcoming voice that feels instantly friendly and engaging.",
+  "nickname": "Warm Welcome"
+ },
+ "Voice 68": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Smooth",
+  "accent": "American (Neutral)",
+  "energy": "High",
+  "vibe": "A warm, conversational, and enthusiastic friend eager to catch up on the latest gossip.",
+  "nickname": "Welcoming Friend"
+ },
+ "Voice 69": {
+  "gender": "Female",
+  "age": "Middle-aged",
+  "pitch": "Medium",
+  "texture": "Warm and slightly raspy",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "An enthusiastic, friendly neighbor eager to hear the latest gossip.",
+  "nickname": "Welcoming Neighbor"
+ },
+ "Voice 70": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "Medium",
+  "vibe": "Friendly, inviting, and conversational, perfect for casual narration or welcoming dialogue.",
+  "nickname": "Warm Welcome"
+ },
+ "Voice 71": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Warm",
+  "accent": "American",
+  "energy": "Medium-High",
+  "vibe": "An inviting and enthusiastic voice that sounds like a warm, approachable friend eager to catch up.",
+  "nickname": "Friendly Companion"
+ },
+ "Voice 72": {
+  "gender": "male",
+  "age": "middle-aged",
+  "pitch": "medium-low",
+  "texture": "smooth",
+  "accent": "American",
+  "energy": "medium-high",
+  "vibe": "A warm, inviting host who loves to catch up on the latest news.",
+  "nickname": "Warm Neighborly Chat"
+ },
+ "Voice 73": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "A warm, enthusiastic, and inviting presence that sounds eager to chat.",
+  "nickname": "Welcoming Friend"
+ },
+ "Voice 74": {
+  "gender": "female",
+  "age": "young adult",
+  "pitch": "medium-high",
+  "texture": "clear",
+  "accent": "General American",
+  "energy": "high",
+  "vibe": "A warm, welcoming, and expressive friend eager to share exciting news.",
+  "nickname": "Upbeat Chatty Friend"
+ },
+ "Voice 75": {
+  "gender": "Male",
+  "age": "Young adult",
+  "pitch": "Medium",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "An enthusiastic and welcoming speaker who invites conversation with lively excitement.",
+  "nickname": "Eager Neighbor"
+ },
+ "Voice 76": {
+  "gender": "Male",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Clear",
+  "accent": "Australian",
+  "energy": "Medium",
+  "vibe": "Warm, welcoming, and relaxed with a friendly, conversational charm.",
+  "nickname": "Friendly Aussie Mate"
+ },
+ "Voice 77": {
+  "gender": "Female",
+  "age": "Young adult",
+  "pitch": "Medium-high",
+  "texture": "Smooth",
+  "accent": "American",
+  "energy": "Energetic",
+  "vibe": "Warm, friendly, and eager to catch up with a friend over intriguing news.",
+  "nickname": "Enthusiastic Friend"
+ },
+ "Voice 78": {
+  "gender": "female",
+  "age": "young adult",
+  "pitch": "medium-high",
+  "texture": "clear",
+  "accent": "American",
+  "energy": "high",
+  "vibe": "Enthusiastic and welcoming with a warm, friendly demeanor that instantly puts people at ease.",
+  "nickname": "Welcoming Friend"
+ },
+ "Voice 79": {
+  "gender": "Male",
+  "age": "Middle-aged",
+  "pitch": "Medium-low",
+  "texture": "Warm",
+  "accent": "American",
+  "energy": "Medium",
+  "vibe": "An inviting and intimate tone that feels naturally warm and friendly.",
+  "nickname": "Warm Storyteller"
+ },
+ "Voice 80": {
+  "gender": "Male",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Warm",
+  "accent": "American",
+  "energy": "Medium",
+  "vibe": "A warm, conversational, and welcoming speaker who sounds approachable and eager to chat.",
+  "nickname": "Friendly Neighbor"
+ },
+ "Voice 81": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "Warm, welcoming, and eagerly inquisitive, like a friendly neighbor inviting you in for a chat.",
+  "nickname": "Friendly Neighbor"
+ },
+ "Voice 82": {
+  "gender": "Female",
+  "age": "Young adult",
+  "pitch": "Medium-high",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "Warm, bubbly, and eager to chat with a friendly, welcoming demeanor.",
+  "nickname": "Bubbly Host"
+ },
+ "Voice 83": {
+  "gender": "male",
+  "age": "middle-aged",
+  "pitch": "medium-low",
+  "texture": "warm",
+  "accent": "Australian",
+  "energy": "medium-high",
+  "vibe": "A warm and inviting Australian voice that sounds like a friendly neighbor inviting you in for a chat.",
+  "nickname": "Welcoming Aussie Mate"
+ },
+ "Voice 84": {
+  "gender": "Male",
+  "age": "Young Adult",
+  "pitch": "Mid-range",
+  "texture": "Smooth",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "A warm, eager, and conversational speaker who sounds like a friendly neighbor excited to catch up.",
+  "nickname": "Enthusiastic Neighbor"
+ },
+ "Voice 85": {
+  "gender": "Male",
+  "age": "Middle-Aged",
+  "pitch": "Medium",
+  "texture": "Raspy",
+  "accent": "American",
+  "energy": "Medium-High",
+  "vibe": "Friendly, casual, and inviting, like an approachable neighbor ready for a friendly chat.",
+  "nickname": "Friendly Neighbor"
+ },
+ "Voice 86": {
+  "gender": "Female",
+  "age": "Young adult",
+  "pitch": "Medium-high",
+  "texture": "Clear",
+  "accent": "General American",
+  "energy": "Medium-high",
+  "vibe": "An eager, friendly companion who is warmly inviting and excited to catch up.",
+  "nickname": "Warm Gossip"
+ },
+ "Voice 87": {
+  "gender": "male",
+  "age": "young-adult",
+  "pitch": "medium-low",
+  "texture": "warm",
+  "accent": "american",
+  "energy": "medium",
+  "vibe": "An inviting and friendly voice that feels like a close, trustworthy friend welcoming you into their home.",
+  "nickname": "Welcoming Friend"
+ },
+ "Voice 88": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "High",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "Enthusiastic, friendly, and eager to chat like a welcoming neighbor.",
+  "nickname": "Eager Friend"
+ },
+ "Voice 89": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "Medium-High",
+  "vibe": "Warm, inviting, and eager to chat, making her sound like an enthusiastic and welcoming friend.",
+  "nickname": "Welcoming Friend"
+ },
+ "Voice 90": {
+  "gender": "Male",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Warm",
+  "accent": "British",
+  "energy": "Medium",
+  "vibe": "A warm, friendly, and inquisitive voice ideal for conversational and casual storytelling.",
+  "nickname": "Eager Neighbor"
+ },
+ "Voice 91": {
+  "gender": "Male",
+  "age": "Adult",
+  "pitch": "Medium-Low",
+  "texture": "Warm",
+  "accent": "American",
+  "energy": "Medium-High",
+  "vibe": "A friendly and inviting neighbor eager to catch up on the latest local chatter.",
+  "nickname": "Friendly Neighbor"
+ },
+ "Voice 92": {
+  "gender": "Male",
+  "age": "Middle-aged",
+  "pitch": "Low-Mid",
+  "texture": "Gravelly",
+  "accent": "Australian",
+  "energy": "Medium-Low",
+  "vibe": "Warm, casual, and conversational like a friendly neighbor inviting you in for a chat.",
+  "nickname": "Friendly Aussie Mate"
+ },
+ "Voice 93": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "British",
+  "energy": "Medium-High",
+  "vibe": "An inviting, warm, and conversational voice ideal for friendly narrations or welcoming hosts.",
+  "nickname": "Friendly British Neighbor"
+ },
+ "Voice 94": {
+  "gender": "Male",
+  "age": "Middle-aged",
+  "pitch": "Medium",
+  "texture": "Warm",
+  "accent": "American",
+  "energy": "Moderate",
+  "vibe": "Warm and conversational with an inviting, friendly tone perfect for casual storytelling or welcoming dialogue.",
+  "nickname": "Friendly Neighbor"
+ },
+ "Voice 95": {
+  "gender": "Male",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Clear, warm",
+  "accent": "General American",
+  "energy": "Medium-High",
+  "vibe": "Warm, engaging, and casually enthusiastic like a welcoming friend.",
+  "nickname": "Friendly Welcomer"
+ },
+ "Voice 96": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "High",
+  "texture": "Clear",
+  "accent": "American Southern",
+  "energy": "High",
+  "vibe": "Warm, inquisitive, and welcoming, like a friendly neighbor eager for a cozy chat.",
+  "nickname": "Friendly Southern Gossip"
+ },
+ "Voice 97": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "A warm, welcoming, and enthusiastic voice that sounds like a close friend sharing exciting news.",
+  "nickname": "Warm Enthusiast"
+ },
+ "Voice 98": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "Warm, enthusiastic, and eager to share the latest news with a close friend.",
+  "nickname": "Enthusiastic Neighbor"
+ },
+ "Voice 99": {
+  "gender": "Male",
+  "age": "Adult",
+  "pitch": "Medium",
+  "texture": "Smooth",
+  "accent": "American",
+  "energy": "Medium",
+  "vibe": "Warm and welcoming, sounding like an approachable friend inviting you in for a casual chat.",
+  "nickname": "Friendly Neighbor"
+ },
+ "Voice 100": {
+  "gender": "male",
+  "age": "middle-aged",
+  "pitch": "deep",
+  "texture": "gravelly",
+  "accent": "English",
+  "energy": "high",
+  "vibe": "A boisterous and welcoming fantasy tavernkeeper eager for gossip and lively company.",
+  "nickname": "Hearty Tavernkeeper"
+ },
+ "Voice 101": {
+  "gender": "Male",
+  "age": "Young Adult",
+  "pitch": "Mid",
+  "texture": "Warm",
+  "accent": "British",
+  "energy": "Moderate",
+  "vibe": "A warm and inviting friend offering a casual, welcoming chat.",
+  "nickname": "Welcoming British Friend"
+ },
+ "Voice 102": {
+  "gender": "Male",
+  "age": "Young adult",
+  "pitch": "Medium",
+  "texture": "Warm and slightly raspy",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "Energetic and welcoming, like an upbeat friend eager to hear gossip or catch up.",
+  "nickname": "Warm Enthusiastic Friend"
+ },
+ "Voice 103": {
+  "gender": "Male",
+  "age": "Middle-aged",
+  "pitch": "Medium-low",
+  "texture": "Warm",
+  "accent": "American",
+  "energy": "Medium",
+  "vibe": "A warm, welcoming, and relaxed tone that feels intimate and conversational.",
+  "nickname": "Friendly Neighbor"
+ },
+ "Voice 104": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Mid",
+  "texture": "Warm",
+  "accent": "American",
+  "energy": "Medium",
+  "vibe": "Inviting, friendly, and conversational with an approachable, intimate tone.",
+  "nickname": "Friendly Neighbor"
+ },
+ "Voice 105": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "Warm, enthusiastic, and eager to chat, bringing an inviting and friendly energy.",
+  "nickname": "Warm Gossip"
+ },
+ "Voice 106": {
+  "gender": "Male",
+  "age": "Senior",
+  "pitch": "Mid-Low",
+  "texture": "Warm, gravelly",
+  "accent": "British",
+  "energy": "Medium",
+  "vibe": "A warm and inviting older gentleman who sounds like a friendly neighbor sharing gossip over tea.",
+  "nickname": "Friendly Neighbor"
+ },
+ "Voice 107": {
+  "gender": "Male",
+  "age": "Young Adult",
+  "pitch": "Mid",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "A warm and enthusiastic conversationalist with a friendly, welcoming demeanor.",
+  "nickname": "Enthusiastic Host"
+ },
+ "Voice 108": {
+  "gender": "Male",
+  "age": "Young adult",
+  "pitch": "Medium",
+  "texture": "Warm",
+  "accent": "American",
+  "energy": "Medium",
+  "vibe": "Friendly and inviting with an approachable, casual conversational tone.",
+  "nickname": "Welcoming Neighbor"
+ },
+ "Voice 109": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Warm",
+  "accent": "General American",
+  "energy": "Medium-High",
+  "vibe": "Warm, welcoming, and casual, ideal for friendly conversation or relatable, approachable characters.",
+  "nickname": "Friendly Neighbor Voice"
+ },
+ "Voice 110": {
+  "gender": "male",
+  "age": "young adult",
+  "pitch": "medium",
+  "texture": "clear",
+  "accent": "american",
+  "energy": "high",
+  "vibe": "Warm, welcoming, and eager to chat like a friendly neighbor.",
+  "nickname": "Friendly Host"
+ },
+ "Voice 111": {
+  "gender": "Female",
+  "age": "Young adult",
+  "pitch": "Medium-high",
+  "texture": "Clear",
+  "accent": "General American",
+  "energy": "High",
+  "vibe": "An expressive and welcoming neighbor who is eager to catch up on the latest local gossip.",
+  "nickname": "Eager Neighbor"
+ },
+ "Voice 112": {
+  "gender": "male",
+  "age": "young adult",
+  "pitch": "mid",
+  "texture": "smooth",
+  "accent": "general american",
+  "energy": "moderate",
+  "vibe": "Warm, welcoming, and naturally conversational with an inviting tone.",
+  "nickname": "Friendly Host"
+ },
+ "Voice 113": {
+  "gender": "Male",
+  "age": "Young adult",
+  "pitch": "Medium",
+  "texture": "Smooth",
+  "accent": "British",
+  "energy": "Medium",
+  "vibe": "Warm and approachable with an inviting, friendly conversational tone.",
+  "nickname": "Friendly British Mate"
+ },
+ "Voice 114": {
+  "gender": "Female",
+  "age": "Young adult",
+  "pitch": "Medium",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "Moderate",
+  "vibe": "Friendly, warm, and inviting, creating a cozy and comfortable atmosphere for casual catch-ups.",
+  "nickname": "Welcoming Friend"
+ },
+ "Voice 115": {
+  "gender": "Male",
+  "age": "Senior",
+  "pitch": "Low",
+  "texture": "Gravelly",
+  "accent": "British",
+  "energy": "Low",
+  "vibe": "A warm, welcoming, and weathered storyteller who invites you in like an old friend.",
+  "nickname": "The Cozy Storyteller"
+ },
+ "Voice 116": {
+  "gender": "Male",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Smooth",
+  "accent": "Australian",
+  "energy": "High",
+  "vibe": "Warm, animated, and friendly, giving off an approachable neighborly charm.",
+  "nickname": "Animated Aussie Mate"
+ },
+ "Voice 117": {
+  "gender": "Female",
+  "age": "Adult",
+  "pitch": "Mid",
+  "texture": "Smooth",
+  "accent": "American",
+  "energy": "Medium-High",
+  "vibe": "Warm, enthusiastic, and eager to catch up on local news with a friend.",
+  "nickname": "Curious Neighbor"
+ },
+ "Voice 118": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "Australian",
+  "energy": "High",
+  "vibe": "Warm, enthusiastic, and approachable, sounding like an excited friend inviting you in for a chat.",
+  "nickname": "Welcoming Aussie Host"
+ },
+ "Voice 119": {
+  "gender": "Male",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Smooth",
+  "accent": "American",
+  "energy": "Medium",
+  "vibe": "Warm, inviting, and eagerly conversational, making for an approachable and friendly presence.",
+  "nickname": "Welcoming Neighbor"
+ },
+ "Voice 120": {
+  "gender": "male",
+  "age": "middle-aged",
+  "pitch": "medium",
+  "texture": "warm",
+  "accent": "British",
+  "energy": "high",
+  "vibe": "Warm and overly enthusiastic, making him sound like an excited neighbor eager to hear the latest gossip.",
+  "nickname": "Energetic British Friend"
+ },
+ "Voice 121": {
+  "gender": "Male",
+  "age": "Young adult",
+  "pitch": "Medium",
+  "texture": "Clear",
+  "accent": "Australian",
+  "energy": "High",
+  "vibe": "An upbeat and friendly Australian voice perfect for casual, conversational, and welcoming roles.",
+  "nickname": "Upbeat Aussie Mate"
+ },
+ "Voice 122": {
+  "gender": "Male",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Warm",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "An enthusiastic and friendly neighbor eager to chat about the latest local news.",
+  "nickname": "Enthusiastic Local Friend"
+ },
+ "Voice 123": {
+  "gender": "Female",
+  "age": "Young adult",
+  "pitch": "Mid-high",
+  "texture": "Smooth",
+  "accent": "American (General)",
+  "energy": "High",
+  "vibe": "An inviting and friendly persona that feels like a close, approachable friend eager to catch up.",
+  "nickname": "Welcoming Friend"
+ },
+ "Voice 124": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Warm",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "An enthusiastic and warm friend eager to chat and hear the latest gossip.",
+  "nickname": "Enthusiastic Neighbor"
+ },
+ "Voice 125": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "Warm, enthusiastic, and eager to chat like a close friend sharing gossip.",
+  "nickname": "Enthusiastic Best Friend"
+ },
+ "Voice 126": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "Warm, enthusiastic, and welcoming, like a close friend eager to share exciting gossip.",
+  "nickname": "Bubbly Chatty Friend"
+ },
+ "Voice 127": {
+  "gender": "Female",
+  "age": "Young adult",
+  "pitch": "Medium-high",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "Warm, enthusiastic, and welcoming with a conversational brightness.",
+  "nickname": "Welcoming Friend"
+ },
+ "Voice 128": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "Moderate-High",
+  "vibe": "An enthusiastic and welcoming friend eager to share some fresh gossip.",
+  "nickname": "Welcoming Gossip Friend"
+ },
+ "Voice 129": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "Enthusiastic, warm, and inviting with a friendly, conversational tone.",
+  "nickname": "Welcoming Host"
+ },
+ "Voice 130": {
+  "gender": "Male",
+  "age": "Young adult",
+  "pitch": "Medium",
+  "texture": "Smooth",
+  "accent": "American",
+  "energy": "Moderate",
+  "vibe": "Warm, enthusiastic, and approachable, like a friendly neighbor sharing exciting news.",
+  "nickname": "Warm Conversationalist"
+ },
+ "Voice 131": {
+  "gender": "Male",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Warm",
+  "accent": "Australian",
+  "energy": "High",
+  "vibe": "An enthusiastic and friendly companion who is always eager to catch up and chat.",
+  "nickname": "Friendly Aussie Mate"
+ },
+ "Voice 132": {
+  "gender": "Female",
+  "age": "Middle-aged",
+  "pitch": "Medium",
+  "texture": "Warm",
+  "accent": "American",
+  "energy": "Medium-High",
+  "vibe": "A warm, inviting, and friendly neighbor eager to catch up on local gossip.",
+  "nickname": "Warm Neighbor"
+ },
+ "Voice 133": {
+  "gender": "Male",
+  "age": "Middle-aged",
+  "pitch": "Low",
+  "texture": "Warm, slightly raspy",
+  "accent": "American",
+  "energy": "Low",
+  "vibe": "A casual, friendly neighbor offering a warm, inviting, and conversational tone.",
+  "nickname": "Friendly Neighbor"
+ },
+ "Voice 134": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "British",
+  "energy": "Medium-High",
+  "vibe": "An enthusiastic and friendly speaker who sounds warm, inviting, and eager to chat.",
+  "nickname": "Warm Gossip"
+ },
+ "Voice 135": {
+  "gender": "Male",
+  "age": "Middle-aged",
+  "pitch": "Low-medium",
+  "texture": "Warm",
+  "accent": "American",
+  "energy": "Medium-low",
+  "vibe": "A warm, welcoming friend always ready for casual gossip and friendly conversation.",
+  "nickname": "Cozy Neighbor"
+ },
+ "Voice 136": {
+  "gender": "Male",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Clear",
+  "accent": "North American",
+  "energy": "High",
+  "vibe": "Welcoming and enthusiastic, perfect for an approachable friend or helpful guy-next-door character.",
+  "nickname": "Warm Neighbor"
+ },
+ "Voice 137": {
+  "gender": "Female",
+  "age": "Middle-aged",
+  "pitch": "Medium-High",
+  "texture": "Warm",
+  "accent": "General American",
+  "energy": "High",
+  "vibe": "An enthusiastic and welcoming host who engages listeners with warm, neighborly excitement.",
+  "nickname": "Friendly Host"
+ },
+ "Voice 138": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Warm",
+  "accent": "American (General)",
+  "energy": "Medium",
+  "vibe": "Friendly and inviting with an approachable, conversational warmth.",
+  "nickname": "Welcoming Neighbor"
+ },
+ "Voice 139": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "Australian",
+  "energy": "Medium-High",
+  "vibe": "Warm, enthusiastic, and welcoming, like a friendly neighbor eager to catch up on local gossip.",
+  "nickname": "Welcoming Neighbor"
+ },
+ "Voice 140": {
+  "gender": "Female",
+  "age": "Young adult",
+  "pitch": "Medium-high",
+  "texture": "Clear",
+  "accent": "General American",
+  "energy": "High",
+  "vibe": "An enthusiastic, friendly, and welcoming presence who loves a good conversation.",
+  "nickname": "Bubbly Neighbor"
+ },
+ "Voice 141": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "General American",
+  "energy": "High",
+  "vibe": "Warm, bubbly, and enthusiastic with an inviting, conversational tone.",
+  "nickname": "Energetic Conversationalist"
+ },
+ "Voice 142": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Smooth",
+  "accent": "American",
+  "energy": "Medium-High",
+  "vibe": "Warm and inviting, perfect for a friendly neighbor or hospitable companion.",
+  "nickname": "Welcoming Host"
+ },
+ "Voice 143": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "An enthusiastic and bubbly friend who loves catching up on local gossip.",
+  "nickname": "Enthusiastic Gossip"
+ },
+ "Voice 144": {
+  "gender": "Female",
+  "age": "Young adult",
+  "pitch": "Medium-high",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "Medium-high",
+  "vibe": "Warm, welcoming, and enthusiastically conversational like a friendly neighbor.",
+  "nickname": "Friendly Neighbor"
+ },
+ "Voice 145": {
+  "gender": "male",
+  "age": "young-adult",
+  "pitch": "mid",
+  "texture": "warm",
+  "accent": "american",
+  "energy": "medium-high",
+  "vibe": "A welcoming and expressive friend eager to hear the latest gossip.",
+  "nickname": "Welcoming Friend"
+ },
+ "Voice 146": {
+  "gender": "Male",
+  "age": "Adult",
+  "pitch": "Medium",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "Medium",
+  "vibe": "Warm, welcoming, and naturally conversational with a friendly, inviting tone.",
+  "nickname": "Welcoming Neighbor"
+ },
+ "Voice 147": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "British",
+  "energy": "High",
+  "vibe": "An eager and warm friend inviting you in for a cozy chat.",
+  "nickname": "Welcoming British Friend"
+ },
+ "Voice 148": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "Warm, welcoming, and genuinely eager to catch up and share exciting news with a close friend.",
+  "nickname": "Warm Neighbor"
+ },
+ "Voice 149": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "High",
+  "texture": "Bright",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "An upbeat, eager, and highly enthusiastic voice perfect for friendly and social characters.",
+  "nickname": "Bouncy Socialite"
+ },
+ "Voice 150": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Smooth",
+  "accent": "American (General)",
+  "energy": "Medium-High",
+  "vibe": "Warm, welcoming, and delightfully eager to catch up on the latest news.",
+  "nickname": "Warm Confidante"
+ },
+ "Voice 151": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "An upbeat and enthusiastic friend eager to catch up on the latest gossip.",
+  "nickname": "Enthusiastic Gossip"
+ },
+ "Voice 152": {
+  "gender": "Male",
+  "age": "Middle-aged",
+  "pitch": "Medium-Low",
+  "texture": "Warm, gravelly",
+  "accent": "British",
+  "energy": "Medium-High",
+  "vibe": "A warm, enthusiastic, and inviting host who loves sharing local news and making guests feel right at home.",
+  "nickname": "Warm British Host"
+ },
+ "Voice 153": {
+  "gender": "Female",
+  "age": "Young adult",
+  "pitch": "Mid-range",
+  "texture": "Clear",
+  "accent": "General American",
+  "energy": "Medium-high",
+  "vibe": "A warm and inviting voice that feels naturally conversational and approachable.",
+  "nickname": "Warm Welcomer"
+ },
+ "Voice 154": {
+  "gender": "Male",
+  "age": "Middle-aged",
+  "pitch": "Medium-low",
+  "texture": "Warm",
+  "accent": "British",
+  "energy": "Medium",
+  "vibe": "An inviting and friendly speaker with an approachable, conversational warmth.",
+  "nickname": "Friendly Host"
+ },
+ "Voice 155": {
+  "gender": "female",
+  "age": "young adult",
+  "pitch": "mid-high",
+  "texture": "crisp",
+  "accent": "American",
+  "energy": "high",
+  "vibe": "An enthusiastic and welcoming speaker who sounds warm, conversational, and instantly relatable.",
+  "nickname": "Cheerful Friend"
+ },
+ "Voice 156": {
+  "gender": "Male",
+  "age": "Middle-aged",
+  "pitch": "Medium",
+  "texture": "Warm",
+  "accent": "British",
+  "energy": "High",
+  "vibe": "An enthusiastic and friendly host eager to catch up on local news.",
+  "nickname": "Welcoming Gossip"
+ },
+ "Voice 157": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Smooth",
+  "accent": "American",
+  "energy": "Medium-High",
+  "vibe": "Warm, inviting, and eager to catch up with a friend.",
+  "nickname": "Welcoming Friend"
+ },
+ "Voice 158": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Soft",
+  "accent": "American",
+  "energy": "Medium",
+  "vibe": "Intimate, warm, and inviting with a conversational and friendly tone.",
+  "nickname": "Inviting Friend"
+ },
+ "Voice 159": {
+  "gender": "Female",
+  "age": "Young adult",
+  "pitch": "Medium-high",
+  "texture": "Clear",
+  "accent": "Singaporean",
+  "energy": "High",
+  "vibe": "Warm, welcoming, and upbeat, like an enthusiastic neighbor inviting you in for a cozy chat.",
+  "nickname": "Welcoming Local Friend"
+ },
+ "Voice 160": {
+  "gender": "male",
+  "age": "young adult",
+  "pitch": "mid",
+  "texture": "warm",
+  "accent": "american",
+  "energy": "medium-high",
+  "vibe": "An inviting and enthusiastic friend who is eager to chat about local news.",
+  "nickname": "Welcoming Local"
+ },
+ "Voice 161": {
+  "gender": "male",
+  "age": "young adult",
+  "pitch": "medium",
+  "texture": "smooth",
+  "accent": "American",
+  "energy": "high",
+  "vibe": "An enthusiastic and welcoming friend who is eager to hear the latest news.",
+  "nickname": "Energetic Friend"
+ },
+ "Voice 162": {
+  "gender": "male",
+  "age": "young adult",
+  "pitch": "high",
+  "texture": "clear",
+  "accent": "American",
+  "energy": "high",
+  "vibe": "An overly enthusiastic and welcoming neighbor eager to catch up on the latest local gossip.",
+  "nickname": "Eager Friendly Neighbor"
+ },
+ "Voice 163": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "General American",
+  "energy": "High",
+  "vibe": "Warm, enthusiastic, and welcoming, sounding like a friendly neighbor eager to chat.",
+  "nickname": "Upbeat Neighbor"
+ },
+ "Voice 164": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "Australian",
+  "energy": "High",
+  "vibe": "A warm and inviting friend who is eager and excited to chat.",
+  "nickname": "Upbeat Aussie Mate"
+ },
+ "Voice 165": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Clear",
+  "accent": "Australian",
+  "energy": "High",
+  "vibe": "An enthusiastic and friendly speaker who sounds warm, curious, and welcoming.",
+  "nickname": "Friendly Neighbor"
+ },
+ "Voice 166": {
+  "gender": "Male",
+  "age": "Middle-Aged",
+  "pitch": "Medium",
+  "texture": "Smooth",
+  "accent": "British",
+  "energy": "Medium-High",
+  "vibe": "Warm, welcoming, and expressive with a friendly, conversational storytelling charm.",
+  "nickname": "Warm British Storyteller"
+ },
+ "Voice 167": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "Warm, energetic, and expressive, perfectly suited for an engaging and friendly conversational tone.",
+  "nickname": "Energetic Friend"
+ },
+ "Voice 168": {
+  "gender": "male",
+  "age": "young adult",
+  "pitch": "mid",
+  "texture": "clear",
+  "accent": "American",
+  "energy": "high",
+  "vibe": "An upbeat and friendly speaker who sounds genuinely excited and welcoming.",
+  "nickname": "Welcoming Friend"
+ },
+ "Voice 169": {
+  "gender": "Female",
+  "age": "Young adult",
+  "pitch": "Medium-high",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "Moderate",
+  "vibe": "Warm, inviting, and conversationally expressive, perfect for a friendly, approachable character.",
+  "nickname": "Inviting Friend"
+ },
+ "Voice 170": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Bright, Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "A warm, inquisitive, and welcoming friend who is eager for the latest local gossip.",
+  "nickname": "Friendly Gossip"
+ },
+ "Voice 171": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "General American",
+  "energy": "High",
+  "vibe": "An enthusiastic and warm conversationalist who sounds like an eager, friendly neighbor sharing exciting news.",
+  "nickname": "Enthusiastic Neighbor"
+ },
+ "Voice 172": {
+  "gender": "male",
+  "age": "young adult",
+  "pitch": "medium",
+  "texture": "smooth",
+  "accent": "General American",
+  "energy": "medium",
+  "vibe": "Warm, casual, and inviting, like an approachable friend striking up a conversation.",
+  "nickname": "Friendly Neighbor"
+ },
+ "Voice 173": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "British",
+  "energy": "High",
+  "vibe": "Warm, enthusiastic, and welcoming, ideal for friendly conversations and inviting narration.",
+  "nickname": "Enthusiastic British Friend"
+ },
+ "Voice 174": {
+  "gender": "Male",
+  "age": "Young adult",
+  "pitch": "Mid",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "An eager and friendly companion welcoming someone with excited curiosity.",
+  "nickname": "Friendly Neighbor"
+ },
+ "Voice 175": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "British",
+  "energy": "High",
+  "vibe": "An enthusiastic and warm conversationalist who sounds welcoming, friendly, and eager to chat.",
+  "nickname": "Warm Welcomer"
+ },
+ "Voice 176": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Smooth",
+  "accent": "British",
+  "energy": "Medium",
+  "vibe": "A warm, inviting, and approachable friend eager to catch up on the latest news.",
+  "nickname": "Welcoming Friend"
+ },
+ "Voice 177": {
+  "gender": "female",
+  "age": "young adult",
+  "pitch": "medium-high",
+  "texture": "clear",
+  "accent": "american",
+  "energy": "high",
+  "vibe": "Warm, enthusiastic, and inviting, like an excited friend welcoming you in.",
+  "nickname": "Enthusiastic Host"
+ },
+ "Voice 178": {
+  "gender": "Male",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Smooth",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "An enthusiastic and warm friend who is eager to chat and share stories.",
+  "nickname": "Welcoming Conversationalist"
+ },
+ "Voice 179": {
+  "gender": "Female",
+  "age": "Middle-aged",
+  "pitch": "Medium",
+  "texture": "Warm",
+  "accent": "American",
+  "energy": "Medium-low",
+  "vibe": "A warm and inviting neighbor eager for a cozy chat.",
+  "nickname": "Welcoming Neighbor"
+ },
+ "Voice 180": {
+  "gender": "Female",
+  "age": "Young adult",
+  "pitch": "Medium",
+  "texture": "Smooth",
+  "accent": "Nigerian",
+  "energy": "Medium",
+  "vibe": "Warm, inviting, and friendly with a casual, welcoming tone.",
+  "nickname": "Welcoming Neighbor"
+ },
+ "Voice 181": {
+  "gender": "Male",
+  "age": "Young adult",
+  "pitch": "Medium",
+  "texture": "Warm, clear",
+  "accent": "General American",
+  "energy": "High",
+  "vibe": "An energetic, friendly speaker who comes across as welcoming and eager to chat.",
+  "nickname": "Friendly Chatty Host"
+ },
+ "Voice 182": {
+  "gender": "Female",
+  "age": "Young adult",
+  "pitch": "Medium-high",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "Warm, enthusiastic, and welcoming, ideal for a friendly conversational host or upbeat narrative.",
+  "nickname": "Energetic Conversationalist"
+ },
+ "Voice 183": {
+  "gender": "Male",
+  "age": "Middle-aged",
+  "pitch": "Medium",
+  "texture": "Warm",
+  "accent": "Indian",
+  "energy": "Moderate",
+  "vibe": "An approachable and warm conversationalist who sounds genuinely eager to hear the latest news.",
+  "nickname": "Warm Friendly Host"
+ },
+ "Voice 184": {
+  "gender": "male",
+  "age": "young adult",
+  "pitch": "medium",
+  "texture": "warm, smooth",
+  "accent": "Singaporean",
+  "energy": "moderate",
+  "vibe": "An approachable and welcoming friend who speaks with a warm, relaxed, and conversational tone.",
+  "nickname": "Friendly Local Companion"
+ },
+ "Voice 185": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Slightly Raspy",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "An enthusiastic and welcoming friend inviting you in with genuine excitement.",
+  "nickname": "Warm Welcomer"
+ },
+ "Voice 186": {
+  "gender": "Female",
+  "age": "Young adult",
+  "pitch": "Medium-high",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "Warm, friendly, and eager to catch up on the latest news.",
+  "nickname": "Chatty Best Friend"
+ },
+ "Voice 187": {
+  "gender": "Male",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Smooth",
+  "accent": "Indian",
+  "energy": "Medium-High",
+  "vibe": "An inviting and enthusiastic conversationalist who brings a warm, engaging presence to casual social chatter.",
+  "nickname": "Friendly Local Host"
+ },
+ "Voice 188": {
+  "gender": "Male",
+  "age": "Middle-aged",
+  "pitch": "Medium-low",
+  "texture": "Warm and slightly gravelly",
+  "accent": "West African",
+  "energy": "Medium",
+  "vibe": "Warm, welcoming, and conversational with a friendly, inviting tone perfect for a trusted neighbor or casual narrator.",
+  "nickname": "Warm Welcoming Neighbor"
+ },
+ "Voice 189": {
+  "gender": "male",
+  "age": "young adult",
+  "pitch": "medium",
+  "texture": "warm",
+  "accent": "Filipino",
+  "energy": "high",
+  "vibe": "A warm and inquisitive friend inviting you in for a lively chat.",
+  "nickname": "Welcoming Neighbor"
+ },
+ "Voice 190": {
+  "gender": "Female",
+  "age": "Young adult",
+  "pitch": "High-medium",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "An upbeat and welcoming friend eager for exciting news and casual chatter.",
+  "nickname": "Enthusiastic Confidante"
+ },
+ "Voice 191": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "An enthusiastic, friendly, and curious speaker who is eager to chat and hear the latest news.",
+  "nickname": "Eager Chatterbox"
+ },
+ "Voice 192": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "Singaporean",
+  "energy": "High",
+  "vibe": "An inviting and excited companion eager to catch up on local gossip.",
+  "nickname": "Enthusiastic Companion"
+ },
+ "Voice 193": {
+  "gender": "Male",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Warm",
+  "accent": "Indian",
+  "energy": "High",
+  "vibe": "A friendly, welcoming host who engages listeners with warm, enthusiastic curiosity.",
+  "nickname": "Welcoming Indian Host"
+ },
+ "Voice 194": {
+  "gender": "Male",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Smooth",
+  "accent": "American",
+  "energy": "Moderate",
+  "vibe": "An inviting, friendly conversationalist who warmly engages you in casual discussion.",
+  "nickname": "Casual Companion"
+ },
+ "Voice 195": {
+  "gender": "female",
+  "age": "young-adult",
+  "pitch": "medium",
+  "texture": "smooth",
+  "accent": "American",
+  "energy": "medium",
+  "vibe": "An inviting and warm friend eager for casual conversation and gossip.",
+  "nickname": "Warm Chatty Friend"
+ },
+ "Voice 196": {
+  "gender": "Male",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Smooth",
+  "accent": "American",
+  "energy": "Low",
+  "vibe": "Warm, intimate, and relaxed, sounding like a close friend inviting you in for a casual chat.",
+  "nickname": "Friendly Confidant"
+ },
+ "Voice 197": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "General American",
+  "energy": "Medium-High",
+  "vibe": "An enthusiastic, friendly companion eager to catch up and chat about local gossip.",
+  "nickname": "Chatty Companion"
+ },
+ "Voice 198": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "Warm, enthusiastic, and welcoming, perfect for a friendly and casual conversation.",
+  "nickname": "Upbeat Neighbor"
+ },
+ "Voice 199": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Warm",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "A warm, enthusiastic friend eager to invite you in for a cozy chat.",
+  "nickname": "Warm Chatty Friend"
+ },
+ "Voice 200": {
+  "gender": "Male",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "An upbeat and welcoming speaker with an enthusiastic, friendly demeanor.",
+  "nickname": "Enthusiastic Pal"
+ },
+ "Voice 201": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Smooth",
+  "accent": "Indian",
+  "energy": "Medium-High",
+  "vibe": "Warm, welcoming, and conversational with an inviting and friendly tone.",
+  "nickname": "Welcoming Friend"
+ },
+ "Voice 202": {
+  "gender": "Male",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Smooth",
+  "accent": "General American",
+  "energy": "High",
+  "vibe": "An enthusiastic and warm companion who engages listeners with eager curiosity.",
+  "nickname": "Enthusiastic Neighbor"
+ },
+ "Voice 203": {
+  "gender": "Female",
+  "age": "Young adult",
+  "pitch": "Medium",
+  "texture": "Clear",
+  "accent": "Indian",
+  "energy": "High",
+  "vibe": "Warm, inviting, and enthusiastic, making the listener feel immediately welcome and engaged.",
+  "nickname": "Enthusiastic Indian Host"
+ },
+ "Voice 204": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "High",
+  "texture": "Clear",
+  "accent": "General American",
+  "energy": "High",
+  "vibe": "Warm, enthusiastic, and welcoming with an inviting conversational tone.",
+  "nickname": "Cheerful Neighbor"
+ },
+ "Voice 205": {
+  "gender": "female",
+  "age": "young-adult",
+  "pitch": "medium-high",
+  "texture": "clear",
+  "accent": "american",
+  "energy": "high",
+  "vibe": "Enthusiastic and welcoming, creating an inviting and conversational atmosphere.",
+  "nickname": "Welcoming Friend"
+ },
+ "Voice 206": {
+  "gender": "Male",
+  "age": "Young Adult",
+  "pitch": "Medium-Low",
+  "texture": "Warm",
+  "accent": "Nigerian",
+  "energy": "Moderate",
+  "vibe": "A warm, welcoming, and conversational friend sharing local news or gossip.",
+  "nickname": "Warm West African"
+ },
+ "Voice 207": {
+  "gender": "Male",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Warm",
+  "accent": "American",
+  "energy": "Medium",
+  "vibe": "A warm and inviting host who speaks with relaxed, friendly curiosity.",
+  "nickname": "Welcoming Host"
+ },
+ "Voice 208": {
+  "gender": "Male",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "Warm, enthusiastic, and welcoming, ideal for an approachable friend or engaging narrator.",
+  "nickname": "Welcoming Friend"
+ },
+ "Voice 209": {
+  "gender": "Male",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Warm",
+  "accent": "Indian",
+  "energy": "Medium",
+  "vibe": "A warm and inviting voice with an approachable, conversational feel.",
+  "nickname": "Welcoming Host"
+ },
+ "Voice 210": {
+  "gender": "Male",
+  "age": "Young Adult",
+  "pitch": "Mid",
+  "texture": "Smooth",
+  "accent": "Singaporean",
+  "energy": "Medium",
+  "vibe": "A friendly and approachable neighbor welcoming you in for a casual catch-up.",
+  "nickname": "Welcoming Neighbor"
+ },
+ "Voice 211": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "An enthusiastic and friendly speaker who exudes warm hospitality and excitement.",
+  "nickname": "Warm Welcomer"
+ },
+ "Voice 212": {
+  "gender": "male",
+  "age": "middle-aged",
+  "pitch": "mid-low",
+  "texture": "gravelly",
+  "accent": "American",
+  "energy": "high",
+  "vibe": "An enthusiastic and warm neighbor eager to catch up on the latest local news.",
+  "nickname": "Welcoming Neighbor"
+ },
+ "Voice 213": {
+  "gender": "female",
+  "age": "young adult",
+  "pitch": "medium-high",
+  "texture": "clear",
+  "accent": "American",
+  "energy": "medium-high",
+  "vibe": "An inviting and upbeat conversationalist who warmly welcomes listeners into a friendly chat.",
+  "nickname": "Welcoming Neighbor"
+ },
+ "Voice 214": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Smooth",
+  "accent": "American",
+  "energy": "Medium",
+  "vibe": "Warm and inviting with a conversational tone that feels like catching up with a close friend.",
+  "nickname": "Friendly Neighbor"
+ },
+ "Voice 215": {
+  "gender": "Male",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Smooth",
+  "accent": "British",
+  "energy": "Medium",
+  "vibe": "Warm, welcoming, and naturally conversational with a friendly, inquisitive personality.",
+  "nickname": "Friendly Neighbor"
+ },
+ "Voice 216": {
+  "gender": "Female",
+  "age": "Young adult",
+  "pitch": "Medium-high",
+  "texture": "Clear",
+  "accent": "General American",
+  "energy": "High",
+  "vibe": "An inviting, cheerful voice that sounds warm, engaging, and eager to gossip or catch up.",
+  "nickname": "Friendly Neighbor"
+ },
+ "Voice 217": {
+  "gender": "male",
+  "age": "middle-aged",
+  "pitch": "low",
+  "texture": "smooth",
+  "accent": "American",
+  "energy": "low",
+  "vibe": "Warm, inviting, and intimate, ideal for a friendly and casual conversation.",
+  "nickname": "Cozy Confidant"
+ },
+ "Voice 218": {
+  "gender": "Male",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Smooth",
+  "accent": "American",
+  "energy": "Moderate-High",
+  "vibe": "An enthusiastic, friendly, and welcoming speaker who sounds eager to catch up on news.",
+  "nickname": "Welcoming Friend"
+ },
+ "Voice 219": {
+  "gender": "Male",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Smooth",
+  "accent": "American",
+  "energy": "Medium",
+  "vibe": "A friendly and warm conversational voice that feels naturally welcoming and inquisitive.",
+  "nickname": "Friendly Neighbor"
+ },
+ "Voice 220": {
+  "gender": "Male",
+  "age": "Adult",
+  "pitch": "Medium-Low",
+  "texture": "Warm",
+  "accent": "General American",
+  "energy": "Medium-High",
+  "vibe": "An inviting and enthusiastic friend who is warm, engaging, and eager to chat.",
+  "nickname": "Welcoming Casual Friend"
+ },
+ "Voice 221": {
+  "gender": "Male",
+  "age": "Middle-aged",
+  "pitch": "Medium",
+  "texture": "Warm",
+  "accent": "American",
+  "energy": "Medium-High",
+  "vibe": "An enthusiastic and welcoming speaker who comes across as an approachable, friendly neighbor eager to chat.",
+  "nickname": "Eager Neighbor"
+ },
+ "Voice 222": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "An enthusiastic and friendly voice that sounds warm, welcoming, and excited to catch up.",
+  "nickname": "Warm Enthusiast"
+ },
+ "Voice 223": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "Warm and inviting with an enthusiastic, conversational tone perfect for friendly dialogue.",
+  "nickname": "Welcoming Friend"
+ },
+ "Voice 224": {
+  "gender": "Male",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Warm",
+  "accent": "American",
+  "energy": "Medium-High",
+  "vibe": "Warm, eager, and inviting with a conversational charm.",
+  "nickname": "Welcoming Host"
+ },
+ "Voice 225": {
+  "gender": "Male",
+  "age": "Middle-aged",
+  "pitch": "Mid-to-low",
+  "texture": "Warm and slightly raspy",
+  "accent": "General American",
+  "energy": "Medium",
+  "vibe": "A welcoming and conversational tone reminiscent of an approachable neighbor.",
+  "nickname": "Warm Neighbor"
+ },
+ "Voice 226": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Mid-High",
+  "texture": "Smooth",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "A warm, inviting, and expressive speaker who sounds eager and friendly in a casual conversation.",
+  "nickname": "Enthusiastic Friend"
+ },
+ "Voice 227": {
+  "gender": "male",
+  "age": "senior",
+  "pitch": "deep",
+  "texture": "gravelly",
+  "accent": "american",
+  "energy": "low",
+  "vibe": "A warm, relaxed, and welcoming older gentleman sharing stories casually.",
+  "nickname": "Fireside Storyteller"
+ },
+ "Voice 228": {
+  "gender": "Male",
+  "age": "Middle-aged",
+  "pitch": "Low",
+  "texture": "Gravelly",
+  "accent": "American",
+  "energy": "Low",
+  "vibe": "Warm and intriguing, inviting the listener in like a friendly storyteller sharing local gossip.",
+  "nickname": "Cozy Storyteller"
+ },
+ "Voice 229": {
+  "gender": "Female",
+  "age": "Young adult",
+  "pitch": "High",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "An enthusiastic and bubbly friend who is eager to chat about the latest gossip.",
+  "nickname": "Enthusiastic Chatty Friend"
+ },
+ "Voice 230": {
+  "gender": "Female",
+  "age": "Young adult",
+  "pitch": "Medium",
+  "texture": "Warm",
+  "accent": "American",
+  "energy": "Medium-high",
+  "vibe": "A warm and welcoming voice that feels like a friendly neighbor eager to chat.",
+  "nickname": "Welcoming Neighbor"
+ },
+ "Voice 231": {
+  "gender": "Female",
+  "age": "Young adult",
+  "pitch": "Medium",
+  "texture": "Smooth",
+  "accent": "German",
+  "energy": "Medium",
+  "vibe": "A warm, welcoming, and approachable tone perfect for friendly and conversational roles.",
+  "nickname": "Welcoming Friend"
+ },
+ "Voice 232": {
+  "gender": "female",
+  "age": "young adult",
+  "pitch": "medium",
+  "texture": "smooth",
+  "accent": "American",
+  "energy": "high",
+  "vibe": "Warm, welcoming, and upbeat with an approachable, conversational tone.",
+  "nickname": "Welcoming Friend"
+ },
+ "Voice 233": {
+  "gender": "Male",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "An upbeat and enthusiastic friend eager to welcome you in and chat.",
+  "nickname": "Enthusiastic Neighbor"
+ },
+ "Voice 234": {
+  "gender": "male",
+  "age": "middle-aged",
+  "pitch": "low-medium",
+  "texture": "warm",
+  "accent": "american",
+  "energy": "medium",
+  "vibe": "A warm, welcoming, and relaxed conversationalist with an inviting, friendly curiosity.",
+  "nickname": "Warm Friendly Neighbor"
+ },
+ "Voice 235": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Smooth",
+  "accent": "American",
+  "energy": "Medium-High",
+  "vibe": "Warm and inviting, sounding like an enthusiastic friend eager to catch up.",
+  "nickname": "Welcoming Friend"
+ },
+ "Voice 236": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Smooth",
+  "accent": "American",
+  "energy": "Medium-High",
+  "vibe": "An enthusiastic and friendly neighbor eager to catch up on the latest gossip.",
+  "nickname": "Friendly Neighbor"
+ },
+ "Voice 237": {
+  "gender": "Male",
+  "age": "Adult",
+  "pitch": "Medium-low",
+  "texture": "Warm",
+  "accent": "General American",
+  "energy": "Medium-high",
+  "vibe": "A warm and inviting host who greets you with enthusiastic friendliness and casual warmth.",
+  "nickname": "Welcoming Friend"
+ },
+ "Voice 238": {
+  "gender": "Male",
+  "age": "Young adult",
+  "pitch": "Medium",
+  "texture": "Warm",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "An enthusiastic and welcoming friend eager to catch up and hear the latest news.",
+  "nickname": "Welcoming Companion"
+ },
+ "Voice 239": {
+  "gender": "Male",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Warm",
+  "accent": "American",
+  "energy": "Moderate",
+  "vibe": "A warm, approachable, and relaxed voice that feels like a friendly neighbor inviting you over.",
+  "nickname": "Warm Friendly Neighbor"
+ },
+ "Voice 240": {
+  "gender": "Male",
+  "age": "Young adult",
+  "pitch": "Medium",
+  "texture": "Warm",
+  "accent": "American",
+  "energy": "Medium-high",
+  "vibe": "An approachable and enthusiastic friend eager to catch up on the latest news.",
+  "nickname": "Enthusiastic Pal"
+ },
+ "Voice 241": {
+  "gender": "male",
+  "age": "young-adult",
+  "pitch": "medium-low",
+  "texture": "slightly-raspy",
+  "accent": "american",
+  "energy": "medium-high",
+  "vibe": "A warm, friendly, and approachable speaker ideal for conversational storytelling and welcoming narration.",
+  "nickname": "Warm Casual Friend"
+ },
+ "Voice 242": {
+  "gender": "Male",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Smooth",
+  "accent": "American",
+  "energy": "Medium-High",
+  "vibe": "An upbeat, welcoming, and friendly individual eager to catch up on local news.",
+  "nickname": "Friendly Host"
+ },
+ "Voice 243": {
+  "gender": "Female",
+  "age": "Young adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "Warm, enthusiastic, and chatty, perfect for a friendly and expressive character.",
+  "nickname": "Enthusiastic Friend"
+ },
+ "Voice 244": {
+  "gender": "male",
+  "age": "young adult",
+  "pitch": "medium",
+  "texture": "warm",
+  "accent": "American",
+  "energy": "medium-high",
+  "vibe": "An enthusiastic and welcoming conversationalist eager to catch up on the latest news.",
+  "nickname": "Welcoming Conversationalist"
+ },
+ "Voice 245": {
+  "gender": "Female",
+  "age": "Middle-aged",
+  "pitch": "Medium",
+  "texture": "Raspy",
+  "accent": "American",
+  "energy": "Medium-High",
+  "vibe": "Warm, inviting, and enthusiastically conversational, like a friendly neighbor inviting you in for chat.",
+  "nickname": "Welcoming Neighbor"
+ },
+ "Voice 246": {
+  "gender": "Female",
+  "age": "Middle-aged",
+  "pitch": "Medium-low",
+  "texture": "Raspy",
+  "accent": "American",
+  "energy": "Medium-high",
+  "vibe": "A warm, enthusiastic, and friendly neighbor who loves to chat.",
+  "nickname": "Chatty Neighbor"
+ },
+ "Voice 247": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Warm",
+  "accent": "American",
+  "energy": "Medium-High",
+  "vibe": "Warm, inviting, and eagerly conversational with an expressive, friendly tone.",
+  "nickname": "Inviting Friend"
+ },
+ "Voice 248": {
+  "gender": "Male",
+  "age": "Young adult",
+  "pitch": "Medium",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "An enthusiastic and friendly neighbor eager to hear the latest gossip.",
+  "nickname": "Eager Neighbor"
+ },
+ "Voice 249": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "An enthusiastic, warm, and inviting voice that sounds like a close friend eager for a good chat.",
+  "nickname": "Welcoming Friend"
+ },
+ "Voice 250": {
+  "gender": "Male",
+  "age": "Middle-aged",
+  "pitch": "Low-mid",
+  "texture": "Gravelly",
+  "accent": "American",
+  "energy": "Medium",
+  "vibe": "A warm, welcoming, and relaxed conversational tone suitable for a trustworthy friend or neighbor.",
+  "nickname": "Warm Friendly Neighbor"
+ },
+ "Voice 251": {
+  "gender": "Male",
+  "age": "Young adult",
+  "pitch": "Medium-low",
+  "texture": "Warm, slightly raspy",
+  "accent": "American (General)",
+  "energy": "Medium-high",
+  "vibe": "An inviting and enthusiastic friend who is eager to catch up on local gossip.",
+  "nickname": "Eager Conversationalist"
+ },
+ "Voice 252": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "An enthusiastic and friendly host eager to catch up on local gossip.",
+  "nickname": "Energetic Conversationalist"
+ },
+ "Voice 253": {
+  "gender": "Male",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Warm",
+  "accent": "American (General)",
+  "energy": "High",
+  "vibe": "Warm, welcoming, and enthusiastically conversational with an inviting presence.",
+  "nickname": "Welcoming Friend"
+ },
+ "Voice 254": {
+  "gender": "female",
+  "age": "young adult",
+  "pitch": "medium",
+  "texture": "smooth",
+  "accent": "American",
+  "energy": "medium-high",
+  "vibe": "A warm, inquisitive, and welcoming tone that feels like a friendly chat with a neighbor.",
+  "nickname": "Welcoming Neighbor"
+ },
+ "Voice 255": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "Nigerian",
+  "energy": "High",
+  "vibe": "An enthusiastic and welcoming presence that brings vibrant, conversational warmth to engaging character performances and storytelling.",
+  "nickname": "Vibrant African Warmth"
+ },
+ "Voice 256": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "Medium-High",
+  "vibe": "Warm, welcoming, and upbeat, ideal for conversational and friendly character roles.",
+  "nickname": "Welcoming Companion"
+ },
+ "Voice 257": {
+  "gender": "Female",
+  "age": "Young adult",
+  "pitch": "Medium-high",
+  "texture": "Smooth",
+  "accent": "American",
+  "energy": "Medium-high",
+  "vibe": "A warm, friendly, and curious speaker who makes you feel immediately welcome and at ease.",
+  "nickname": "Friendly Neighbor"
+ },
+ "Voice 258": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Low-Medium",
+  "texture": "Raspy",
+  "accent": "African American",
+  "energy": "Medium",
+  "vibe": "Warm and inviting with an intimate, friendly tone that pulls you into casual conversation.",
+  "nickname": "Cozy Conversationalist"
+ },
+ "Voice 259": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "Medium-High",
+  "vibe": "Warm, enthusiastic, and inviting with an approachable, conversational tone.",
+  "nickname": "Welcoming Neighbor"
+ },
+ "Voice 260": {
+  "gender": "male",
+  "age": "young adult",
+  "pitch": "medium",
+  "texture": "warm",
+  "accent": "American",
+  "energy": "high",
+  "vibe": "An upbeat and welcoming speaker who sounds genuinely excited to connect.",
+  "nickname": "Friendly Neighbor"
+ },
+ "Voice 261": {
+  "gender": "male",
+  "age": "young adult",
+  "pitch": "medium",
+  "texture": "smooth",
+  "accent": "American",
+  "energy": "medium",
+  "vibe": "Warm, welcoming, and casual, ideal for approachable and friendly characters.",
+  "nickname": "Friendly Neighbor"
+ },
+ "Voice 262": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "A warm and eager friend who loves welcoming guests and catching up on the latest local news.",
+  "nickname": "Chatty Neighbor"
+ },
+ "Voice 263": {
+  "gender": "Male",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Smooth",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "An enthusiastic and warm friend who is excited to catch up and hear the latest news.",
+  "nickname": "Warm Welcomer"
+ },
+ "Voice 264": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "Warm, cheerful, and welcoming with a lively conversational tone.",
+  "nickname": "Enthusiastic Host"
+ },
+ "Voice 265": {
+  "gender": "Female",
+  "age": "Young adult",
+  "pitch": "Medium-high",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "An enthusiastic and friendly speaker who sounds warm, welcoming, and eager to chat.",
+  "nickname": "Friendly Neighbor"
+ },
+ "Voice 266": {
+  "gender": "Female",
+  "age": "Young adult",
+  "pitch": "Mid-high",
+  "texture": "Smooth",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "An expressive and eager conversationalist who brings an inviting, gossipy warmth to casual chats.",
+  "nickname": "Warm Chatty Friend"
+ },
+ "Voice 267": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Mid-High",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "Warm, enthusiastic, and inviting with an approachable, conversational style.",
+  "nickname": "Enthusiastic Companion"
+ },
+ "Voice 268": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "General American",
+  "energy": "High",
+  "vibe": "An upbeat and welcoming presence that instantly engages the listener with warm excitement.",
+  "nickname": "Welcoming Neighbor"
+ },
+ "Voice 269": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "An enthusiastic, friendly, and welcoming host eager for a warm chat.",
+  "nickname": "Enthusiastic Welcomer"
+ },
+ "Voice 270": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Smooth",
+  "accent": "American",
+  "energy": "Medium",
+  "vibe": "An inviting, warm, and friendly voice that feels conversational and approachable.",
+  "nickname": "Friendly Neighbor"
+ },
+ "Voice 271": {
+  "gender": "Female",
+  "age": "Adult",
+  "pitch": "Medium",
+  "texture": "Warm",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "Friendly and animated, like an inviting neighbor eager to share the latest local chatter.",
+  "nickname": "Welcoming Neighbor"
+ },
+ "Voice 272": {
+  "gender": "Male",
+  "age": "Mature",
+  "pitch": "Low",
+  "texture": "Gravelly",
+  "accent": "American",
+  "energy": "Low",
+  "vibe": "A warm, welcoming, and relaxed friend or elder inviting you in for a cozy chat.",
+  "nickname": "Cozy Fireside Companion"
+ },
+ "Voice 273": {
+  "gender": "Male",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "Warm, enthusiastic, and eager to share gossip over a casual chat.",
+  "nickname": "Eager Friendly Host"
+ },
+ "Voice 274": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Smooth",
+  "accent": "American",
+  "energy": "Medium",
+  "vibe": "Warm, welcoming, and conversational with an inviting and friendly tone.",
+  "nickname": "Friendly Neighbor"
+ },
+ "Voice 275": {
+  "gender": "Male",
+  "age": "Young Adult",
+  "pitch": "Medium-low",
+  "texture": "Smooth",
+  "accent": "American",
+  "energy": "Medium",
+  "vibe": "Sounds like a warm, welcoming, and approachable friend sharing intriguing local news.",
+  "nickname": "Friendly Neighbor"
+ },
+ "Voice 276": {
+  "gender": "Male",
+  "age": "Middle-aged",
+  "pitch": "Medium-low",
+  "texture": "Warm",
+  "accent": "American",
+  "energy": "Medium",
+  "vibe": "An inviting, friendly neighbor who warmly welcomes you in for a casual chat.",
+  "nickname": "Warm Neighborly Host"
+ },
+ "Voice 277": {
+  "gender": "Female",
+  "age": "Young adult",
+  "pitch": "Medium-high",
+  "texture": "Smooth",
+  "accent": "American",
+  "energy": "Medium-high",
+  "vibe": "Warm, inviting, and enthusiastic, bringing a friendly and welcoming tone to casual conversations.",
+  "nickname": "Warm Conversationalist"
+ },
+ "Voice 278": {
+  "gender": "male",
+  "age": "middle-aged",
+  "pitch": "low",
+  "texture": "gravelly",
+  "accent": "American",
+  "energy": "low",
+  "vibe": "A warm, welcoming, and relaxed tone perfect for a friendly neighbor or local storyteller.",
+  "nickname": "Friendly Neighbor"
+ },
+ "Voice 279": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Smooth",
+  "accent": "American (General)",
+  "energy": "Medium",
+  "vibe": "Warm, welcoming, and conversational with a friendly, inviting tone.",
+  "nickname": "Friendly Neighbor"
+ },
+ "Voice 280": {
+  "gender": "Male",
+  "age": "Middle-aged",
+  "pitch": "Low",
+  "texture": "Gravelly",
+  "accent": "American",
+  "energy": "Low",
+  "vibe": "A secretive and mysterious speaker sharing intriguing rumors in a quiet, hushed tone.",
+  "nickname": "Raspy Whisperer"
+ },
+ "Voice 281": {
+  "gender": "Male",
+  "age": "Middle-aged",
+  "pitch": "Low",
+  "texture": "Warm",
+  "accent": "American",
+  "energy": "Moderate",
+  "vibe": "An inviting and friendly speaker with a relaxed, casual conversational style.",
+  "nickname": "Welcoming Neighbor"
+ },
+ "Voice 282": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "General American",
+  "energy": "High",
+  "vibe": "An enthusiastic, friendly, and welcoming voice perfect for warm and casual conversations.",
+  "nickname": "Warm Welcomer"
+ },
+ "Voice 283": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "A warm and inviting friend eager to hear the latest news.",
+  "nickname": "Chatty Welcoming Friend"
+ },
+ "Voice 284": {
+  "gender": "Male",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "General American",
+  "energy": "High",
+  "vibe": "An enthusiastic and welcoming friend eager to catch up on the latest news.",
+  "nickname": "Eager Conversationalist"
+ },
+ "Voice 285": {
+  "gender": "Male",
+  "age": "Middle-aged",
+  "pitch": "Mid",
+  "texture": "Raspy",
+  "accent": "American (Southern)",
+  "energy": "High",
+  "vibe": "An overly enthusiastic and welcoming host bursting with theatrical excitement.",
+  "nickname": "Boisterous Southern Host"
+ },
+ "Voice 286": {
+  "gender": "Male",
+  "age": "Mature",
+  "pitch": "Low-Mid",
+  "texture": "Gravelly",
+  "accent": "American Southern",
+  "energy": "High",
+  "vibe": "An enthusiastic and boisterous Southern character eager for local gossip and friendly banter.",
+  "nickname": "Boisterous Southern Local"
+ },
+ "Voice 287": {
+  "gender": "male",
+  "age": "middle-aged",
+  "pitch": "low-middle",
+  "texture": "gravelly",
+  "accent": "Southern American",
+  "energy": "high",
+  "vibe": "A warm, boisterous Southern host eager to catch up on local gossip.",
+  "nickname": "Boisterous Southern Host"
+ },
+ "Voice 288": {
+  "gender": "Male",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "General American",
+  "energy": "High",
+  "vibe": "An enthusiastic, friendly, and inquisitive neighbor ready for casual gossip.",
+  "nickname": "Enthusiastic Neighbor"
+ },
+ "Voice 289": {
+  "gender": "Male",
+  "age": "Young adult",
+  "pitch": "Mid-high",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "Energetic and welcoming, eager to catch up and hear the latest gossip.",
+  "nickname": "Welcoming Neighbor"
+ },
+ "Voice 290": {
+  "gender": "Male",
+  "age": "Senior",
+  "pitch": "Low-Mid",
+  "texture": "Warm, Raspy",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "An enthusiastic and friendly elder who welcomes you warmly like a longtime neighbor.",
+  "nickname": "Welcoming Neighbor"
+ },
+ "Voice 291": {
+  "gender": "Male",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Slightly Raspy",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "An enthusiastic and friendly neighbor who is eager to hear the latest neighborhood news.",
+  "nickname": "Excited Neighbor"
+ },
+ "Voice 292": {
+  "gender": "Male",
+  "age": "Young adult",
+  "pitch": "Medium",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "Medium-high",
+  "vibe": "An enthusiastic and friendly peer eager to catch up on local news.",
+  "nickname": "Enthusiastic Neighbor"
+ },
+ "Voice 293": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Smooth",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "Warm, welcoming, and enthusiastically friendly, perfect for lighthearted conversations.",
+  "nickname": "Warm Conversationalist"
+ },
+ "Voice 294": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Smooth",
+  "accent": "General American",
+  "energy": "Medium",
+  "vibe": "Warm and inviting, like a friendly neighbor eager to catch up over casual conversation.",
+  "nickname": "Welcoming Friend"
+ },
+ "Voice 295": {
+  "gender": "Female",
+  "age": "Young adult",
+  "pitch": "Medium",
+  "texture": "Warm",
+  "accent": "American",
+  "energy": "Medium-high",
+  "vibe": "An inviting and enthusiastic friend who is eager to chat about the latest news over coffee.",
+  "nickname": "Warm Neighbor"
+ },
+ "Voice 296": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "High",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "Enthusiastic, warm, and conversational, perfect for a friendly neighbor or outgoing best friend.",
+  "nickname": "Energetic Bestie"
+ },
+ "Voice 297": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Smooth",
+  "accent": "American",
+  "energy": "Medium",
+  "vibe": "Warm, welcoming, and naturally inquisitive with a friendly, conversational tone.",
+  "nickname": "Welcoming Gossip"
+ },
+ "Voice 298": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "General American",
+  "energy": "High",
+  "vibe": "Warm, enthusiastic, and welcoming with an inviting conversational tone.",
+  "nickname": "Bubbly Host"
+ },
+ "Voice 299": {
+  "gender": "Male",
+  "age": "Middle-aged",
+  "pitch": "Medium",
+  "texture": "Warm",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "Warm, enthusiastic, and welcoming, like a friendly neighbor eager to chat over local news.",
+  "nickname": "Friendly Neighbor"
+ },
+ "Voice 300": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear, Warm",
+  "accent": "General American",
+  "energy": "Upbeat",
+  "vibe": "Welcoming and conversational, like an approachable friend eager to catch up.",
+  "nickname": "Friendly Neighbor"
+ },
+ "Voice 301": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "Warm, bubbly, and eagerly conversational.",
+  "nickname": "Welcoming Friend"
+ },
+ "Voice 302": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Warm",
+  "accent": "American",
+  "energy": "Medium-High",
+  "vibe": "A warm, inviting friend eager to catch up on the latest news.",
+  "nickname": "Welcoming Friend"
+ },
+ "Voice 303": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "High",
+  "texture": "Bright",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "An expressive and overly welcoming neighbor who thrives on lively local gossip.",
+  "nickname": "Excited Chatty Neighbor"
+ },
+ "Voice 304": {
+  "gender": "Male",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Clear",
+  "accent": "Australian",
+  "energy": "High",
+  "vibe": "An upbeat, warm, and highly engaging Australian speaker.",
+  "nickname": "Energetic Aussie Mate"
+ },
+ "Voice 305": {
+  "gender": "male",
+  "age": "middle-aged",
+  "pitch": "low",
+  "texture": "gravelly",
+  "accent": "american",
+  "energy": "low",
+  "vibe": "A sinister, hushed, and secretive tone perfect for dark, villainous, or mysterious characters.",
+  "nickname": "Shadowy Whispers"
+ },
+ "Voice 306": {
+  "gender": "Female",
+  "age": "Middle-aged",
+  "pitch": "Medium",
+  "texture": "Smooth",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "Warm, welcoming, and enthusiastically friendly with an inviting tone.",
+  "nickname": "Bubbly Host"
+ },
+ "Voice 307": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Smooth",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "Warm, conversational, and inviting with an enthusiastic, friendly tone.",
+  "nickname": "Warm Neighbor"
+ },
+ "Voice 308": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Mid-High",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "Medium-High",
+  "vibe": "Warm, welcoming, and enthusiastically conversational like a friendly host.",
+  "nickname": "Welcoming Host"
+ },
+ "Voice 309": {
+  "gender": "Male",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Smooth, Breathy",
+  "accent": "American",
+  "energy": "Medium",
+  "vibe": "A warm, welcoming, and inquisitive conversational partner.",
+  "nickname": "Warm Welcomer"
+ },
+ "Voice 310": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "General American",
+  "energy": "Medium-High",
+  "vibe": "A warm and inviting friend eager to catch up on the latest local news.",
+  "nickname": "Warm Chatty Neighbor"
+ },
+ "Voice 311": {
+  "gender": "Male",
+  "age": "Elderly",
+  "pitch": "Low",
+  "texture": "Gravelly",
+  "accent": "American (Southern)",
+  "energy": "Low",
+  "vibe": "A friendly and welcoming rural elder inviting you in for a casual chat.",
+  "nickname": "Country Storyteller"
+ },
+ "Voice 312": {
+  "gender": "male",
+  "age": "young adult",
+  "pitch": "mid-high",
+  "texture": "clear",
+  "accent": "American",
+  "energy": "high",
+  "vibe": "An enthusiastic and friendly buddy who is eager to hear the latest news.",
+  "nickname": "Excited Neighbor"
+ },
+ "Voice 313": {
+  "gender": "Male",
+  "age": "Adult",
+  "pitch": "Low",
+  "texture": "Warm",
+  "accent": "Scottish",
+  "energy": "Medium",
+  "vibe": "A friendly and welcoming companion inviting you in for a cozy chat.",
+  "nickname": "Friendly Scottish Neighbor"
+ },
+ "Voice 314": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "Warm, enthusiastic, and welcoming with a friendly, conversational tone.",
+  "nickname": "Enthusiastic Companion"
+ },
+ "Voice 315": {
+  "gender": "Male",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Warm",
+  "accent": "American",
+  "energy": "Medium-High",
+  "vibe": "An inviting and enthusiastic friend who is eager to chat and catch up on news.",
+  "nickname": "Friendly Neighbor"
+ },
+ "Voice 316": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Warm",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "An upbeat, welcoming, and friendly conversationalist.",
+  "nickname": "Friendly Enthusiast"
+ },
+ "Voice 317": {
+  "gender": "Female",
+  "age": "Middle-aged",
+  "pitch": "Medium",
+  "texture": "Warm, slightly raspy",
+  "accent": "Southern American",
+  "energy": "High",
+  "vibe": "A warm and hospitable Southern friend always ready for a cozy chat.",
+  "nickname": "Southern Welcoming Friend"
+ },
+ "Voice 318": {
+  "gender": "male",
+  "age": "young adult",
+  "pitch": "mid",
+  "texture": "slightly raspy",
+  "accent": "American",
+  "energy": "medium-high",
+  "vibe": "Warm, conversational, and instantly approachable like a chatty next-door neighbor.",
+  "nickname": "Welcoming Neighbor"
+ },
+ "Voice 319": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "Warm, enthusiastic, and conversational, perfect for a welcoming friend or upbeat presenter.",
+  "nickname": "Enthusiastic Friend"
+ },
+ "Voice 320": {
+  "gender": "male",
+  "age": "middle-aged",
+  "pitch": "low-mid",
+  "texture": "warm, slightly raspy",
+  "accent": "Southern American",
+  "energy": "low",
+  "vibe": "A warm and casual conversationalist who sounds like an inviting neighbor sharing the local scoop.",
+  "nickname": "Friendly Porch Neighbor"
+ },
+ "Voice 321": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Clear",
+  "accent": "General American",
+  "energy": "High",
+  "vibe": "An inviting, friendly, and enthusiastic speaker who creates an instant sense of warmth and excitement.",
+  "nickname": "Welcoming Companion"
+ },
+ "Voice 322": {
+  "gender": "Male",
+  "age": "Young Adult",
+  "pitch": "Medium-Low",
+  "texture": "Smooth",
+  "accent": "American",
+  "energy": "Low",
+  "vibe": "An inviting and friendly voice that feels intimate, casual, and warm.",
+  "nickname": "Warm Conversationalist"
+ },
+ "Voice 323": {
+  "gender": "male",
+  "age": "middle-aged",
+  "pitch": "medium",
+  "texture": "slightly raspy",
+  "accent": "American (Southern)",
+  "energy": "high",
+  "vibe": "An enthusiastic, friendly local who is always eager to catch up on the latest neighborhood gossip.",
+  "nickname": "Folksy Gossip"
+ },
+ "Voice 324": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium",
+  "texture": "Warm",
+  "accent": "American",
+  "energy": "Medium-High",
+  "vibe": "Welcoming and enthusiastic, giving off a warm, friendly, and approachable conversational tone.",
+  "nickname": "Friendly Neighbor"
+ },
+ "Voice 325": {
+  "gender": "Female",
+  "age": "Child",
+  "pitch": "High",
+  "texture": "Bright",
+  "accent": "American",
+  "energy": "High",
+  "vibe": "An upbeat and eager young child excited to hear stories.",
+  "nickname": "Eager Young Kid"
+ },
+ "Voice 326": {
+  "gender": "Female",
+  "age": "Young Adult",
+  "pitch": "Medium-High",
+  "texture": "Smooth",
+  "accent": "General American",
+  "energy": "High",
+  "vibe": "An inviting, enthusiastic, and warm conversational voice ideal for friendly roles.",
+  "nickname": "Welcoming Friend"
+ }
+}
