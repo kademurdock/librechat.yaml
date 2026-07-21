@@ -63,6 +63,14 @@ endpoints:
           # LYRIC CANDIDATES (staged July 13 2026, Kade's pick pending — bars test
           # July 11 showed both far outclass hermes-405b on rhyme density):
           "moonshotai/kimi-k2.5",       # 1T MoE, $0.38/$2.02, non-thinking = persona-fast
+          # KIMI DIRECT (July 21 2026): these two are NOT served by OpenRouter --
+          # the reframe-proxy intercepts them and routes straight to Moonshot's
+          # own API (api.moonshot.ai, env MOONSHOT_KEY on reframe-proxy), because
+          # OpenRouter's Kimi hosting returns empty/errors. Proxy pins the
+          # temperature Moonshot demands (0.6 reasoning-off / 1 reasoning-on) and
+          # maps Deep Think -> reasoning on. k2.6 is the fleet-wide default.
+          "moonshotai/kimi-k2.6",       # 1T MoE 32B active, 256K ctx, multimodal, fleet default
+          "moonshotai/kimi-k3",         # flagship deep-reasoning/creative, slow+pricey
           "x-ai/grok-4.20",             # $1.25/$2.50, 2M ctx, bars-test co-champion
         ]
         fetch: false
