@@ -6,6 +6,10 @@ Why this repo: `librechat.yaml` has no auto-deploy webhook, so commits here neve
 
 ---
 
+## [2026-07-21, Cowork] URGENT FIX SHIPPED: push-notification broadcast leak (family got Kade's personal "Ki" check-ins)
+
+**If you (Forge or a session) call bridge `POST /notify`: the contract changed.** A send with no `userId` used to broadcast to EVERY registered device — that's how Kade's mom got a "Ki — been a minute" notification (confirmed live: one Kiana notify, `sent=3`, all three registered iPhones, 15:27 UTC July 21). As of bridge `d7da583` (deployed, verified): no `userId` = blocked, delivered to nobody. Broadcast now requires ADMIN BRIDGE_SECRET + explicit `broadcast:true` (the scoped agent secret can never broadcast). `/push-send` now requires a body (the "Ki was thinking about you." default is gone) and an explicit target (`token`, `userId`, or `all:true`). "Ki reaches out" (`/reachout`) is pinned to Kade's own devices (`ADMIN_USER_ID` env overrides the baked-in id). Outreach title fallback is now 'Kade-AI', not 'Ki'. **Normal agent check-ins/reminders (kade_notify tool) are unaffected — they already pass the user's id.** Revert: `git revert d7da583` on kade-ai-bridge main. Full writeup: Kade's local PROJECT_STATUS.md, July 21 entry.
+
 ## [2026-07-19, session 8 — Cowork] Ground-truth audit: fork/bridge/kade-ai-app had undocumented (but healthy) commits; check_ground_truth.sh was silently broken since session 5
 
 **Current verified state (git ls-remote + Railway `deployments(first:1)`, all SUCCESS, site 200):** fork `f3700d1` · inworld `f9f9437` · bridge `6acd597` · librechat.yaml `9aa2e4c` · kade-ai-app `b5e4601` · kade-ai-native `127446e`.
