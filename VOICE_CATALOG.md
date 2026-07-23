@@ -338,149 +338,149 @@ Voice 326 — Welcoming Friend. Female, Young Adult, pitch Medium-High, Smooth, 
 
 ## Addendum — July 22, 2026: the Fish Audio Beta block (Voices 327–468)
 
-142 voices from Kade's own fish.audio clone library joined the roster tonight, all labeled "(Beta)" in the pickers while they're being tested. These are NOT described by ear yet — the July 21 listening pipeline hasn't run on them. Until it does, the original fish library titles below are the best matching signal (they're Kade's own names for her clones, so they're already descriptive). Provider: fish.audio s2.1-pro via the proxy; same steering tags as every other voice.
+142 voices from Kade's own fish.audio clone library, all labeled "(Beta)" in the pickers while they're being tested. Described by ear July 22 (same pipeline as the July 21 catalog: one warm audition line per voice, gemini-flash-latest listening — same honest limitation applies, the warm line tilts vibes friendly; objective fields are the reliable signal). Provider: fish.audio s2.1-pro via the proxy; same steering tags as every other voice. Kade's own names for each clone are kept in parentheses where they differ from the catalog nickname.
 
 Named ones (Kade's labels): 327 Kade calm and casual · 385 Miss A Irish · 391 Miss A animated conversation · 393 Miss A pro reading · 424 Kade's child impression · 463 Miss A casual · 464 Kade conversational · 466 Kade Candid.
 
-Voice 327 — Me as a Calm Inspirational Narrator (picker name: Kade calm and casual). [Beta, fish.audio]
-Voice 328 — Monstertruck synthwoman. [Beta, fish.audio]
-Voice 329 — Shy teacher synthwoman. [Beta, fish.audio]
-Voice 330 — Crazy KG teacher synthwoman. [Beta, fish.audio]
-Voice 331 — Toaster2 synthman. [Beta, fish.audio]
-Voice 332 — Toaster synthman. [Beta, fish.audio]
-Voice 333 — Car-guy synthman. [Beta, fish.audio]
-Voice 334 — Synico Synthman. [Beta, fish.audio]
-Voice 335 — Southern nansy synthwoman. [Beta, fish.audio]
-Voice 336 — Mad granny synthwoman. [Beta, fish.audio]
-Voice 337 — Southern granny Synthwoman. [Beta, fish.audio]
-Voice 338 — Tired flight attendant synthwoman. [Beta, fish.audio]
-Voice 339 — Auctioneer synthman. [Beta, fish.audio]
-Voice 340 — Planty synthman. [Beta, fish.audio]
-Voice 341 — Evil support synthman. [Beta, fish.audio]
-Voice 342 — Shopping-host synthwoman. [Beta, fish.audio]
-Voice 343 — Water-guy synthman. [Beta, fish.audio]
-Voice 344 — Nature-brit synthman. [Beta, fish.audio]
-Voice 345 — Preacher synthman. [Beta, fish.audio]
-Voice 346 — Preacher synthwoman. [Beta, fish.audio]
-Voice 347 — Southern preacher synthwoman. [Beta, fish.audio]
-Voice 348 — Southern preacher synthman. [Beta, fish.audio]
-Voice 349 — Evil scientist Synthman. [Beta, fish.audio]
-Voice 350 — Nutso Synthman. [Beta, fish.audio]
-Voice 351 — Barker synthman. [Beta, fish.audio]
-Voice 352 — Tough-tex Synthman. [Beta, fish.audio]
-Voice 353 — Ausie Synthman. [Beta, fish.audio]
-Voice 354 — Untruthful narrator. [Beta, fish.audio]
-Voice 355 — Creepy latenight dj. [Beta, fish.audio]
-Voice 356 — Ozark-grand synthman. [Beta, fish.audio]
-Voice 357 — Copper synthman. [Beta, fish.audio]
-Voice 358 — Jockman synthteen. [Beta, fish.audio]
-Voice 359 — Mean-girl synthteen. [Beta, fish.audio]
-Voice 360 — Game-guy synthman. [Beta, fish.audio]
-Voice 361 — Male-nerd synth-teen. [Beta, fish.audio]
-Voice 362 — Tough-girl synthteen. [Beta, fish.audio]
-Voice 363 — Skater dude synthteen. [Beta, fish.audio]
-Voice 364 — Emo Synthteen. [Beta, fish.audio]
-Voice 365 — Teena synthteen. [Beta, fish.audio]
-Voice 366 — Brattley. [Beta, fish.audio]
-Voice 367 — Marivia synthchild. [Beta, fish.audio]
-Voice 368 — Natasha, female black teen. [Beta, fish.audio]
-Voice 369 — New york male Energetic Sales Voice. [Beta, fish.audio]
-Voice 370 — Female preschool Lively Event Host. [Beta, fish.audio]
-Voice 371 — Ren, Clear Young Narrator. [Beta, fish.audio]
-Voice 372 — Retro strict female teacher. [Beta, fish.audio]
-Voice 373 — Scarla female commercial child. [Beta, fish.audio]
-Voice 374 — Worried woman2. [Beta, fish.audio]
-Voice 375 — Southern used car guy. [Beta, fish.audio]
-Voice 376 — Silvia, female child. [Beta, fish.audio]
-Voice 377 — Chill southern child. [Beta, fish.audio]
-Voice 378 — Snarky woman. [Beta, fish.audio]
-Voice 379 — The cutest synth child. [Beta, fish.audio]
-Voice 380 — Child with unknown accent. [Beta, fish.audio]
-Voice 381 — Vintage stranger danger guy. [Beta, fish.audio]
-Voice 382 — Old guy speech 2. [Beta, fish.audio]
-Voice 383 — Natia. [Beta, fish.audio]
-Voice 384 — DJ velvet. [Beta, fish.audio]
-Voice 385 — Amber Irish (picker name: Miss A Irish). [Beta, fish.audio]
-Voice 386 — Honey synth child. [Beta, fish.audio]
-Voice 387 — Cody synth child. [Beta, fish.audio]
-Voice 388 — black synth child. [Beta, fish.audio]
-Voice 389 — Synth child2. [Beta, fish.audio]
-Voice 390 — Synth child. [Beta, fish.audio]
-Voice 391 — Amber animated conversation (picker name: Miss A animated conversation). [Beta, fish.audio]
-Voice 392 — Hannah the valley child. [Beta, fish.audio]
-Voice 393 — Pro amber reading (picker name: Miss A pro reading). [Beta, fish.audio]
-Voice 394 — Ned. [Beta, fish.audio]
-Voice 395 — Ethan. [Beta, fish.audio]
-Voice 396 — Paul. [Beta, fish.audio]
-Voice 397 — Doc. [Beta, fish.audio]
-Voice 398 — Jason. [Beta, fish.audio]
-Voice 399 — Raspia. [Beta, fish.audio]
-Voice 400 — Miriam. [Beta, fish.audio]
-Voice 401 — Vadalia. [Beta, fish.audio]
-Voice 402 — Courtland. [Beta, fish.audio]
-Voice 403 — Maurilla. [Beta, fish.audio]
-Voice 404 — Maira. [Beta, fish.audio]
-Voice 405 — Yorkley. [Beta, fish.audio]
-Voice 406 — Kristy. [Beta, fish.audio]
-Voice 407 — Judith. [Beta, fish.audio]
-Voice 408 — Malla. [Beta, fish.audio]
-Voice 409 — Marryanne. [Beta, fish.audio]
-Voice 410 — Sassy. [Beta, fish.audio]
-Voice 411 — Danielle. [Beta, fish.audio]
-Voice 412 — Amanda. [Beta, fish.audio]
-Voice 413 — Tammy  synthetic. [Beta, fish.audio]
-Voice 414 — Valley girl 3. [Beta, fish.audio]
-Voice 415 — Krista synthetic. [Beta, fish.audio]
-Voice 416 — Ashley. [Beta, fish.audio]
-Voice 417 — Fake Francene synthetic. [Beta, fish.audio]
-Voice 418 — Valley girl2 synthetic. [Beta, fish.audio]
-Voice 419 — Valley girl1. [Beta, fish.audio]
-Voice 420 — Sappy sammy synthetic. [Beta, fish.audio]
-Voice 421 — Ethrage. [Beta, fish.audio]
-Voice 422 — Rocky synthetic. [Beta, fish.audio]
-Voice 423 — Yawning clown synthetic. [Beta, fish.audio]
-Voice 424 — Me child voice actor (picker name: Kade's child impression). [Beta, fish.audio]
-Voice 425 — Black teen narrator. [Beta, fish.audio]
-Voice 426 — Cassia synthetic. [Beta, fish.audio]
-Voice 427 — Mandi synthetic. [Beta, fish.audio]
-Voice 428 — Elly May synthetic child. [Beta, fish.audio]
-Voice 429 — Sargeant synthetic. [Beta, fish.audio]
-Voice 430 — Boss synthetic. [Beta, fish.audio]
-Voice 431 — Female Rev synthetic. [Beta, fish.audio]
-Voice 432 — Mob girl synthetic. [Beta, fish.audio]
-Voice 433 — Jayda synthetic. [Beta, fish.audio]
-Voice 434 — CB trucker synthetic. [Beta, fish.audio]
-Voice 435 — Vintage gameshow host synthetic. [Beta, fish.audio]
-Voice 436 — Sarina urban narrator synthetic. [Beta, fish.audio]
-Voice 437 — Scary aunt synthetic. [Beta, fish.audio]
-Voice 438 — Shocked Stephen synthetic. [Beta, fish.audio]
-Voice 439 — Scary narrator1 synthetic. [Beta, fish.audio]
-Voice 440 — Ducky mcquackerson synthetic. [Beta, fish.audio]
-Voice 441 — Pukin reporter. [Beta, fish.audio]
-Voice 442 — Preacher male synthetic. [Beta, fish.audio]
-Voice 443 — Death metal devil. [Beta, fish.audio]
-Voice 444 — Old brit. [Beta, fish.audio]
-Voice 445 — Nova Synthetic. [Beta, fish.audio]
-Voice 446 — Lilia synthetic. [Beta, fish.audio]
-Voice 447 — Libby Synthetic. [Beta, fish.audio]
-Voice 448 — Jamaiken granny. [Beta, fish.audio]
-Voice 449 — Kyla Synthetic. [Beta, fish.audio]
-Voice 450 — Kathlene synthetic. [Beta, fish.audio]
-Voice 451 — Angel Synthetic. [Beta, fish.audio]
-Voice 452 — Hiphop male 1 synthetic. [Beta, fish.audio]
-Voice 453 — Southern Granny synthetic. [Beta, fish.audio]
-Voice 454 — Drunk sounding old man on the phone synthetic. [Beta, fish.audio]
-Voice 455 — Depressed hipster. [Beta, fish.audio]
-Voice 456 — Colbie synthetic. [Beta, fish.audio]
-Voice 457 — Cartoonia Synthetic. [Beta, fish.audio]
-Voice 458 — Alegra synthetic. [Beta, fish.audio]
-Voice 459 — Samaria. [Beta, fish.audio]
-Voice 460 — Monique synthetic. [Beta, fish.audio]
-Voice 461 — Kid mya, synthetic. [Beta, fish.audio]
-Voice 462 — Deej. [Beta, fish.audio]
-Voice 463 — Amber casual (picker name: Miss A casual). [Beta, fish.audio]
-Voice 464 — Me casual (picker name: Kade conversational). [Beta, fish.audio]
-Voice 465 — Emani. [Beta, fish.audio]
-Voice 466 — Me talking casually (picker name: Kade Candid). [Beta, fish.audio]
-Voice 467 — Shaina. [Beta, fish.audio]
-Voice 468 — Kiddy. [Beta, fish.audio]
+Voice 327 — Kade calm and casual. Female, Young Adult, pitch Medium-High, Warm, Breathy, Smooth, American, energy Medium-High. A warm, friendly, and conversational voice that feels intimate and inviting. (Her fish clone: “Me as a Calm Inspirational Narrator”.)
+Voice 328 — Hospitable Southern Belle. Female, Senior, pitch Medium-High, Warm, Raspy, American (Southern), energy Medium-High. A chatty and hospitable Southern woman welcoming a guest into her home with warmth and enthusiasm. (Her fish clone: “Monstertruck synthwoman”.)
+Voice 329 — Welcoming Conversationalist. Female, Young Adult, pitch Medium-High, Bright, Clear, Warm, American, energy Medium-High. A warm, engaging, and friendly voice that sounds genuinely welcoming and conversational. (Her fish clone: “Shy teacher synthwoman”.)
+Voice 330 — Welcoming Friend. Female, Young Adult, pitch Medium-High, Clear, Bright, Warm, American, energy High. A warm, bright, and expressive voice that radiates friendly enthusiasm. (Her fish clone: “Crazy KG teacher synthwoman”.)
+Voice 331 — Welcoming Southern Neighbor. Male, Middle-aged, pitch Medium, Warm, Clear, American (Southern), energy Medium-High. A warm and inviting Southern host welcoming a visitor with enthusiastic hospitality. (Her fish clone: “Toaster2 synthman”.)
+Voice 332 — Friendly Southern Gentleman. Male, Middle-aged, pitch Medium-Low, Warm, Smooth, American (Southern), energy Medium-High. A warm, welcoming Southern gentleman inviting you in for a friendly chat. (Her fish clone: “Toaster synthman”.)
+Voice 333 — Warm Host. Male, Middle-aged, pitch Medium, Warm, Clear, American, energy Medium-High. An inviting, enthusiastic, and approachable voice with a warm, conversational charm. (Her fish clone: “Car-guy synthman”.)
+Voice 334 — Enthusiastic Host. Male, Middle-aged, pitch Medium, Warm, Clear, American, energy High. A warm, enthusiastic, and welcoming voice full of friendly energy and excitement. (Her fish clone: “Synico Synthman”.)
+Voice 335 — Welcoming Southern Matriarch. Female, Senior, pitch Medium-High, Warm, Raspy, American (Southern), energy Medium-High. A warm and animated Southern matriarch eager to catch up with enthusiastic affection. (Her fish clone: “Southern nansy synthwoman”.)
+Voice 336 — Chatty Southern Matriarch. Female, Senior, pitch Medium-High, Warm, Bright, Raspy, American (Southern), energy High. An enthusiastic, conversational, and welcoming Southern matriarch overflowing with chatty energy. (Her fish clone: “Mad granny synthwoman”.)
+Voice 337 — Warm Southern Hostess. Female, Senior, pitch Medium-High, Warm, American (Southern), energy Medium-High. A warm and welcoming southern voice that exudes friendly hospitality and conversational charm. (Her fish clone: “Southern granny Synthwoman”.)
+Voice 338 — Warm Conversationalist. Female, Young Adult, pitch Medium-High, Clear, Warm, Bright, American, energy Medium-High. A warm, enthusiastic, and inviting voice that feels naturally expressive and conversational. (Her fish clone: “Tired flight attendant synthwoman”.)
+Voice 339 — Warm Southern Welcome. Male, Senior, pitch Medium-Low, Gravelly, Warm, American (Southern), energy Medium-High. A warm, welcoming Southern voice with a friendly tone and a hint of gravel. (Her fish clone: “Auctioneer synthman”.)
+Voice 340 — Enthusiastic Host. Male, Middle-aged, pitch Medium, Warm, Bright, Clear, American, energy High. An enthusiastic and animated speaker who warmly welcomes the listener with high energy. (Her fish clone: “Planty synthman”.)
+Voice 341 — Welcoming Host. Male, Middle-aged, pitch Medium-Low, Warm, Smooth, American, energy Medium-High. An inviting and jovial voice that feels warm, friendly, and eager to share a story. (Her fish clone: “Evil support synthman”.)
+Voice 342 — Enthusiastic Host. Female, Young Adult, pitch Medium-High, Clear, Warm, Bright, American, energy Medium-High. A warm, enthusiastic, and welcoming voice that feels instantly friendly and approachable. (Her fish clone: “Shopping-host synthwoman”.)
+Voice 343 — Welcoming Host. Male, Middle-aged, pitch Medium-Low, Warm, Smooth, American, energy Medium. A warm, welcoming, and conversational tone that feels intimate and inviting. (Her fish clone: “Water-guy synthman”.)
+Voice 344 — Warm British Confidant. Male, Middle-aged, pitch Low, Warm, British, energy Low. A deep, intimate British voice that sounds welcoming, comforting, and quietly conversational. (Her fish clone: “Nature-brit synthman”.)
+Voice 345 — Welcoming Southern Host. Male, Senior, pitch Medium-Low, Warm, American (Southern), energy Medium-High. A hospitable and cheerful Southern voice radiating warmth and friendly enthusiasm. (Her fish clone: “Preacher synthman”.)
+Voice 346 — Southern Hospitality. Female, Middle-aged, pitch Medium-High, Warm, Bright, American (Southern), energy High. An enthusiastic and hospitable Southern voice that feels chatty, warm, and instantly welcoming. (Her fish clone: “Preacher synthwoman”.)
+Voice 347 — Welcoming Southern Matriarch. Female, Senior, pitch Medium-High, Warm, Bright, American (Southern), energy High. A warm, enthusiastic Southern woman who exudes hospitable charm and friendly excitement. (Her fish clone: “Southern preacher synthwoman”.)
+Voice 348 — Welcoming Southern Host. Male, Middle-aged, pitch Medium-Low, Gravelly, American (Southern), energy High. A warm, enthusiastic Southern voice full of welcoming charm and boisterous energy. (Her fish clone: “Southern preacher synthman”.)
+Voice 349 — Enthusiastic Host. Male, Middle-aged, pitch Medium-Low, Warm, Resonant, American, energy High. An enthusiastic and theatrical male voice that delivers a warm, welcoming, and animated tone. (Her fish clone: “Evil scientist Synthman”.)
+Voice 350 — Welcoming Host. Male, Middle-aged, pitch Medium, Warm, American, energy Medium-High. A warm, welcoming, and expressive male voice with a friendly, conversational tone. (Her fish clone: “Nutso Synthman”.)
+Voice 351 — Friendly Companion. Male, Middle-aged, pitch Medium-Low, Warm, Gravelly, Breathy, American, energy Medium-High. A warm, expressive, and inviting voice that sounds like a friendly companion eager to catch up. (Her fish clone: “Barker synthman”.)
+Voice 352 — Folksy Southern Host. Male, Senior, pitch Medium-Low, Warm, American (Southern), energy Medium-High. A warm, folksy, and hospitable voice full of friendly, welcoming charm. (Her fish clone: “Tough-tex Synthman”.)
+Voice 353 — Friendly Aussie Host. Male, Middle-aged, pitch Medium-Low, Warm, Smooth, Australian, energy Medium-High. A warm, welcoming, and friendly Australian male voice inviting you in for a chat. (Her fish clone: “Ausie Synthman”.)
+Voice 354 — Animated British Host. Male, Middle-aged, pitch Medium-High, Clear, Warm, Bright, British, energy High. An enthusiastic, theatrical, and welcoming speaker bursting with warmth and friendly charm. (Her fish clone: “Untruthful narrator”.)
+Voice 355 — Intimate Raspy Storyteller. Male, Senior, pitch Low, Raspy, Breathy, Warm, American, energy Low. An intimate, hushed male voice with a warm, breathy rasp that creates a cozy and conversational atmosphere. (Her fish clone: “Creepy latenight dj”.)
+Voice 356 — Welcoming Host. Male, Middle-aged, pitch Medium-Low, Warm, American, energy Medium-High. An inviting, enthusiastic, and conversational voice that conveys genuine warmth and friendliness. (Her fish clone: “Ozark-grand synthman”.)
+Voice 357 — Warm Conversationalist. Male, Middle-aged, pitch Medium, Warm, Smooth, Clear, American, energy Medium. A warm, welcoming, and intimate voice that feels instantly friendly and engaging. (Her fish clone: “Copper synthman”.)
+Voice 358 — Enthusiastic Welcoming Friend. Male, Young Adult, pitch Medium-High, Clear, Bright, Warm, American, energy High. An upbeat and overly enthusiastic speaker with a warm, animated, and inviting conversational tone. (Her fish clone: “Jockman synthteen”.)
+Voice 359 — Welcoming Companion. Female, Young Adult, pitch Medium-High, Bright, Warm, Clear, American, energy High. An enthusiastic and welcoming voice that feels warm, personal, and full of expressive energy. (Her fish clone: “Mean-girl synthteen”.)
+Voice 360 — Welcoming Friend. Male, Young Adult, pitch Medium, Warm, Clear, American, energy Medium-High. A warm, energetic, and welcoming male voice that exudes enthusiasm and friendly charm. (Her fish clone: “Game-guy synthman”.)
+Voice 361 — Friendly Host. Male, Young Adult, pitch Medium-Low, Warm, Clear, American, energy Medium-High. An inviting, enthusiastic, and warm voice that feels like catching up with an old friend. (Her fish clone: “Male-nerd synth-teen”.)
+Voice 362 — Welcoming Friend. Female, Young Adult, pitch Medium-High, Warm, Bright, Clear, American, energy Medium-High. A warm, upbeat, and welcoming voice that feels friendly and inviting. (Her fish clone: “Tough-girl synthteen”.)
+Voice 363 — Friendly Hospitable Host. Male, Middle-aged, pitch Medium-Low, Warm, American, energy Medium-High. A warm, inviting, and friendly voice that sounds eager to share a personal conversation. (Her fish clone: “Skater dude synthteen”.)
+Voice 364 — Warm Companion. Male, Middle-aged, pitch Medium-Low, Warm, Smooth, American, energy Low. A warm, welcoming, and relaxed male voice that feels like a friendly conversation over coffee. (Her fish clone: “Emo Synthteen”.)
+Voice 365 — Warm Enthusiast. Female, Young Adult, pitch Medium-High, Warm, Clear, American, energy Medium-High. An upbeat, warm, and inviting voice that sounds genuinely excited to connect. (Her fish clone: “Teena synthteen”.)
+Voice 366 — Bubbly Kid. Female, Child, pitch High, Bright, Clear, American, energy High. A bubbly, enthusiastic, and cheerful young voice full of friendly excitement. (Her fish clone: “Brattley”.)
+Voice 367 — Cheerful Host. Female, Young Adult, pitch High, Bright, Clear, American, energy High. An upbeat and enthusiastic voice that radiates warmth and welcoming excitement. (Her fish clone: “Marivia synthchild”.)
+Voice 368 — Bubbly Playmate. Female, Child, pitch High, Bright, Clear, American, energy High. An enthusiastic and friendly young voice overflowing with bubbly warmth and excitement. (Her fish clone: “Natasha, female black teen”.)
+Voice 369 — Overenthusiastic Host. Male, Middle-aged, pitch Medium-High, Gravelly, American, energy High. An overly enthusiastic and theatrical male voice with a warm, raspy tone. (Her fish clone: “New york male Energetic Sales Voice”.)
+Voice 370 — Cheerful Welcomer. Female, Young Adult, pitch High, Clear, Bright, American, energy High. A bright, cheerful, and welcoming young woman eagerly sharing news. (Her fish clone: “Female preschool Lively Event Host”.)
+Voice 371 — Warm Conversationalist. Female, Young Adult, pitch Medium-High, Breathy, Warm, Smooth, American, energy Medium. A warm, intimate, and inviting voice with a soft, breathy quality that feels friendly and conversational. (Her fish clone: “Ren, Clear Young Narrator”.)
+Voice 372 — Welcoming Matriarch. Female, Senior, pitch Medium-High, Warm, Clear, British, energy Medium-High. A warm, expressive, and welcoming senior female voice with a lively, inviting charm. (Her fish clone: “Retro strict female teacher”.)
+Voice 373 — Bubbly Young Storyteller. Female, Child, pitch High, Bright, American, energy High. A bubbly and cheerful child's voice bursting with welcoming, enthusiastic energy. (Her fish clone: “Scarla female commercial child”.)
+Voice 374 — Welcoming Friend. Female, Young Adult, pitch High, Bright, American, energy High. An upbeat, welcoming, and friendly voice full of expressive enthusiasm. (Her fish clone: “Worried woman2”.)
+Voice 375 — Energetic Southern Greeter. Male, Middle-aged, pitch Medium, Gravelly, Warm, American (Southern), energy High. An exceptionally enthusiastic and friendly Southern host who radiates warmth and eager conversation. (Her fish clone: “Southern used car guy”.)
+Voice 376 — Cheerful Young Girl. Female, Child, pitch High, Clear, Bright, American, energy Medium-High. A cheerful and welcoming young child eager to share news. (Her fish clone: “Silvia, female child”.)
+Voice 377 — Warm Southern Girl. Female, Child, pitch High, Bright, American (Southern), energy Medium-High. A warm and cheerful young Southern voice welcoming a friend with eager enthusiasm. (Her fish clone: “Chill southern child”.)
+Voice 378 — Warm Welcoming Friend. Female, Young Adult, pitch Medium, Warm, Breathy, American, energy Medium. An inviting and friendly voice with a relaxed, intimate, and welcoming tone. (Her fish clone: “Snarky woman”.)
+Voice 379 — Playful Child. Female, Child, pitch High, Bright, Clear, American, energy Medium-High. A cheerful and welcoming child's voice filled with warmth and excitement. (Her fish clone: “The cutest synth child”.)
+Voice 380 — Friendly Host. Female, Young Adult, pitch Medium-High, Warm, Clear, Non-Native English, energy Medium-High. A warm, inviting, and friendly voice that creates an instant sense of welcoming intimacy. (Her fish clone: “Child with unknown accent”.)
+Voice 381 — Jovial Senior Host. Male, Senior, pitch Medium-Low, Gravelly, Warm, American, energy High. A jovial, booming, and warmly enthusiastic older man inviting someone in for a friendly chat. (Her fish clone: “Vintage stranger danger guy”.)
+Voice 382 — Southern Grandpa. Male, Senior, pitch Medium-Low, Gravelly, Raspy, Warm, American (Southern), energy Low. A warm and inviting elderly southern voice full of character and gentle familiarity. (Her fish clone: “Old guy speech 2”.)
+Voice 383 — Cheerful Hostess. Female, Young Adult, pitch Medium-High, Warm, Bright, American, energy Medium-High. A warm, enthusiastic, and friendly voice full of eager hospitality. (Her fish clone: “Natia”.)
+Voice 384 — Welcoming Southern Neighbor. Female, Middle-aged, pitch Medium-High, Warm, American (Southern), energy Medium-High. A warm and inviting Southern voice that sounds like a friendly neighbor welcoming you into her home. (Her fish clone: “DJ velvet”.)
+Voice 385 — Miss A Irish. Female, Young Adult, pitch Medium-High, Warm, Clear, Smooth, Irish, energy Medium-High. A warm, welcoming, and upbeat Irish voice with a friendly conversational tone. (Her fish clone: “Amber Irish”.)
+Voice 386 — Enthusiastic Young Storyteller. Female, Child, pitch High, Clear, Bright, American, energy Medium-High. A cute, cheerful, and welcoming young child full of eager enthusiasm. (Her fish clone: “Honey synth child”.)
+Voice 387 — Cheerful Playmate. Female, Child, pitch High, Clear, Bright, American, energy High. An eager and adorable young voice full of friendly warmth and excitement. (Her fish clone: “Cody synth child”.)
+Voice 388 — Playful Animated Kid. Female, Child, pitch High, Bright, Clear, American, energy Medium-High. An enthusiastic and welcoming child's voice perfect for playful characters and animated storytelling. (Her fish clone: “black synth child”.)
+Voice 389 — Enthusiastic Playmate. Female, Child, pitch High, Bright, Clear, American, energy High. An enthusiastic and friendly young child eager to share exciting news. (Her fish clone: “Synth child2”.)
+Voice 390 — Energetic Young Pal. Male, Child, pitch High, Bright, Clear, Slightly Raspy, American, energy High. An enthusiastic and friendly young child bursting with eager energy to share a story. (Her fish clone: “Synth child”.)
+Voice 391 — Miss A animated conversation. Female, Young Adult, pitch Medium-High, Warm, Bright, Clear, American, energy Medium-High. An inviting and upbeat voice full of friendly warmth and expressive excitement. (Her fish clone: “Amber animated conversation”.)
+Voice 392 — Enthusiastic Young Girl. Female, Child, pitch High, Bright, American, energy High. An upbeat and cheerful young girl's voice brimming with excitement and friendly warmth. (Her fish clone: “Hannah the valley child”.)
+Voice 393 — Miss A pro reading. Female, Young Adult, pitch Medium-High, Clear, Warm, American, energy Medium. A friendly, conversational, and inviting voice that feels welcoming and approachable. (Her fish clone: “Pro amber reading”.)
+Voice 394 — Warm Storyteller. Male, Senior, pitch Medium-Low, Warm, Smooth, American, energy Medium-Low. A warm, inviting voice with a friendly and seasoned storytelling charm. (Her fish clone: “Ned”.)
+Voice 395 — Welcoming Storyteller. Male, Senior, pitch Medium-Low, Warm, Smooth, Clear, American, energy Medium. A warm, welcoming, and friendly male voice with an inviting and trustworthy quality. (Her fish clone: “Ethan”.)
+Voice 396 — Warm Southern Host. Male, Senior, pitch Medium-Low, Gravelly, American (Southern), energy Medium. A warm, welcoming, and hospitable senior gentleman inviting a friend in for a chat. (Her fish clone: “Paul”.)
+Voice 397 — Kindly Grandfather. Male, Senior, pitch Low, Warm, Gravelly, American, energy Low. A gentle, welcoming elderly voice that carries warmth, comfort, and quiet wisdom. (Her fish clone: “Doc”.)
+Voice 398 — Soft Spoken Confidant. Male, Young Adult, pitch Medium-Low, Breathy, Warm, American, energy Low. An intimate, soft-spoken voice with a warm and gentle, whisper-like quality. (Her fish clone: “Jason”.)
+Voice 399 — Welcoming Storyteller. Female, Senior, pitch Medium-Low, Raspy, Warm, American, energy Medium-High. A warm, enthusiastic, and slightly raspy voice with a friendly, welcoming character. (Her fish clone: “Raspia”.)
+Voice 400 — Southern Storyteller. Female, Senior, pitch Medium-High, Warm, Raspy, American (Southern), energy Medium-High. A warm, enthusiastic, and conversational Southern matriarch eager to share friendly local stories. (Her fish clone: “Miriam”.)
+Voice 401 — Animated Chatty Neighbor. Female, Middle-aged, pitch Medium, Warm, Gravelly, American, energy Medium-High. An inviting and animated mature voice filled with warmth and eager friendliness. (Her fish clone: “Vadalia”.)
+Voice 402 — Warm Welcoming Friend. Female, Middle-aged, pitch Medium-High, Warm, Smooth, Clear, American, energy Medium-High. A warm, expressive, and inviting voice that sounds like a friendly neighbor eager to catch up. (Her fish clone: “Courtland”.)
+Voice 403 — Welcoming Old Timer. Male, Senior, pitch Medium-Low, Gravelly, Warm, Raspy, American (Southern), energy Medium. A warm, welcoming older man inviting you in for a casual chat. (Her fish clone: “Maurilla”.)
+Voice 404 — Enthusiastic Host. Female, Young Adult, pitch Medium-High, Warm, Bright, Slightly Raspy, American, energy High. An upbeat and welcoming female voice with a warm, chatty, and enthusiastic personality. (Her fish clone: “Maira”.)
+Voice 405 — Chatty New Yorker. Female, Middle-aged, pitch Medium, Raspy, Gravelly, American (New York), energy Medium-High. A warm, gossipy, and animated voice with a distinct New York accent and raspy texture. (Her fish clone: “Yorkley”.)
+Voice 406 — Lively Welcome. Male, Middle-aged, pitch Medium-High, Warm, Bright, Clear, American, energy High. An animated, enthusiastic, and welcoming voice full of friendly warmth and excitement. (Her fish clone: “Kristy”.)
+Voice 407 — Warm Expressive Host. Female, Middle-aged, pitch Medium-Low, Warm, Raspy, American, energy Medium-High. A warm, expressive, and welcoming voice full of friendly conversational charm. (Her fish clone: “Judith”.)
+Voice 408 — Welcoming Neighbor. Female, Middle-aged, pitch Medium-High, Warm, American, energy Medium-High. A warm, enthusiastic, and inviting voice that sounds like a friendly neighbor inviting you in for a chat. (Her fish clone: “Malla”.)
+Voice 409 — Welcoming Southern Grandma. Female, Senior, pitch Medium-Low, Warm, Raspy, Gravelly, American (Southern), energy Medium-High. A warm, enthusiastic older Southern woman welcoming a visitor with open arms. (Her fish clone: “Marryanne”.)
+Voice 410 — Warm Welcoming Host. Female, Young Adult, pitch Medium-High, Warm, Clear, American, energy Medium-High. A warm, enthusiastic, and inviting voice with a friendly conversational tone. (Her fish clone: “Sassy”.)
+Voice 411 — Inviting Companion. Female, Young Adult, pitch Medium-High, Warm, American, energy Medium-High. An inviting and friendly voice delivering a warm, conversational tone. (Her fish clone: “Danielle”.)
+Voice 412 — Friendly Welcomer. Female, Young Adult, pitch Medium-High, Warm, Breathy, American, energy Medium-High. A warm, welcoming, and conversational tone that feels intimate and friendly. (Her fish clone: “Amanda”.)
+Voice 413 — Warm Companion. Female, Young Adult, pitch Medium-High, Warm, Breathy, American, energy Medium. A warm, intimate, and friendly voice that sounds inviting and conversational. (Her fish clone: “Tammy  synthetic”.)
+Voice 414 — Bubbly Best Friend. Female, Young Adult, pitch High, Bright, American, energy High. An enthusiastic, friendly, and bubbly voice full of youthful excitement. (Her fish clone: “Valley girl 3”.)
+Voice 415 — Bubbly Enthusiast. Female, Young Adult, pitch High, Bright, American, energy High. An exceptionally bubbly and enthusiastic young voice brimming with friendly energy. (Her fish clone: “Krista synthetic”.)
+Voice 416 — Warm Inviting Friend. Female, Young Adult, pitch Medium-High, Warm, Breathy, Smooth, American, energy Medium-High. A warm, intimate, and inviting voice that feels naturally friendly and welcoming. (Her fish clone: “Ashley”.)
+Voice 417 — Welcoming Friend. Female, Young Adult, pitch High, Clear, Bright, American, energy High. An upbeat, warm, and friendly voice that sounds eager and welcoming. (Her fish clone: “Fake Francene synthetic”.)
+Voice 418 — Cheerful Host. Female, Young Adult, pitch High, Bright, American, energy High. An enthusiastic and friendly voice brimming with warm, welcoming energy. (Her fish clone: “Valley girl2 synthetic”.)
+Voice 419 — Cheerful Host. Female, Young Adult, pitch High, Bright, American, energy High. An upbeat, cheerful, and welcoming voice bursting with enthusiastic energy. (Her fish clone: “Valley girl1”.)
+Voice 420 — Welcoming Grandfather. Male, Senior, pitch Medium-Low, Warm, Gravelly, British, energy Medium. A warm, theatrical, and welcoming elderly gentleman eager to share stories. (Her fish clone: “Sappy sammy synthetic”.)
+Voice 421 — Welcoming Friend. Male, Middle-aged, pitch Medium-Low, Warm, Smooth, Gravelly, American, energy Medium. A warm, welcoming, and friendly male voice with an inviting, conversational tone. (Her fish clone: “Ethrage”.)
+Voice 422 — Warm Storyteller. Male, Middle-aged, pitch Low, Warm, Gravelly, Raspy, American, energy Low. A warm, intimate, and welcoming voice that feels like a trusted old friend settling in for a cozy chat. (Her fish clone: “Rocky synthetic”.)
+Voice 423 — Enthusiastic Senior Storyteller. Male, Senior, pitch Medium-Low, Gravelly, Warm, Raspy, British, energy Medium-High. A warm and enthusiastic elderly gentleman welcoming a friend with excited chatter. (Her fish clone: “Yawning clown synthetic”.)
+Voice 424 — Kade's child impression. Female, Child, pitch High, Bright, Clear, American, energy High. An enthusiastic and friendly young voice bursting with cheerful excitement. (Her fish clone: “Me child voice actor”.)
+Voice 425 — Friendly Southern Host. Female, Young Adult, pitch Medium, Warm, American (Southern), energy Medium-High. A warm, welcoming Southern voice with an upbeat and friendly conversational tone. (Her fish clone: “Black teen narrator”.)
+Voice 426 — Friendly Conversationalist. Female, Young Adult, pitch Medium-High, Bright, Clear, Breathy, American, energy Medium-High. An upbeat, welcoming, and friendly voice full of youthful enthusiasm. (Her fish clone: “Cassia synthetic”.)
+Voice 427 — Friendly Welcomer. Female, Young Adult, pitch Medium-High, Warm, Smooth, Clear, American, energy Medium-High. A warm, welcoming, and upbeat conversational voice that instantly puts people at ease. (Her fish clone: “Mandi synthetic”.)
+Voice 428 — Playful Young Storyteller. Female, Child, pitch High, Bright, American, energy High. A cheerful and welcoming young voice with an enthusiastic, friendly tone. (Her fish clone: “Elly May synthetic child”.)
+Voice 429 — Booming Enthusiast. Male, Middle-aged, pitch Low, Gravelly, American, energy High. A boisterous and booming male voice full of loud, hearty enthusiasm. (Her fish clone: “Sargeant synthetic”.)
+Voice 430 — Jovial Boisterous Host. Male, Middle-aged, pitch Medium-Low, Gravelly, American (Southern), energy High. A hearty, exuberant, and intensely welcoming voice brimming with warm, friendly energy. (Her fish clone: “Boss synthetic”.)
+Voice 431 — Warm Conversationalist. Male, Middle-aged, pitch Medium-Low, Warm, Smooth, American, energy Medium. A warm and inviting voice with a friendly, intimate tone perfect for welcoming narration. (Her fish clone: “Female Rev synthetic”.)
+Voice 432 — Boisterous Neighbor. Female, Middle-aged, pitch High, Bright, Raspy, American, energy High. A boisterous, eager, and welcoming voice filled with intense enthusiasm and warmth. (Her fish clone: “Mob girl synthetic”.)
+Voice 433 — Warm Southern Host. Female, Young Adult, pitch Medium-High, Warm, American (Southern), energy Medium-High. A warm, friendly, and inviting Southern voice that sounds expressive and genuinely hospitable. (Her fish clone: “Jayda synthetic”.)
+Voice 434 — Folksy Southern Old-Timer. Male, Senior, pitch Medium-Low, Gravelly, American (Southern), energy Medium-High. A warm, boisterous Southern old-timer greeting an old friend with eager familiarity. (Her fish clone: “CB trucker synthetic”.)
+Voice 435 — Boisterous Storyteller. Male, Senior, pitch Medium-High, Gravelly, Warm, Bright, American, energy High. A boisterous and welcoming theatrical voice with a warm, energetic tone perfect for classic character work. (Her fish clone: “Vintage gameshow host synthetic”.)
+Voice 436 — Warm Southern Host. Female, Middle-aged, pitch Medium-Low, Warm, Smooth, Breathy, American (Southern), energy Medium. A warm and inviting voice with a friendly Southern touch, perfect for intimate storytelling or welcoming prompts. (Her fish clone: “Sarina urban narrator synthetic”.)
+Voice 437 — Welcoming Southern Matriarch. Female, Senior, pitch Medium, Warm, Raspy, American (Southern), energy Medium-High. A warm and inviting Southern host eager to catch up and share friendly gossip. (Her fish clone: “Scary aunt synthetic”.)
+Voice 438 — Animated Storyteller. Male, Middle-aged, pitch Medium-Low, Warm, Raspy, Gravelly, American, energy High. A warm, theatrical, and animated narrator with a friendly, gravelly charm. (Her fish clone: “Shocked Stephen synthetic”.)
+Voice 439 — Quiet Wisdom Companion. Male, Senior, pitch Low, Breathy, Warm, Gravelly, British, energy Low. A gentle, hushed, and intimate voice that conveys warmth and wisdom. (Her fish clone: “Scary narrator1 synthetic”.)
+Voice 440 — Animated Southern Welcomer. Female, Middle-aged, pitch High, Bright, Raspy, American (Southern), energy High. An upbeat, quirky, and animated Southern voice full of cheerful, inviting enthusiasm. (Her fish clone: “Ducky mcquackerson synthetic”.)
+Voice 441 — Vibrant Host. Female, Young Adult, pitch Medium-High, Bright, Clear, Warm, American, energy High. An enthusiastic, friendly, and highly expressive voice that sounds warm and welcoming. (Her fish clone: “Pukin reporter”.)
+Voice 442 — Boisterous Storyteller. Male, Senior, pitch Medium-Low, Gravelly, Warm, American, energy High. An enthusiastic, theatrical, and welcoming older gentleman with a boisterous tone. (Her fish clone: “Preacher male synthetic”.)
+Voice 443 — Gravelly Storyteller. Male, Senior, pitch Low, Gravelly, Raspy, Warm, American, energy Low. A deep, warm, and gravelly voice with a friendly and welcoming storytelling quality. (Her fish clone: “Death metal devil”.)
+Voice 444 — Warm Storyteller. Male, Senior, pitch Medium-Low, Warm, Gravelly, British, energy Medium. A warm, welcoming, and friendly older gentleman with an inviting, conversational tone. (Her fish clone: “Old brit”.)
+Voice 445 — Welcoming Southern Host. Female, Middle-aged, pitch Medium-High, Warm, Bright, American (Southern), energy High. A warm and inviting Southern voice packed with friendly enthusiasm and hospitable charm. (Her fish clone: “Nova Synthetic”.)
+Voice 446 — Enthusiastic Companion. Female, Young Adult, pitch Medium-High, Clear, American, energy Medium-High. An eager, friendly, and welcoming youthful voice filled with cheerful excitement. (Her fish clone: “Lilia synthetic”.)
+Voice 447 — Cheerful Cartoon Host. Female, Teen, pitch High, Bright, Clear, American, energy High. An enthusiastic, cheerful, and inviting young voice with a friendly, cartoon-like charm. (Her fish clone: “Libby Synthetic”.)
+Voice 448 — Warm African Matriarch. Female, Senior, pitch Medium-High, Warm, Raspy, African, energy High. A vibrant, expressive, and welcoming older female voice filled with enthusiasm and warmth. (Her fish clone: “Jamaiken granny”.)
+Voice 449 — Welcoming Friend. Female, Young Adult, pitch Medium-High, Warm, Clear, American, energy Medium-High. An upbeat and welcoming voice with a friendly, conversational tone. (Her fish clone: “Kyla Synthetic”.)
+Voice 450 — Warm Conversationalist. Female, Middle-aged, pitch Medium, Warm, American, energy Medium-High. A warm, expressive, and inviting voice with a friendly, conversational charm. (Her fish clone: “Kathlene synthetic”.)
+Voice 451 — Cheerful Friendly Host. Female, Young Adult, pitch Medium-High, Clear, Warm, Breathy, American, energy Medium-High. A warm, enthusiastic, and inviting voice that sounds friendly and youthful. (Her fish clone: “Angel Synthetic”.)
+Voice 452 — Enthusiastic Host. Male, Young Adult, pitch Medium-Low, Warm, Smooth, Clear, American, energy Medium-High. An inviting and upbeat voice that exudes friendliness, warmth, and genuine enthusiasm. (Her fish clone: “Hiphop male 1 synthetic”.)
+Voice 453 — Southern Matriarch. Female, Senior, pitch Medium-Low, Gravelly, Warm, American (Southern), energy Medium-High. A warm, folksy, and chatty Southern grandmother welcoming you in for a visit. (Her fish clone: “Southern Granny synthetic”.)
+Voice 454 — Warm Southern Storyteller. Male, Senior, pitch Low, Gravelly, Warm, American (Southern), energy Low. A warm, welcoming, and conversational voice with a relaxed Southern drawl. (Her fish clone: “Drunk sounding old man on the phone synthetic”.)
+Voice 455 — Friendly Host. Male, Middle-aged, pitch Medium-Low, Warm, American, energy Medium. A warm, welcoming male voice with an inviting and friendly conversational tone. (Her fish clone: “Depressed hipster”.)
+Voice 456 — Welcoming Companion. Female, Young Adult, pitch Medium, Warm, Smooth, Clear, American, energy Medium-High. A warm, welcoming, and enthusiastic voice that creates an instant sense of familiarity. (Her fish clone: “Colbie synthetic”.)
+Voice 457 — Cheerful Cartoon Child. Female, Child, pitch High, Bright, American, energy High. A lively, enthusiastic young voice filled with cheerful cartoon energy. (Her fish clone: “Cartoonia Synthetic”.)
+Voice 458 — Cheerful Companion. Female, Teen, pitch High, Bright, Asian, energy Medium-High. An upbeat, friendly, and enthusiastic voice with a youthful, welcoming tone. (Her fish clone: “Alegra synthetic”.)
+Voice 459 — Warm Southern Host. Female, Young Adult, pitch Medium-High, Warm, Breathy, American (Southern), energy Medium-High. A warm and inviting Southern voice that sounds friendly, expressive, and conversational. (Her fish clone: “Samaria”.)
+Voice 460 — Warm Confidante. Female, Young Adult, pitch Medium-High, Warm, Clear, American, energy Medium. A warm, welcoming, and friendly voice that creates an intimate and conversational atmosphere. (Her fish clone: “Monique synthetic”.)
+Voice 461 — Welcoming Young Host. Female, Child, pitch High, Clear, Bright, American (Southern), energy Medium-High. A warm and friendly young child's voice delivering an inviting, eager greeting. (Her fish clone: “Kid mya, synthetic”.)
+Voice 462 — Folksy Southern Grandpa. Male, Senior, pitch Low, Gravelly, American (Southern), energy Low. A warm, folksy, and welcoming elderly Southern voice with a relaxed storytelling quality. (Her fish clone: “Deej”.)
+Voice 463 — Miss A casual. Female, Middle-aged, pitch Medium-Low, Breathy, Warm, Soft, American, energy Low. A warm, intimate, and gentle voice that conveys quiet comfort and easy closeness. (Her fish clone: “Amber casual”.)
+Voice 464 — Kade conversational. Female, Young Adult, pitch Medium-High, Warm, Bright, American, energy Medium-High. A warm, enthusiastic, and inviting voice that exudes friendly hospitality. (Her fish clone: “Me casual”.)
+Voice 465 — Warm Southern Host. Female, Young Adult, pitch Medium-High, Warm, Clear, American (Southern), energy Medium-High. A warm, welcoming Southern voice delivered with cheerful and conversational hospitality. (Her fish clone: “Emani”.)
+Voice 466 — Kade Candid. Female, Young Adult, pitch Medium-High, Breathy, Warm, American, energy Medium. An inviting and intimate voice with a warm, friendly, and conversational tone. (Her fish clone: “Me talking casually”.)
+Voice 467 — Energetic Friend. Female, Young Adult, pitch Medium-High, Bright, Clear, American, energy Medium-High. An upbeat, friendly, and animated voice with an inviting conversational tone. (Her fish clone: “Shaina”.)
+Voice 468 — Energetic Friendly Child. Female, Child, pitch High, Clear, Bright, American, energy High. An enthusiastic, friendly child's voice full of warmth and cheerful excitement. (Her fish clone: “Kiddy”.)
