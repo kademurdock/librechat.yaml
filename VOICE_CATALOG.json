@@ -7,7 +7,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "Warm, outgoing, and eagerly friendly with a conversational, gossipy tone.",
-  "nickname": "Enthusiastic Neighbor"
+  "nickname": "Enthusiastic Neighbor",
+  "category": "Everyday Women"
  },
  "Voice 2": {
   "gender": "Male",
@@ -17,7 +18,8 @@
   "accent": "American",
   "energy": "Medium-high",
   "vibe": "A warm, welcoming neighbor eager to catch up on the latest local gossip.",
-  "nickname": "Welcoming Neighbor"
+  "nickname": "Welcoming Neighbor",
+  "category": "Deep & Smoky"
  },
  "Voice 3": {
   "gender": "Male",
@@ -27,7 +29,8 @@
   "accent": "American (African American)",
   "energy": "High",
   "vibe": "Warm, enthusiastic, and welcoming, sounding like an approachable friend sharing exciting news.",
-  "nickname": "Warm Friendly Pal"
+  "nickname": "Warm Friendly Pal",
+  "category": "Everyday Men"
  },
  "Voice 4": {
   "gender": "male",
@@ -37,7 +40,8 @@
   "accent": "American",
   "energy": "low",
   "vibe": "A warm, relaxed, and welcoming character who invites casual conversation with friendly intimacy.",
-  "nickname": "Cozy Smalltown Neighbor"
+  "nickname": "Cozy Smalltown Neighbor",
+  "category": "Deep & Smoky"
  },
  "Voice 5": {
   "gender": "Female",
@@ -47,7 +51,8 @@
   "accent": "American",
   "energy": "Moderate",
   "vibe": "A warm and inquisitive young voice, ideal for friendly chatter and youthful characters.",
-  "nickname": "Curious Young Friend"
+  "nickname": "Curious Young Friend",
+  "category": "Kids & Teens"
  },
  "Voice 6": {
   "gender": "Female",
@@ -57,7 +62,8 @@
   "accent": "American",
   "energy": "Medium-high",
   "vibe": "Warm, welcoming, and friendly with an inviting, conversational tone.",
-  "nickname": "Cheerful Neighbor"
+  "nickname": "Cheerful Neighbor",
+  "category": "Everyday Women"
  },
  "Voice 7": {
   "gender": "Female",
@@ -67,7 +73,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "Warm, enthusiastic, and welcoming with a bright conversational energy.",
-  "nickname": "Energetic Friend"
+  "nickname": "Energetic Friend",
+  "category": "Everyday Women"
  },
  "Voice 8": {
   "gender": "male",
@@ -77,7 +84,8 @@
   "accent": "American",
   "energy": "low",
   "vibe": "A warm, conversational voice with a relaxed and welcoming tone that feels like a friendly neighbor.",
-  "nickname": "Warm Riverfront Host"
+  "nickname": "Warm Riverfront Host",
+  "category": "Deep & Smoky"
  },
  "Voice 9": {
   "gender": "Female",
@@ -87,7 +95,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "An enthusiastic and bubbly young character full of curiosity and warmth.",
-  "nickname": "Cheerful Anime Kid"
+  "nickname": "Cheerful Anime Kid",
+  "category": "Characters & Creatures"
  },
  "Voice 10": {
   "gender": "Female",
@@ -97,7 +106,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "An upbeat, enthusiastic friend who brings warm energy to every conversation.",
-  "nickname": "Cheerful Companion"
+  "nickname": "Cheerful Companion",
+  "category": "Everyday Women"
  },
  "Voice 11": {
   "gender": "Female",
@@ -107,7 +117,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "Warm, enthusiastic, and welcoming, perfectly suited for an inviting and conversational host or friend.",
-  "nickname": "Welcoming Friend"
+  "nickname": "Welcoming Friend",
+  "category": "Everyday Women"
  },
  "Voice 12": {
   "gender": "Female",
@@ -117,7 +128,8 @@
   "accent": "General American",
   "energy": "High",
   "vibe": "Warm, enthusiastic, and eager to catch up like an excited close friend.",
-  "nickname": "Enthusiastic Companion"
+  "nickname": "Enthusiastic Companion",
+  "category": "Everyday Women"
  },
  "Voice 13": {
   "gender": "Female",
@@ -127,7 +139,8 @@
   "accent": "American",
   "energy": "Medium-High",
   "vibe": "An expressive and welcoming speaker who comes across as warm, conversational, and eager to chat.",
-  "nickname": "Welcoming Friend"
+  "nickname": "Welcoming Friend",
+  "category": "Everyday Women"
  },
  "Voice 14": {
   "gender": "female",
@@ -137,7 +150,8 @@
   "accent": "american",
   "energy": "medium-high",
   "vibe": "Welcoming and energetic with a conversational, friendly charm.",
-  "nickname": "Warm Conversationalist"
+  "nickname": "Warm Conversationalist",
+  "category": "Everyday Women"
  },
  "Voice 15": {
   "gender": "Female",
@@ -147,7 +161,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "An enthusiastic and friendly neighbor who is always eager to chat and share news.",
-  "nickname": "Energetic Friendly Neighbor"
+  "nickname": "Energetic Friendly Neighbor",
+  "category": "Everyday Women"
  },
  "Voice 16": {
   "gender": "Female",
@@ -157,7 +172,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "An enthusiastic and bubbly friend who is eager to chat and hear the latest gossip.",
-  "nickname": "Eager Companion"
+  "nickname": "Eager Companion",
+  "category": "Kids & Teens"
  },
  "Voice 17": {
   "gender": "male",
@@ -167,7 +183,8 @@
   "accent": "American",
   "energy": "high",
   "vibe": "A boisterous and theatrical tavern character eager to hear the latest gossip.",
-  "nickname": "Jolly Tavern Host"
+  "nickname": "Jolly Tavern Host",
+  "category": "Characters & Creatures"
  },
  "Voice 18": {
   "gender": "Female",
@@ -177,7 +194,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "Warm, welcoming, and enthusiastically conversational like a friendly neighbor.",
-  "nickname": "Friendly Neighbor"
+  "nickname": "Friendly Neighbor",
+  "category": "Everyday Women"
  },
  "Voice 19": {
   "gender": "Female",
@@ -187,7 +205,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "An upbeat and eager voice that sounds like a cheerful friend spilling exciting gossip.",
-  "nickname": "Eager Companion"
+  "nickname": "Eager Companion",
+  "category": "Everyday Women"
  },
  "Voice 20": {
   "gender": "Female",
@@ -197,7 +216,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "Bright, welcoming, and eager to chat like a bubbly friend.",
-  "nickname": "Cheerful Companion"
+  "nickname": "Cheerful Companion",
+  "category": "Everyday Women"
  },
  "Voice 21": {
   "gender": "Female",
@@ -207,7 +227,8 @@
   "accent": "American",
   "energy": "Medium-High",
   "vibe": "Warm, welcoming, and delightfully curious, like a friendly neighbor inviting you in for a cozy chat.",
-  "nickname": "Warm Host"
+  "nickname": "Warm Host",
+  "category": "Everyday Women"
  },
  "Voice 22": {
   "gender": "Female",
@@ -217,7 +238,8 @@
   "accent": "General American",
   "energy": "High",
   "vibe": "Welcoming and eagerly enthusiastic with an upbeat, friendly tone.",
-  "nickname": "Friendly Neighbor"
+  "nickname": "Friendly Neighbor",
+  "category": "Everyday Women"
  },
  "Voice 23": {
   "gender": "Female",
@@ -227,7 +249,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "An enthusiastic and friendly voice that sounds warm, welcoming, and expressive.",
-  "nickname": "Bubbly Host"
+  "nickname": "Bubbly Host",
+  "category": "Everyday Women"
  },
  "Voice 24": {
   "gender": "female",
@@ -237,7 +260,8 @@
   "accent": "American",
   "energy": "high",
   "vibe": "A bubbly and welcoming friend eager to catch up on the latest gossip.",
-  "nickname": "Energetic Friend"
+  "nickname": "Energetic Friend",
+  "category": "Everyday Women"
  },
  "Voice 25": {
   "gender": "Female",
@@ -247,7 +271,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "An enthusiastic, warm, and welcoming friend eager to hear the latest gossip.",
-  "nickname": "Welcoming Friend"
+  "nickname": "Welcoming Friend",
+  "category": "Everyday Women"
  },
  "Voice 26": {
   "gender": "Female",
@@ -257,7 +282,8 @@
   "accent": "American",
   "energy": "Medium-High",
   "vibe": "Warm, welcoming, and eager to chat like a friendly neighbor.",
-  "nickname": "Welcoming Neighbor"
+  "nickname": "Welcoming Neighbor",
+  "category": "Everyday Women"
  },
  "Voice 27": {
   "gender": "male",
@@ -267,7 +293,8 @@
   "accent": "American",
   "energy": "relaxed",
   "vibe": "An inviting and friendly tone that makes anyone feel instantly comfortable and at home.",
-  "nickname": "Welcoming Host"
+  "nickname": "Welcoming Host",
+  "category": "Deep & Smoky"
  },
  "Voice 28": {
   "gender": "Male",
@@ -277,7 +304,8 @@
   "accent": "American",
   "energy": "Low",
   "vibe": "Warm, welcoming, and relaxed, perfect for friendly, casual, and conversational roles.",
-  "nickname": "Welcoming Friend"
+  "nickname": "Welcoming Friend",
+  "category": "Calm & Soothing"
  },
  "Voice 29": {
   "gender": "Female",
@@ -287,7 +315,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "Energetic and warmly enthusiastic with a playful, curious charm.",
-  "nickname": "Lively Youngster"
+  "nickname": "Lively Youngster",
+  "category": "Kids & Teens"
  },
  "Voice 30": {
   "gender": "Female",
@@ -297,7 +326,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "A warm, inquisitive, and enthusiastic friend eager to catch up on local gossip.",
-  "nickname": "Enthusiastic Neighbor"
+  "nickname": "Enthusiastic Neighbor",
+  "category": "Kids & Teens"
  },
  "Voice 31": {
   "gender": "Female",
@@ -307,7 +337,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "An enthusiastic and friendly speaker who sounds eager to catch up on local gossip.",
-  "nickname": "Enthusiastic Confidante"
+  "nickname": "Enthusiastic Confidante",
+  "category": "Everyday Women"
  },
  "Voice 32": {
   "gender": "female",
@@ -317,7 +348,8 @@
   "accent": "British",
   "energy": "low",
   "vibe": "A cozy and welcoming friend inviting you in for a warm, intimate chat.",
-  "nickname": "Cozy British Friend"
+  "nickname": "Cozy British Friend",
+  "category": "Accents from Abroad"
  },
  "Voice 33": {
   "gender": "Male",
@@ -327,7 +359,8 @@
   "accent": "Southern American",
   "energy": "High",
   "vibe": "A warm, enthusiastic, and boisterous Southern host welcoming a neighbor with friendly curiosity.",
-  "nickname": "Boisterous Southern Neighbor"
+  "nickname": "Boisterous Southern Neighbor",
+  "category": "Wise & Seasoned"
  },
  "Voice 34": {
   "gender": "Male",
@@ -337,7 +370,8 @@
   "accent": "Southern American",
   "energy": "Moderate",
   "vibe": "A warm, welcoming Southern neighbor who loves catching up on local gossip.",
-  "nickname": "Southern Country Neighbor"
+  "nickname": "Southern Country Neighbor",
+  "category": "Southern & Country"
  },
  "Voice 35": {
   "gender": "Male",
@@ -347,7 +381,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "An eager, welcoming, and chatty conversationalist always ready for gossip or news.",
-  "nickname": "Eager Chatty Friend"
+  "nickname": "Eager Chatty Friend",
+  "category": "Everyday Men"
  },
  "Voice 36": {
   "gender": "Female",
@@ -357,7 +392,8 @@
   "accent": "General American",
   "energy": "Medium-High",
   "vibe": "Warm, welcoming, and eagerly engaging like a close friend inviting you in for news.",
-  "nickname": "Welcoming Friend"
+  "nickname": "Welcoming Friend",
+  "category": "Everyday Women"
  },
  "Voice 37": {
   "gender": "Female",
@@ -367,7 +403,8 @@
   "accent": "American",
   "energy": "Medium",
   "vibe": "Warm and inviting with a friendly, conversational intimacy.",
-  "nickname": "Casual Confidante"
+  "nickname": "Casual Confidante",
+  "category": "Everyday Women"
  },
  "Voice 38": {
   "gender": "Female",
@@ -377,7 +414,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "A warm, bubbly, and enthusiastic friend eager to catch up on the latest gossip.",
-  "nickname": "Energetic Friend"
+  "nickname": "Energetic Friend",
+  "category": "Everyday Women"
  },
  "Voice 39": {
   "gender": "Female",
@@ -387,7 +425,8 @@
   "accent": "General American",
   "energy": "High",
   "vibe": "An enthusiastic and welcoming companion eager to hear the latest gossip.",
-  "nickname": "Energetic Conversationalist"
+  "nickname": "Energetic Conversationalist",
+  "category": "Everyday Women"
  },
  "Voice 40": {
   "gender": "male",
@@ -397,7 +436,8 @@
   "accent": "Southern US",
   "energy": "low",
   "vibe": "A warm and welcoming Southern elder inviting you in for a chat.",
-  "nickname": "Warm Southern Storyteller"
+  "nickname": "Warm Southern Storyteller",
+  "category": "Wise & Seasoned"
  },
  "Voice 41": {
   "gender": "Male",
@@ -407,7 +447,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "An upbeat, enthusiastic, and warm voice that creates an inviting, friendly atmosphere.",
-  "nickname": "Friendly Neighbor"
+  "nickname": "Friendly Neighbor",
+  "category": "Everyday Men"
  },
  "Voice 42": {
   "gender": "Female",
@@ -417,7 +458,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "Welcoming, enthusiastic, and eager to chat with an expressive, friendly warmth.",
-  "nickname": "Enthusiastic Neighbor"
+  "nickname": "Enthusiastic Neighbor",
+  "category": "Everyday Women"
  },
  "Voice 43": {
   "gender": "female",
@@ -427,7 +469,8 @@
   "accent": "American",
   "energy": "high",
   "vibe": "Warm, highly energetic, and eager to share exciting news with a friend.",
-  "nickname": "Enthusiastic Friend"
+  "nickname": "Enthusiastic Friend",
+  "category": "Everyday Women"
  },
  "Voice 44": {
   "gender": "Female",
@@ -437,7 +480,8 @@
   "accent": "American",
   "energy": "Low",
   "vibe": "Warm and inviting with an intimate, cozy, and conspiratorial tone.",
-  "nickname": "Cozy Storyteller"
+  "nickname": "Cozy Storyteller",
+  "category": "Calm & Soothing"
  },
  "Voice 45": {
   "gender": "Female",
@@ -447,7 +491,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "An upbeat, welcoming, and expressive speaker who sounds genuinely excited and friendly.",
-  "nickname": "Welcoming Friend"
+  "nickname": "Welcoming Friend",
+  "category": "Everyday Women"
  },
  "Voice 46": {
   "gender": "Female",
@@ -457,7 +502,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "An upbeat, friendly, and curious speaker who warmly invites conversation.",
-  "nickname": "Welcoming Friend"
+  "nickname": "Welcoming Friend",
+  "category": "Everyday Women"
  },
  "Voice 47": {
   "gender": "Female",
@@ -467,7 +513,8 @@
   "accent": "General American",
   "energy": "High",
   "vibe": "An expressive, warm, and inviting friend who is eager to chat and catch up.",
-  "nickname": "Welcoming Friend"
+  "nickname": "Welcoming Friend",
+  "category": "Everyday Women"
  },
  "Voice 48": {
   "gender": "Female",
@@ -477,7 +524,8 @@
   "accent": "General American",
   "energy": "High",
   "vibe": "An upbeat and welcoming friend eager to catch up on the latest local gossip.",
-  "nickname": "Friendly Gossip"
+  "nickname": "Friendly Gossip",
+  "category": "Everyday Women"
  },
  "Voice 49": {
   "gender": "Female",
@@ -487,7 +535,8 @@
   "accent": "American (General)",
   "energy": "Medium-High",
   "vibe": "An approachable and cheerful neighbor or friend eager to hear the latest news.",
-  "nickname": "Enthusiastic Neighbor"
+  "nickname": "Enthusiastic Neighbor",
+  "category": "Everyday Women"
  },
  "Voice 50": {
   "gender": "Female",
@@ -497,7 +546,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "An enthusiastic and friendly child bursting with curiosity and eager to hear a story.",
-  "nickname": "Enthusiastic Young Girl"
+  "nickname": "Enthusiastic Young Girl",
+  "category": "Kids & Teens"
  },
  "Voice 51": {
   "gender": "Female",
@@ -507,7 +557,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "Energetic and inquisitive, ideal for upbeat children's media or lively animated characters.",
-  "nickname": "Animated Explorer"
+  "nickname": "Animated Explorer",
+  "category": "Kids & Teens"
  },
  "Voice 52": {
   "gender": "Female",
@@ -517,7 +568,8 @@
   "accent": "General American",
   "energy": "Calm",
   "vibe": "An inviting, warm, and intimate voice that creates a cozy atmosphere.",
-  "nickname": "Cozy Confidante"
+  "nickname": "Cozy Confidante",
+  "category": "Deep & Smoky"
  },
  "Voice 53": {
   "gender": "male",
@@ -527,7 +579,8 @@
   "accent": "american",
   "energy": "high",
   "vibe": "An enthusiastic and friendly speaker who exudes warm, animated curiosity.",
-  "nickname": "Upbeat Friend"
+  "nickname": "Upbeat Friend",
+  "category": "Everyday Men"
  },
  "Voice 54": {
   "gender": "Female",
@@ -537,7 +590,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "A cheerful and enthusiastic child full of innocent excitement and curiosity.",
-  "nickname": "Enthusiastic Child"
+  "nickname": "Enthusiastic Child",
+  "category": "Kids & Teens"
  },
  "Voice 55": {
   "gender": "Male",
@@ -547,7 +601,8 @@
   "accent": "American Southern",
   "energy": "Moderate",
   "vibe": "A warm and welcoming rural storyteller eager to catch up on local gossip.",
-  "nickname": "Southern Neighbor"
+  "nickname": "Southern Neighbor",
+  "category": "Wise & Seasoned"
  },
  "Voice 56": {
   "gender": "Male",
@@ -557,7 +612,8 @@
   "accent": "American Southern",
   "energy": "Moderate-High",
   "vibe": "A warm and inviting Southern host eager to catch up on local gossip.",
-  "nickname": "Southern Porch Host"
+  "nickname": "Southern Porch Host",
+  "category": "Southern & Country"
  },
  "Voice 57": {
   "gender": "male",
@@ -567,7 +623,8 @@
   "accent": "American (Southern)",
   "energy": "high",
   "vibe": "An enthusiastic, welcoming friend eager to catch up on local gossip.",
-  "nickname": "Friendly Southern Neighbor"
+  "nickname": "Friendly Southern Neighbor",
+  "category": "Southern & Country"
  },
  "Voice 58": {
   "gender": "male",
@@ -577,7 +634,8 @@
   "accent": "American",
   "energy": "moderate",
   "vibe": "A warm and inviting voice perfect for friendly, conversational characters.",
-  "nickname": "Friendly Neighbor"
+  "nickname": "Friendly Neighbor",
+  "category": "Everyday Men"
  },
  "Voice 59": {
   "gender": "Female",
@@ -587,7 +645,8 @@
   "accent": "Southern American",
   "energy": "High",
   "vibe": "A warm and chatty Southern neighbor eager to hear the latest local gossip.",
-  "nickname": "Chatty Southern Neighbor"
+  "nickname": "Chatty Southern Neighbor",
+  "category": "Wise & Seasoned"
  },
  "Voice 60": {
   "gender": "female",
@@ -597,7 +656,8 @@
   "accent": "American",
   "energy": "high",
   "vibe": "An enthusiastic and warm host who is eager to share exciting gossip with a friend.",
-  "nickname": "Welcoming Host"
+  "nickname": "Welcoming Host",
+  "category": "Everyday Women"
  },
  "Voice 61": {
   "gender": "Female",
@@ -607,7 +667,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "An enthusiastic and warm presence that instantly makes listeners feel like a close friend.",
-  "nickname": "Warm Welcoming Friend"
+  "nickname": "Warm Welcoming Friend",
+  "category": "Everyday Women"
  },
  "Voice 62": {
   "gender": "Female",
@@ -617,7 +678,8 @@
   "accent": "General American",
   "energy": "High",
   "vibe": "An enthusiastic, inviting, and warm friend eager to catch up on the latest gossip.",
-  "nickname": "Welcoming Friend"
+  "nickname": "Welcoming Friend",
+  "category": "Everyday Women"
  },
  "Voice 63": {
   "gender": "Female",
@@ -627,7 +689,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "An enthusiastic and warm speaker who brings a friendly, conversational energy to casual chatter.",
-  "nickname": "Upbeat Friendly Companion"
+  "nickname": "Upbeat Friendly Companion",
+  "category": "Everyday Women"
  },
  "Voice 64": {
   "gender": "female",
@@ -637,7 +700,8 @@
   "accent": "American",
   "energy": "high",
   "vibe": "An eager, welcoming, and gossip-ready friend sharing exciting news.",
-  "nickname": "Enthusiastic Chatty Friend"
+  "nickname": "Enthusiastic Chatty Friend",
+  "category": "Everyday Women"
  },
  "Voice 65": {
   "gender": "Female",
@@ -647,7 +711,8 @@
   "accent": "General American",
   "energy": "Medium-High",
   "vibe": "Warm, inviting, and eagerly conversational like a close friend sharing gossip.",
-  "nickname": "Friendly Conversationalist"
+  "nickname": "Friendly Conversationalist",
+  "category": "Everyday Women"
  },
  "Voice 66": {
   "gender": "Female",
@@ -657,7 +722,8 @@
   "accent": "General American",
   "energy": "High",
   "vibe": "Welcoming and enthusiastic, inviting you in for a warm, gossipy chat.",
-  "nickname": "Enthusiastic Companion"
+  "nickname": "Enthusiastic Companion",
+  "category": "Everyday Women"
  },
  "Voice 67": {
   "gender": "Female",
@@ -667,7 +733,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "A warm, enthusiastic, and welcoming voice that feels instantly friendly and engaging.",
-  "nickname": "Warm Welcome"
+  "nickname": "Warm Welcome",
+  "category": "Everyday Women"
  },
  "Voice 68": {
   "gender": "Female",
@@ -677,7 +744,8 @@
   "accent": "American (Neutral)",
   "energy": "High",
   "vibe": "A warm, conversational, and enthusiastic friend eager to catch up on the latest gossip.",
-  "nickname": "Welcoming Friend"
+  "nickname": "Welcoming Friend",
+  "category": "Everyday Women"
  },
  "Voice 69": {
   "gender": "Female",
@@ -687,7 +755,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "An enthusiastic, friendly neighbor eager to hear the latest gossip.",
-  "nickname": "Welcoming Neighbor"
+  "nickname": "Welcoming Neighbor",
+  "category": "Deep & Smoky"
  },
  "Voice 70": {
   "gender": "Female",
@@ -697,7 +766,8 @@
   "accent": "American",
   "energy": "Medium",
   "vibe": "Friendly, inviting, and conversational, perfect for casual narration or welcoming dialogue.",
-  "nickname": "Warm Welcome"
+  "nickname": "Warm Welcome",
+  "category": "Storytellers & Pros"
  },
  "Voice 71": {
   "gender": "Female",
@@ -707,7 +777,8 @@
   "accent": "American",
   "energy": "Medium-High",
   "vibe": "An inviting and enthusiastic voice that sounds like a warm, approachable friend eager to catch up.",
-  "nickname": "Friendly Companion"
+  "nickname": "Friendly Companion",
+  "category": "Everyday Women"
  },
  "Voice 72": {
   "gender": "male",
@@ -717,7 +788,8 @@
   "accent": "American",
   "energy": "medium-high",
   "vibe": "A warm, inviting host who loves to catch up on the latest news.",
-  "nickname": "Warm Neighborly Chat"
+  "nickname": "Warm Neighborly Chat",
+  "category": "Deep & Smoky"
  },
  "Voice 73": {
   "gender": "Female",
@@ -727,7 +799,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "A warm, enthusiastic, and inviting presence that sounds eager to chat.",
-  "nickname": "Welcoming Friend"
+  "nickname": "Welcoming Friend",
+  "category": "Everyday Women"
  },
  "Voice 74": {
   "gender": "female",
@@ -737,7 +810,8 @@
   "accent": "General American",
   "energy": "high",
   "vibe": "A warm, welcoming, and expressive friend eager to share exciting news.",
-  "nickname": "Upbeat Chatty Friend"
+  "nickname": "Upbeat Chatty Friend",
+  "category": "Everyday Women"
  },
  "Voice 75": {
   "gender": "Male",
@@ -747,7 +821,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "An enthusiastic and welcoming speaker who invites conversation with lively excitement.",
-  "nickname": "Eager Neighbor"
+  "nickname": "Eager Neighbor",
+  "category": "Everyday Men"
  },
  "Voice 76": {
   "gender": "Male",
@@ -757,7 +832,8 @@
   "accent": "Australian",
   "energy": "Medium",
   "vibe": "Warm, welcoming, and relaxed with a friendly, conversational charm.",
-  "nickname": "Friendly Aussie Mate"
+  "nickname": "Friendly Aussie Mate",
+  "category": "Accents from Abroad"
  },
  "Voice 77": {
   "gender": "Female",
@@ -767,7 +843,8 @@
   "accent": "American",
   "energy": "Energetic",
   "vibe": "Warm, friendly, and eager to catch up with a friend over intriguing news.",
-  "nickname": "Enthusiastic Friend"
+  "nickname": "Enthusiastic Friend",
+  "category": "Everyday Women"
  },
  "Voice 78": {
   "gender": "female",
@@ -777,7 +854,8 @@
   "accent": "American",
   "energy": "high",
   "vibe": "Enthusiastic and welcoming with a warm, friendly demeanor that instantly puts people at ease.",
-  "nickname": "Welcoming Friend"
+  "nickname": "Welcoming Friend",
+  "category": "Everyday Women"
  },
  "Voice 79": {
   "gender": "Male",
@@ -787,7 +865,8 @@
   "accent": "American",
   "energy": "Medium",
   "vibe": "An inviting and intimate tone that feels naturally warm and friendly.",
-  "nickname": "Warm Storyteller"
+  "nickname": "Warm Storyteller",
+  "category": "Deep & Smoky"
  },
  "Voice 80": {
   "gender": "Male",
@@ -797,7 +876,8 @@
   "accent": "American",
   "energy": "Medium",
   "vibe": "A warm, conversational, and welcoming speaker who sounds approachable and eager to chat.",
-  "nickname": "Friendly Neighbor"
+  "nickname": "Friendly Neighbor",
+  "category": "Everyday Men"
  },
  "Voice 81": {
   "gender": "Female",
@@ -807,7 +887,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "Warm, welcoming, and eagerly inquisitive, like a friendly neighbor inviting you in for a chat.",
-  "nickname": "Friendly Neighbor"
+  "nickname": "Friendly Neighbor",
+  "category": "Everyday Women"
  },
  "Voice 82": {
   "gender": "Female",
@@ -817,7 +898,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "Warm, bubbly, and eager to chat with a friendly, welcoming demeanor.",
-  "nickname": "Bubbly Host"
+  "nickname": "Bubbly Host",
+  "category": "Everyday Women"
  },
  "Voice 83": {
   "gender": "male",
@@ -827,7 +909,8 @@
   "accent": "Australian",
   "energy": "medium-high",
   "vibe": "A warm and inviting Australian voice that sounds like a friendly neighbor inviting you in for a chat.",
-  "nickname": "Welcoming Aussie Mate"
+  "nickname": "Welcoming Aussie Mate",
+  "category": "Accents from Abroad"
  },
  "Voice 84": {
   "gender": "Male",
@@ -837,7 +920,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "A warm, eager, and conversational speaker who sounds like a friendly neighbor excited to catch up.",
-  "nickname": "Enthusiastic Neighbor"
+  "nickname": "Enthusiastic Neighbor",
+  "category": "Everyday Men"
  },
  "Voice 85": {
   "gender": "Male",
@@ -847,7 +931,8 @@
   "accent": "American",
   "energy": "Medium-High",
   "vibe": "Friendly, casual, and inviting, like an approachable neighbor ready for a friendly chat.",
-  "nickname": "Friendly Neighbor"
+  "nickname": "Friendly Neighbor",
+  "category": "Deep & Smoky"
  },
  "Voice 86": {
   "gender": "Female",
@@ -857,7 +942,8 @@
   "accent": "General American",
   "energy": "Medium-high",
   "vibe": "An eager, friendly companion who is warmly inviting and excited to catch up.",
-  "nickname": "Warm Gossip"
+  "nickname": "Warm Gossip",
+  "category": "Everyday Women"
  },
  "Voice 87": {
   "gender": "male",
@@ -867,7 +953,8 @@
   "accent": "american",
   "energy": "medium",
   "vibe": "An inviting and friendly voice that feels like a close, trustworthy friend welcoming you into their home.",
-  "nickname": "Welcoming Friend"
+  "nickname": "Welcoming Friend",
+  "category": "Deep & Smoky"
  },
  "Voice 88": {
   "gender": "Female",
@@ -877,7 +964,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "Enthusiastic, friendly, and eager to chat like a welcoming neighbor.",
-  "nickname": "Eager Friend"
+  "nickname": "Eager Friend",
+  "category": "Everyday Women"
  },
  "Voice 89": {
   "gender": "Female",
@@ -887,7 +975,8 @@
   "accent": "American",
   "energy": "Medium-High",
   "vibe": "Warm, inviting, and eager to chat, making her sound like an enthusiastic and welcoming friend.",
-  "nickname": "Welcoming Friend"
+  "nickname": "Welcoming Friend",
+  "category": "Everyday Women"
  },
  "Voice 90": {
   "gender": "Male",
@@ -897,7 +986,8 @@
   "accent": "British",
   "energy": "Medium",
   "vibe": "A warm, friendly, and inquisitive voice ideal for conversational and casual storytelling.",
-  "nickname": "Eager Neighbor"
+  "nickname": "Eager Neighbor",
+  "category": "Accents from Abroad"
  },
  "Voice 91": {
   "gender": "Male",
@@ -907,7 +997,8 @@
   "accent": "American",
   "energy": "Medium-High",
   "vibe": "A friendly and inviting neighbor eager to catch up on the latest local chatter.",
-  "nickname": "Friendly Neighbor"
+  "nickname": "Friendly Neighbor",
+  "category": "Deep & Smoky"
  },
  "Voice 92": {
   "gender": "Male",
@@ -917,7 +1008,8 @@
   "accent": "Australian",
   "energy": "Medium-Low",
   "vibe": "Warm, casual, and conversational like a friendly neighbor inviting you in for a chat.",
-  "nickname": "Friendly Aussie Mate"
+  "nickname": "Friendly Aussie Mate",
+  "category": "Accents from Abroad"
  },
  "Voice 93": {
   "gender": "Female",
@@ -927,7 +1019,8 @@
   "accent": "British",
   "energy": "Medium-High",
   "vibe": "An inviting, warm, and conversational voice ideal for friendly narrations or welcoming hosts.",
-  "nickname": "Friendly British Neighbor"
+  "nickname": "Friendly British Neighbor",
+  "category": "Accents from Abroad"
  },
  "Voice 94": {
   "gender": "Male",
@@ -937,7 +1030,8 @@
   "accent": "American",
   "energy": "Moderate",
   "vibe": "Warm and conversational with an inviting, friendly tone perfect for casual storytelling or welcoming dialogue.",
-  "nickname": "Friendly Neighbor"
+  "nickname": "Friendly Neighbor",
+  "category": "Everyday Men"
  },
  "Voice 95": {
   "gender": "Male",
@@ -947,7 +1041,8 @@
   "accent": "General American",
   "energy": "Medium-High",
   "vibe": "Warm, engaging, and casually enthusiastic like a welcoming friend.",
-  "nickname": "Friendly Welcomer"
+  "nickname": "Friendly Welcomer",
+  "category": "Everyday Men"
  },
  "Voice 96": {
   "gender": "Female",
@@ -957,7 +1052,8 @@
   "accent": "American Southern",
   "energy": "High",
   "vibe": "Warm, inquisitive, and welcoming, like a friendly neighbor eager for a cozy chat.",
-  "nickname": "Friendly Southern Gossip"
+  "nickname": "Friendly Southern Gossip",
+  "category": "Southern & Country"
  },
  "Voice 97": {
   "gender": "Female",
@@ -967,7 +1063,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "A warm, welcoming, and enthusiastic voice that sounds like a close friend sharing exciting news.",
-  "nickname": "Warm Enthusiast"
+  "nickname": "Warm Enthusiast",
+  "category": "Everyday Women"
  },
  "Voice 98": {
   "gender": "Female",
@@ -977,7 +1074,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "Warm, enthusiastic, and eager to share the latest news with a close friend.",
-  "nickname": "Enthusiastic Neighbor"
+  "nickname": "Enthusiastic Neighbor",
+  "category": "Everyday Women"
  },
  "Voice 99": {
   "gender": "Male",
@@ -987,7 +1085,8 @@
   "accent": "American",
   "energy": "Medium",
   "vibe": "Warm and welcoming, sounding like an approachable friend inviting you in for a casual chat.",
-  "nickname": "Friendly Neighbor"
+  "nickname": "Friendly Neighbor",
+  "category": "Everyday Men"
  },
  "Voice 100": {
   "gender": "male",
@@ -997,7 +1096,8 @@
   "accent": "English",
   "energy": "high",
   "vibe": "A boisterous and welcoming fantasy tavernkeeper eager for gossip and lively company.",
-  "nickname": "Hearty Tavernkeeper"
+  "nickname": "Hearty Tavernkeeper",
+  "category": "Characters & Creatures"
  },
  "Voice 101": {
   "gender": "Male",
@@ -1007,7 +1107,8 @@
   "accent": "British",
   "energy": "Moderate",
   "vibe": "A warm and inviting friend offering a casual, welcoming chat.",
-  "nickname": "Welcoming British Friend"
+  "nickname": "Welcoming British Friend",
+  "category": "Accents from Abroad"
  },
  "Voice 102": {
   "gender": "Male",
@@ -1017,7 +1118,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "Energetic and welcoming, like an upbeat friend eager to hear gossip or catch up.",
-  "nickname": "Warm Enthusiastic Friend"
+  "nickname": "Warm Enthusiastic Friend",
+  "category": "Deep & Smoky"
  },
  "Voice 103": {
   "gender": "Male",
@@ -1027,7 +1129,8 @@
   "accent": "American",
   "energy": "Medium",
   "vibe": "A warm, welcoming, and relaxed tone that feels intimate and conversational.",
-  "nickname": "Friendly Neighbor"
+  "nickname": "Friendly Neighbor",
+  "category": "Deep & Smoky"
  },
  "Voice 104": {
   "gender": "Female",
@@ -1037,7 +1140,8 @@
   "accent": "American",
   "energy": "Medium",
   "vibe": "Inviting, friendly, and conversational with an approachable, intimate tone.",
-  "nickname": "Friendly Neighbor"
+  "nickname": "Friendly Neighbor",
+  "category": "Calm & Soothing"
  },
  "Voice 105": {
   "gender": "Female",
@@ -1047,7 +1151,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "Warm, enthusiastic, and eager to chat, bringing an inviting and friendly energy.",
-  "nickname": "Warm Gossip"
+  "nickname": "Warm Gossip",
+  "category": "Everyday Women"
  },
  "Voice 106": {
   "gender": "Male",
@@ -1057,7 +1162,8 @@
   "accent": "British",
   "energy": "Medium",
   "vibe": "A warm and inviting older gentleman who sounds like a friendly neighbor sharing gossip over tea.",
-  "nickname": "Friendly Neighbor"
+  "nickname": "Friendly Neighbor",
+  "category": "Wise & Seasoned"
  },
  "Voice 107": {
   "gender": "Male",
@@ -1067,7 +1173,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "A warm and enthusiastic conversationalist with a friendly, welcoming demeanor.",
-  "nickname": "Enthusiastic Host"
+  "nickname": "Enthusiastic Host",
+  "category": "Everyday Men"
  },
  "Voice 108": {
   "gender": "Male",
@@ -1077,7 +1184,8 @@
   "accent": "American",
   "energy": "Medium",
   "vibe": "Friendly and inviting with an approachable, casual conversational tone.",
-  "nickname": "Welcoming Neighbor"
+  "nickname": "Welcoming Neighbor",
+  "category": "Everyday Men"
  },
  "Voice 109": {
   "gender": "Female",
@@ -1087,7 +1195,8 @@
   "accent": "General American",
   "energy": "Medium-High",
   "vibe": "Warm, welcoming, and casual, ideal for friendly conversation or relatable, approachable characters.",
-  "nickname": "Friendly Neighbor Voice"
+  "nickname": "Friendly Neighbor Voice",
+  "category": "Everyday Women"
  },
  "Voice 110": {
   "gender": "male",
@@ -1097,7 +1206,8 @@
   "accent": "american",
   "energy": "high",
   "vibe": "Warm, welcoming, and eager to chat like a friendly neighbor.",
-  "nickname": "Friendly Host"
+  "nickname": "Friendly Host",
+  "category": "Everyday Men"
  },
  "Voice 111": {
   "gender": "Female",
@@ -1107,7 +1217,8 @@
   "accent": "General American",
   "energy": "High",
   "vibe": "An expressive and welcoming neighbor who is eager to catch up on the latest local gossip.",
-  "nickname": "Eager Neighbor"
+  "nickname": "Eager Neighbor",
+  "category": "Everyday Women"
  },
  "Voice 112": {
   "gender": "male",
@@ -1117,7 +1228,8 @@
   "accent": "general american",
   "energy": "moderate",
   "vibe": "Warm, welcoming, and naturally conversational with an inviting tone.",
-  "nickname": "Friendly Host"
+  "nickname": "Friendly Host",
+  "category": "Everyday Men"
  },
  "Voice 113": {
   "gender": "Male",
@@ -1127,7 +1239,8 @@
   "accent": "British",
   "energy": "Medium",
   "vibe": "Warm and approachable with an inviting, friendly conversational tone.",
-  "nickname": "Friendly British Mate"
+  "nickname": "Friendly British Mate",
+  "category": "Accents from Abroad"
  },
  "Voice 114": {
   "gender": "Female",
@@ -1137,7 +1250,8 @@
   "accent": "American",
   "energy": "Moderate",
   "vibe": "Friendly, warm, and inviting, creating a cozy and comfortable atmosphere for casual catch-ups.",
-  "nickname": "Welcoming Friend"
+  "nickname": "Welcoming Friend",
+  "category": "Everyday Women"
  },
  "Voice 115": {
   "gender": "Male",
@@ -1147,7 +1261,8 @@
   "accent": "British",
   "energy": "Low",
   "vibe": "A warm, welcoming, and weathered storyteller who invites you in like an old friend.",
-  "nickname": "The Cozy Storyteller"
+  "nickname": "The Cozy Storyteller",
+  "category": "Wise & Seasoned"
  },
  "Voice 116": {
   "gender": "Male",
@@ -1157,7 +1272,8 @@
   "accent": "Australian",
   "energy": "High",
   "vibe": "Warm, animated, and friendly, giving off an approachable neighborly charm.",
-  "nickname": "Animated Aussie Mate"
+  "nickname": "Animated Aussie Mate",
+  "category": "Accents from Abroad"
  },
  "Voice 117": {
   "gender": "Female",
@@ -1167,7 +1283,8 @@
   "accent": "American",
   "energy": "Medium-High",
   "vibe": "Warm, enthusiastic, and eager to catch up on local news with a friend.",
-  "nickname": "Curious Neighbor"
+  "nickname": "Curious Neighbor",
+  "category": "Everyday Women"
  },
  "Voice 118": {
   "gender": "Female",
@@ -1177,7 +1294,8 @@
   "accent": "Australian",
   "energy": "High",
   "vibe": "Warm, enthusiastic, and approachable, sounding like an excited friend inviting you in for a chat.",
-  "nickname": "Welcoming Aussie Host"
+  "nickname": "Welcoming Aussie Host",
+  "category": "Accents from Abroad"
  },
  "Voice 119": {
   "gender": "Male",
@@ -1187,7 +1305,8 @@
   "accent": "American",
   "energy": "Medium",
   "vibe": "Warm, inviting, and eagerly conversational, making for an approachable and friendly presence.",
-  "nickname": "Welcoming Neighbor"
+  "nickname": "Welcoming Neighbor",
+  "category": "Everyday Men"
  },
  "Voice 120": {
   "gender": "male",
@@ -1197,7 +1316,8 @@
   "accent": "British",
   "energy": "high",
   "vibe": "Warm and overly enthusiastic, making him sound like an excited neighbor eager to hear the latest gossip.",
-  "nickname": "Energetic British Friend"
+  "nickname": "Energetic British Friend",
+  "category": "Accents from Abroad"
  },
  "Voice 121": {
   "gender": "Male",
@@ -1207,7 +1327,8 @@
   "accent": "Australian",
   "energy": "High",
   "vibe": "An upbeat and friendly Australian voice perfect for casual, conversational, and welcoming roles.",
-  "nickname": "Upbeat Aussie Mate"
+  "nickname": "Upbeat Aussie Mate",
+  "category": "Accents from Abroad"
  },
  "Voice 122": {
   "gender": "Male",
@@ -1217,7 +1338,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "An enthusiastic and friendly neighbor eager to chat about the latest local news.",
-  "nickname": "Enthusiastic Local Friend"
+  "nickname": "Enthusiastic Local Friend",
+  "category": "Everyday Men"
  },
  "Voice 123": {
   "gender": "Female",
@@ -1227,7 +1349,8 @@
   "accent": "American (General)",
   "energy": "High",
   "vibe": "An inviting and friendly persona that feels like a close, approachable friend eager to catch up.",
-  "nickname": "Welcoming Friend"
+  "nickname": "Welcoming Friend",
+  "category": "Everyday Women"
  },
  "Voice 124": {
   "gender": "Female",
@@ -1237,7 +1360,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "An enthusiastic and warm friend eager to chat and hear the latest gossip.",
-  "nickname": "Enthusiastic Neighbor"
+  "nickname": "Enthusiastic Neighbor",
+  "category": "Everyday Women"
  },
  "Voice 125": {
   "gender": "Female",
@@ -1247,7 +1371,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "Warm, enthusiastic, and eager to chat like a close friend sharing gossip.",
-  "nickname": "Enthusiastic Best Friend"
+  "nickname": "Enthusiastic Best Friend",
+  "category": "Everyday Women"
  },
  "Voice 126": {
   "gender": "Female",
@@ -1257,7 +1382,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "Warm, enthusiastic, and welcoming, like a close friend eager to share exciting gossip.",
-  "nickname": "Bubbly Chatty Friend"
+  "nickname": "Bubbly Chatty Friend",
+  "category": "Everyday Women"
  },
  "Voice 127": {
   "gender": "Female",
@@ -1267,7 +1393,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "Warm, enthusiastic, and welcoming with a conversational brightness.",
-  "nickname": "Welcoming Friend"
+  "nickname": "Welcoming Friend",
+  "category": "Everyday Women"
  },
  "Voice 128": {
   "gender": "Female",
@@ -1277,7 +1404,8 @@
   "accent": "American",
   "energy": "Moderate-High",
   "vibe": "An enthusiastic and welcoming friend eager to share some fresh gossip.",
-  "nickname": "Welcoming Gossip Friend"
+  "nickname": "Welcoming Gossip Friend",
+  "category": "Everyday Women"
  },
  "Voice 129": {
   "gender": "Female",
@@ -1287,7 +1415,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "Enthusiastic, warm, and inviting with a friendly, conversational tone.",
-  "nickname": "Welcoming Host"
+  "nickname": "Welcoming Host",
+  "category": "Everyday Women"
  },
  "Voice 130": {
   "gender": "Male",
@@ -1297,7 +1426,8 @@
   "accent": "American",
   "energy": "Moderate",
   "vibe": "Warm, enthusiastic, and approachable, like a friendly neighbor sharing exciting news.",
-  "nickname": "Warm Conversationalist"
+  "nickname": "Warm Conversationalist",
+  "category": "Everyday Men"
  },
  "Voice 131": {
   "gender": "Male",
@@ -1307,7 +1437,8 @@
   "accent": "Australian",
   "energy": "High",
   "vibe": "An enthusiastic and friendly companion who is always eager to catch up and chat.",
-  "nickname": "Friendly Aussie Mate"
+  "nickname": "Friendly Aussie Mate",
+  "category": "Accents from Abroad"
  },
  "Voice 132": {
   "gender": "Female",
@@ -1317,7 +1448,8 @@
   "accent": "American",
   "energy": "Medium-High",
   "vibe": "A warm, inviting, and friendly neighbor eager to catch up on local gossip.",
-  "nickname": "Warm Neighbor"
+  "nickname": "Warm Neighbor",
+  "category": "Everyday Women"
  },
  "Voice 133": {
   "gender": "Male",
@@ -1327,7 +1459,8 @@
   "accent": "American",
   "energy": "Low",
   "vibe": "A casual, friendly neighbor offering a warm, inviting, and conversational tone.",
-  "nickname": "Friendly Neighbor"
+  "nickname": "Friendly Neighbor",
+  "category": "Deep & Smoky"
  },
  "Voice 134": {
   "gender": "Female",
@@ -1337,7 +1470,8 @@
   "accent": "British",
   "energy": "Medium-High",
   "vibe": "An enthusiastic and friendly speaker who sounds warm, inviting, and eager to chat.",
-  "nickname": "Warm Gossip"
+  "nickname": "Warm Gossip",
+  "category": "Accents from Abroad"
  },
  "Voice 135": {
   "gender": "Male",
@@ -1347,7 +1481,8 @@
   "accent": "American",
   "energy": "Medium-low",
   "vibe": "A warm, welcoming friend always ready for casual gossip and friendly conversation.",
-  "nickname": "Cozy Neighbor"
+  "nickname": "Cozy Neighbor",
+  "category": "Deep & Smoky"
  },
  "Voice 136": {
   "gender": "Male",
@@ -1357,7 +1492,8 @@
   "accent": "North American",
   "energy": "High",
   "vibe": "Welcoming and enthusiastic, perfect for an approachable friend or helpful guy-next-door character.",
-  "nickname": "Warm Neighbor"
+  "nickname": "Warm Neighbor",
+  "category": "Everyday Men"
  },
  "Voice 137": {
   "gender": "Female",
@@ -1367,7 +1503,8 @@
   "accent": "General American",
   "energy": "High",
   "vibe": "An enthusiastic and welcoming host who engages listeners with warm, neighborly excitement.",
-  "nickname": "Friendly Host"
+  "nickname": "Friendly Host",
+  "category": "Everyday Women"
  },
  "Voice 138": {
   "gender": "Female",
@@ -1377,7 +1514,8 @@
   "accent": "American (General)",
   "energy": "Medium",
   "vibe": "Friendly and inviting with an approachable, conversational warmth.",
-  "nickname": "Welcoming Neighbor"
+  "nickname": "Welcoming Neighbor",
+  "category": "Everyday Women"
  },
  "Voice 139": {
   "gender": "Female",
@@ -1387,7 +1525,8 @@
   "accent": "Australian",
   "energy": "Medium-High",
   "vibe": "Warm, enthusiastic, and welcoming, like a friendly neighbor eager to catch up on local gossip.",
-  "nickname": "Welcoming Neighbor"
+  "nickname": "Welcoming Neighbor",
+  "category": "Accents from Abroad"
  },
  "Voice 140": {
   "gender": "Female",
@@ -1397,7 +1536,8 @@
   "accent": "General American",
   "energy": "High",
   "vibe": "An enthusiastic, friendly, and welcoming presence who loves a good conversation.",
-  "nickname": "Bubbly Neighbor"
+  "nickname": "Bubbly Neighbor",
+  "category": "Everyday Women"
  },
  "Voice 141": {
   "gender": "Female",
@@ -1407,7 +1547,8 @@
   "accent": "General American",
   "energy": "High",
   "vibe": "Warm, bubbly, and enthusiastic with an inviting, conversational tone.",
-  "nickname": "Energetic Conversationalist"
+  "nickname": "Energetic Conversationalist",
+  "category": "Everyday Women"
  },
  "Voice 142": {
   "gender": "Female",
@@ -1417,7 +1558,8 @@
   "accent": "American",
   "energy": "Medium-High",
   "vibe": "Warm and inviting, perfect for a friendly neighbor or hospitable companion.",
-  "nickname": "Welcoming Host"
+  "nickname": "Welcoming Host",
+  "category": "Everyday Women"
  },
  "Voice 143": {
   "gender": "Female",
@@ -1427,7 +1569,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "An enthusiastic and bubbly friend who loves catching up on local gossip.",
-  "nickname": "Enthusiastic Gossip"
+  "nickname": "Enthusiastic Gossip",
+  "category": "Everyday Women"
  },
  "Voice 144": {
   "gender": "Female",
@@ -1437,7 +1580,8 @@
   "accent": "American",
   "energy": "Medium-high",
   "vibe": "Warm, welcoming, and enthusiastically conversational like a friendly neighbor.",
-  "nickname": "Friendly Neighbor"
+  "nickname": "Friendly Neighbor",
+  "category": "Everyday Women"
  },
  "Voice 145": {
   "gender": "male",
@@ -1447,7 +1591,8 @@
   "accent": "american",
   "energy": "medium-high",
   "vibe": "A welcoming and expressive friend eager to hear the latest gossip.",
-  "nickname": "Welcoming Friend"
+  "nickname": "Welcoming Friend",
+  "category": "Everyday Men"
  },
  "Voice 146": {
   "gender": "Male",
@@ -1457,7 +1602,8 @@
   "accent": "American",
   "energy": "Medium",
   "vibe": "Warm, welcoming, and naturally conversational with a friendly, inviting tone.",
-  "nickname": "Welcoming Neighbor"
+  "nickname": "Welcoming Neighbor",
+  "category": "Everyday Men"
  },
  "Voice 147": {
   "gender": "Female",
@@ -1467,7 +1613,8 @@
   "accent": "British",
   "energy": "High",
   "vibe": "An eager and warm friend inviting you in for a cozy chat.",
-  "nickname": "Welcoming British Friend"
+  "nickname": "Welcoming British Friend",
+  "category": "Accents from Abroad"
  },
  "Voice 148": {
   "gender": "Female",
@@ -1477,7 +1624,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "Warm, welcoming, and genuinely eager to catch up and share exciting news with a close friend.",
-  "nickname": "Warm Neighbor"
+  "nickname": "Warm Neighbor",
+  "category": "Everyday Women"
  },
  "Voice 149": {
   "gender": "Female",
@@ -1487,7 +1635,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "An upbeat, eager, and highly enthusiastic voice perfect for friendly and social characters.",
-  "nickname": "Bouncy Socialite"
+  "nickname": "Bouncy Socialite",
+  "category": "Everyday Women"
  },
  "Voice 150": {
   "gender": "Female",
@@ -1497,7 +1646,8 @@
   "accent": "American (General)",
   "energy": "Medium-High",
   "vibe": "Warm, welcoming, and delightfully eager to catch up on the latest news.",
-  "nickname": "Warm Confidante"
+  "nickname": "Warm Confidante",
+  "category": "Everyday Women"
  },
  "Voice 151": {
   "gender": "Female",
@@ -1507,7 +1657,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "An upbeat and enthusiastic friend eager to catch up on the latest gossip.",
-  "nickname": "Enthusiastic Gossip"
+  "nickname": "Enthusiastic Gossip",
+  "category": "Everyday Women"
  },
  "Voice 152": {
   "gender": "Male",
@@ -1517,7 +1668,8 @@
   "accent": "British",
   "energy": "Medium-High",
   "vibe": "A warm, enthusiastic, and inviting host who loves sharing local news and making guests feel right at home.",
-  "nickname": "Warm British Host"
+  "nickname": "Warm British Host",
+  "category": "Accents from Abroad"
  },
  "Voice 153": {
   "gender": "Female",
@@ -1527,7 +1679,8 @@
   "accent": "General American",
   "energy": "Medium-high",
   "vibe": "A warm and inviting voice that feels naturally conversational and approachable.",
-  "nickname": "Warm Welcomer"
+  "nickname": "Warm Welcomer",
+  "category": "Everyday Women"
  },
  "Voice 154": {
   "gender": "Male",
@@ -1537,7 +1690,8 @@
   "accent": "British",
   "energy": "Medium",
   "vibe": "An inviting and friendly speaker with an approachable, conversational warmth.",
-  "nickname": "Friendly Host"
+  "nickname": "Friendly Host",
+  "category": "Accents from Abroad"
  },
  "Voice 155": {
   "gender": "female",
@@ -1547,7 +1701,8 @@
   "accent": "American",
   "energy": "high",
   "vibe": "An enthusiastic and welcoming speaker who sounds warm, conversational, and instantly relatable.",
-  "nickname": "Cheerful Friend"
+  "nickname": "Cheerful Friend",
+  "category": "Everyday Women"
  },
  "Voice 156": {
   "gender": "Male",
@@ -1557,7 +1712,8 @@
   "accent": "British",
   "energy": "High",
   "vibe": "An enthusiastic and friendly host eager to catch up on local news.",
-  "nickname": "Welcoming Gossip"
+  "nickname": "Welcoming Gossip",
+  "category": "Accents from Abroad"
  },
  "Voice 157": {
   "gender": "Female",
@@ -1567,7 +1723,8 @@
   "accent": "American",
   "energy": "Medium-High",
   "vibe": "Warm, inviting, and eager to catch up with a friend.",
-  "nickname": "Welcoming Friend"
+  "nickname": "Welcoming Friend",
+  "category": "Everyday Women"
  },
  "Voice 158": {
   "gender": "Female",
@@ -1577,7 +1734,8 @@
   "accent": "American",
   "energy": "Medium",
   "vibe": "Intimate, warm, and inviting with a conversational and friendly tone.",
-  "nickname": "Inviting Friend"
+  "nickname": "Inviting Friend",
+  "category": "Calm & Soothing"
  },
  "Voice 159": {
   "gender": "Female",
@@ -1587,7 +1745,8 @@
   "accent": "Singaporean",
   "energy": "High",
   "vibe": "Warm, welcoming, and upbeat, like an enthusiastic neighbor inviting you in for a cozy chat.",
-  "nickname": "Welcoming Local Friend"
+  "nickname": "Welcoming Local Friend",
+  "category": "Everyday Women"
  },
  "Voice 160": {
   "gender": "male",
@@ -1597,7 +1756,8 @@
   "accent": "american",
   "energy": "medium-high",
   "vibe": "An inviting and enthusiastic friend who is eager to chat about local news.",
-  "nickname": "Welcoming Local"
+  "nickname": "Welcoming Local",
+  "category": "Everyday Men"
  },
  "Voice 161": {
   "gender": "male",
@@ -1607,7 +1767,8 @@
   "accent": "American",
   "energy": "high",
   "vibe": "An enthusiastic and welcoming friend who is eager to hear the latest news.",
-  "nickname": "Energetic Friend"
+  "nickname": "Energetic Friend",
+  "category": "Everyday Men"
  },
  "Voice 162": {
   "gender": "male",
@@ -1617,7 +1778,8 @@
   "accent": "American",
   "energy": "high",
   "vibe": "An overly enthusiastic and welcoming neighbor eager to catch up on the latest local gossip.",
-  "nickname": "Eager Friendly Neighbor"
+  "nickname": "Eager Friendly Neighbor",
+  "category": "Everyday Men"
  },
  "Voice 163": {
   "gender": "Female",
@@ -1627,7 +1789,8 @@
   "accent": "General American",
   "energy": "High",
   "vibe": "Warm, enthusiastic, and welcoming, sounding like a friendly neighbor eager to chat.",
-  "nickname": "Upbeat Neighbor"
+  "nickname": "Upbeat Neighbor",
+  "category": "Everyday Women"
  },
  "Voice 164": {
   "gender": "Female",
@@ -1637,7 +1800,8 @@
   "accent": "Australian",
   "energy": "High",
   "vibe": "A warm and inviting friend who is eager and excited to chat.",
-  "nickname": "Upbeat Aussie Mate"
+  "nickname": "Upbeat Aussie Mate",
+  "category": "Accents from Abroad"
  },
  "Voice 165": {
   "gender": "Female",
@@ -1647,7 +1811,8 @@
   "accent": "Australian",
   "energy": "High",
   "vibe": "An enthusiastic and friendly speaker who sounds warm, curious, and welcoming.",
-  "nickname": "Friendly Neighbor"
+  "nickname": "Friendly Neighbor",
+  "category": "Accents from Abroad"
  },
  "Voice 166": {
   "gender": "Male",
@@ -1657,7 +1822,8 @@
   "accent": "British",
   "energy": "Medium-High",
   "vibe": "Warm, welcoming, and expressive with a friendly, conversational storytelling charm.",
-  "nickname": "Warm British Storyteller"
+  "nickname": "Warm British Storyteller",
+  "category": "Accents from Abroad"
  },
  "Voice 167": {
   "gender": "Female",
@@ -1667,7 +1833,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "Warm, energetic, and expressive, perfectly suited for an engaging and friendly conversational tone.",
-  "nickname": "Energetic Friend"
+  "nickname": "Energetic Friend",
+  "category": "Everyday Women"
  },
  "Voice 168": {
   "gender": "male",
@@ -1677,7 +1844,8 @@
   "accent": "American",
   "energy": "high",
   "vibe": "An upbeat and friendly speaker who sounds genuinely excited and welcoming.",
-  "nickname": "Welcoming Friend"
+  "nickname": "Welcoming Friend",
+  "category": "Everyday Men"
  },
  "Voice 169": {
   "gender": "Female",
@@ -1687,7 +1855,8 @@
   "accent": "American",
   "energy": "Moderate",
   "vibe": "Warm, inviting, and conversationally expressive, perfect for a friendly, approachable character.",
-  "nickname": "Inviting Friend"
+  "nickname": "Inviting Friend",
+  "category": "Everyday Women"
  },
  "Voice 170": {
   "gender": "Female",
@@ -1697,7 +1866,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "A warm, inquisitive, and welcoming friend who is eager for the latest local gossip.",
-  "nickname": "Friendly Gossip"
+  "nickname": "Friendly Gossip",
+  "category": "Everyday Women"
  },
  "Voice 171": {
   "gender": "Female",
@@ -1707,7 +1877,8 @@
   "accent": "General American",
   "energy": "High",
   "vibe": "An enthusiastic and warm conversationalist who sounds like an eager, friendly neighbor sharing exciting news.",
-  "nickname": "Enthusiastic Neighbor"
+  "nickname": "Enthusiastic Neighbor",
+  "category": "Everyday Women"
  },
  "Voice 172": {
   "gender": "male",
@@ -1717,7 +1888,8 @@
   "accent": "General American",
   "energy": "medium",
   "vibe": "Warm, casual, and inviting, like an approachable friend striking up a conversation.",
-  "nickname": "Friendly Neighbor"
+  "nickname": "Friendly Neighbor",
+  "category": "Everyday Men"
  },
  "Voice 173": {
   "gender": "Female",
@@ -1727,7 +1899,8 @@
   "accent": "British",
   "energy": "High",
   "vibe": "Warm, enthusiastic, and welcoming, ideal for friendly conversations and inviting narration.",
-  "nickname": "Enthusiastic British Friend"
+  "nickname": "Enthusiastic British Friend",
+  "category": "Accents from Abroad"
  },
  "Voice 174": {
   "gender": "Male",
@@ -1737,7 +1910,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "An eager and friendly companion welcoming someone with excited curiosity.",
-  "nickname": "Friendly Neighbor"
+  "nickname": "Friendly Neighbor",
+  "category": "Everyday Men"
  },
  "Voice 175": {
   "gender": "Female",
@@ -1747,7 +1921,8 @@
   "accent": "British",
   "energy": "High",
   "vibe": "An enthusiastic and warm conversationalist who sounds welcoming, friendly, and eager to chat.",
-  "nickname": "Warm Welcomer"
+  "nickname": "Warm Welcomer",
+  "category": "Accents from Abroad"
  },
  "Voice 176": {
   "gender": "Female",
@@ -1757,7 +1932,8 @@
   "accent": "British",
   "energy": "Medium",
   "vibe": "A warm, inviting, and approachable friend eager to catch up on the latest news.",
-  "nickname": "Welcoming Friend"
+  "nickname": "Welcoming Friend",
+  "category": "Accents from Abroad"
  },
  "Voice 177": {
   "gender": "female",
@@ -1767,7 +1943,8 @@
   "accent": "american",
   "energy": "high",
   "vibe": "Warm, enthusiastic, and inviting, like an excited friend welcoming you in.",
-  "nickname": "Enthusiastic Host"
+  "nickname": "Enthusiastic Host",
+  "category": "Everyday Women"
  },
  "Voice 178": {
   "gender": "Male",
@@ -1777,7 +1954,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "An enthusiastic and warm friend who is eager to chat and share stories.",
-  "nickname": "Welcoming Conversationalist"
+  "nickname": "Welcoming Conversationalist",
+  "category": "Everyday Men"
  },
  "Voice 179": {
   "gender": "Female",
@@ -1787,7 +1965,8 @@
   "accent": "American",
   "energy": "Medium-low",
   "vibe": "A warm and inviting neighbor eager for a cozy chat.",
-  "nickname": "Welcoming Neighbor"
+  "nickname": "Welcoming Neighbor",
+  "category": "Calm & Soothing"
  },
  "Voice 180": {
   "gender": "Female",
@@ -1797,7 +1976,8 @@
   "accent": "Nigerian",
   "energy": "Medium",
   "vibe": "Warm, inviting, and friendly with a casual, welcoming tone.",
-  "nickname": "Welcoming Neighbor"
+  "nickname": "Welcoming Neighbor",
+  "category": "Everyday Women"
  },
  "Voice 181": {
   "gender": "Male",
@@ -1807,7 +1987,8 @@
   "accent": "General American",
   "energy": "High",
   "vibe": "An energetic, friendly speaker who comes across as welcoming and eager to chat.",
-  "nickname": "Friendly Chatty Host"
+  "nickname": "Friendly Chatty Host",
+  "category": "Everyday Men"
  },
  "Voice 182": {
   "gender": "Female",
@@ -1817,7 +1998,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "Warm, enthusiastic, and welcoming, ideal for a friendly conversational host or upbeat narrative.",
-  "nickname": "Energetic Conversationalist"
+  "nickname": "Energetic Conversationalist",
+  "category": "Storytellers & Pros"
  },
  "Voice 183": {
   "gender": "Male",
@@ -1827,7 +2009,8 @@
   "accent": "Indian",
   "energy": "Moderate",
   "vibe": "An approachable and warm conversationalist who sounds genuinely eager to hear the latest news.",
-  "nickname": "Warm Friendly Host"
+  "nickname": "Warm Friendly Host",
+  "category": "Accents from Abroad"
  },
  "Voice 184": {
   "gender": "male",
@@ -1837,7 +2020,8 @@
   "accent": "Singaporean",
   "energy": "moderate",
   "vibe": "An approachable and welcoming friend who speaks with a warm, relaxed, and conversational tone.",
-  "nickname": "Friendly Local Companion"
+  "nickname": "Friendly Local Companion",
+  "category": "Calm & Soothing"
  },
  "Voice 185": {
   "gender": "Female",
@@ -1847,7 +2031,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "An enthusiastic and welcoming friend inviting you in with genuine excitement.",
-  "nickname": "Warm Welcomer"
+  "nickname": "Warm Welcomer",
+  "category": "Deep & Smoky"
  },
  "Voice 186": {
   "gender": "Female",
@@ -1857,7 +2042,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "Warm, friendly, and eager to catch up on the latest news.",
-  "nickname": "Chatty Best Friend"
+  "nickname": "Chatty Best Friend",
+  "category": "Everyday Women"
  },
  "Voice 187": {
   "gender": "Male",
@@ -1867,7 +2053,8 @@
   "accent": "Indian",
   "energy": "Medium-High",
   "vibe": "An inviting and enthusiastic conversationalist who brings a warm, engaging presence to casual social chatter.",
-  "nickname": "Friendly Local Host"
+  "nickname": "Friendly Local Host",
+  "category": "Accents from Abroad"
  },
  "Voice 188": {
   "gender": "Male",
@@ -1877,7 +2064,8 @@
   "accent": "West African",
   "energy": "Medium",
   "vibe": "Warm, welcoming, and conversational with a friendly, inviting tone perfect for a trusted neighbor or casual narrator.",
-  "nickname": "Warm Welcoming Neighbor"
+  "nickname": "Warm Welcoming Neighbor",
+  "category": "Storytellers & Pros"
  },
  "Voice 189": {
   "gender": "male",
@@ -1887,7 +2075,8 @@
   "accent": "Filipino",
   "energy": "high",
   "vibe": "A warm and inquisitive friend inviting you in for a lively chat.",
-  "nickname": "Welcoming Neighbor"
+  "nickname": "Welcoming Neighbor",
+  "category": "Everyday Men"
  },
  "Voice 190": {
   "gender": "Female",
@@ -1897,7 +2086,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "An upbeat and welcoming friend eager for exciting news and casual chatter.",
-  "nickname": "Enthusiastic Confidante"
+  "nickname": "Enthusiastic Confidante",
+  "category": "Everyday Women"
  },
  "Voice 191": {
   "gender": "Female",
@@ -1907,7 +2097,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "An enthusiastic, friendly, and curious speaker who is eager to chat and hear the latest news.",
-  "nickname": "Eager Chatterbox"
+  "nickname": "Eager Chatterbox",
+  "category": "Everyday Women"
  },
  "Voice 192": {
   "gender": "Female",
@@ -1917,7 +2108,8 @@
   "accent": "Singaporean",
   "energy": "High",
   "vibe": "An inviting and excited companion eager to catch up on local gossip.",
-  "nickname": "Enthusiastic Companion"
+  "nickname": "Enthusiastic Companion",
+  "category": "Everyday Women"
  },
  "Voice 193": {
   "gender": "Male",
@@ -1927,7 +2119,8 @@
   "accent": "Indian",
   "energy": "High",
   "vibe": "A friendly, welcoming host who engages listeners with warm, enthusiastic curiosity.",
-  "nickname": "Welcoming Indian Host"
+  "nickname": "Welcoming Indian Host",
+  "category": "Accents from Abroad"
  },
  "Voice 194": {
   "gender": "Male",
@@ -1937,7 +2130,8 @@
   "accent": "American",
   "energy": "Moderate",
   "vibe": "An inviting, friendly conversationalist who warmly engages you in casual discussion.",
-  "nickname": "Casual Companion"
+  "nickname": "Casual Companion",
+  "category": "Everyday Men"
  },
  "Voice 195": {
   "gender": "female",
@@ -1947,7 +2141,8 @@
   "accent": "American",
   "energy": "medium",
   "vibe": "An inviting and warm friend eager for casual conversation and gossip.",
-  "nickname": "Warm Chatty Friend"
+  "nickname": "Warm Chatty Friend",
+  "category": "Everyday Women"
  },
  "Voice 196": {
   "gender": "Male",
@@ -1957,7 +2152,8 @@
   "accent": "American",
   "energy": "Low",
   "vibe": "Warm, intimate, and relaxed, sounding like a close friend inviting you in for a casual chat.",
-  "nickname": "Friendly Confidant"
+  "nickname": "Friendly Confidant",
+  "category": "Calm & Soothing"
  },
  "Voice 197": {
   "gender": "Female",
@@ -1967,7 +2163,8 @@
   "accent": "General American",
   "energy": "Medium-High",
   "vibe": "An enthusiastic, friendly companion eager to catch up and chat about local gossip.",
-  "nickname": "Chatty Companion"
+  "nickname": "Chatty Companion",
+  "category": "Everyday Women"
  },
  "Voice 198": {
   "gender": "Female",
@@ -1977,7 +2174,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "Warm, enthusiastic, and welcoming, perfect for a friendly and casual conversation.",
-  "nickname": "Upbeat Neighbor"
+  "nickname": "Upbeat Neighbor",
+  "category": "Everyday Women"
  },
  "Voice 199": {
   "gender": "Female",
@@ -1987,7 +2185,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "A warm, enthusiastic friend eager to invite you in for a cozy chat.",
-  "nickname": "Warm Chatty Friend"
+  "nickname": "Warm Chatty Friend",
+  "category": "Everyday Women"
  },
  "Voice 200": {
   "gender": "Male",
@@ -1997,7 +2196,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "An upbeat and welcoming speaker with an enthusiastic, friendly demeanor.",
-  "nickname": "Enthusiastic Pal"
+  "nickname": "Enthusiastic Pal",
+  "category": "Everyday Men"
  },
  "Voice 201": {
   "gender": "Female",
@@ -2007,7 +2207,8 @@
   "accent": "Indian",
   "energy": "Medium-High",
   "vibe": "Warm, welcoming, and conversational with an inviting and friendly tone.",
-  "nickname": "Welcoming Friend"
+  "nickname": "Welcoming Friend",
+  "category": "Accents from Abroad"
  },
  "Voice 202": {
   "gender": "Male",
@@ -2017,7 +2218,8 @@
   "accent": "General American",
   "energy": "High",
   "vibe": "An enthusiastic and warm companion who engages listeners with eager curiosity.",
-  "nickname": "Enthusiastic Neighbor"
+  "nickname": "Enthusiastic Neighbor",
+  "category": "Everyday Men"
  },
  "Voice 203": {
   "gender": "Female",
@@ -2027,7 +2229,8 @@
   "accent": "Indian",
   "energy": "High",
   "vibe": "Warm, inviting, and enthusiastic, making the listener feel immediately welcome and engaged.",
-  "nickname": "Enthusiastic Indian Host"
+  "nickname": "Enthusiastic Indian Host",
+  "category": "Accents from Abroad"
  },
  "Voice 204": {
   "gender": "Female",
@@ -2037,7 +2240,8 @@
   "accent": "General American",
   "energy": "High",
   "vibe": "Warm, enthusiastic, and welcoming with an inviting conversational tone.",
-  "nickname": "Cheerful Neighbor"
+  "nickname": "Cheerful Neighbor",
+  "category": "Everyday Women"
  },
  "Voice 205": {
   "gender": "female",
@@ -2047,7 +2251,8 @@
   "accent": "american",
   "energy": "high",
   "vibe": "Enthusiastic and welcoming, creating an inviting and conversational atmosphere.",
-  "nickname": "Welcoming Friend"
+  "nickname": "Welcoming Friend",
+  "category": "Everyday Women"
  },
  "Voice 206": {
   "gender": "Male",
@@ -2057,7 +2262,8 @@
   "accent": "Nigerian",
   "energy": "Moderate",
   "vibe": "A warm, welcoming, and conversational friend sharing local news or gossip.",
-  "nickname": "Warm West African"
+  "nickname": "Warm West African",
+  "category": "Deep & Smoky"
  },
  "Voice 207": {
   "gender": "Male",
@@ -2067,7 +2273,8 @@
   "accent": "American",
   "energy": "Medium",
   "vibe": "A warm and inviting host who speaks with relaxed, friendly curiosity.",
-  "nickname": "Welcoming Host"
+  "nickname": "Welcoming Host",
+  "category": "Calm & Soothing"
  },
  "Voice 208": {
   "gender": "Male",
@@ -2077,7 +2284,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "Warm, enthusiastic, and welcoming, ideal for an approachable friend or engaging narrator.",
-  "nickname": "Welcoming Friend"
+  "nickname": "Welcoming Friend",
+  "category": "Storytellers & Pros"
  },
  "Voice 209": {
   "gender": "Male",
@@ -2087,7 +2295,8 @@
   "accent": "Indian",
   "energy": "Medium",
   "vibe": "A warm and inviting voice with an approachable, conversational feel.",
-  "nickname": "Welcoming Host"
+  "nickname": "Welcoming Host",
+  "category": "Accents from Abroad"
  },
  "Voice 210": {
   "gender": "Male",
@@ -2097,7 +2306,8 @@
   "accent": "Singaporean",
   "energy": "Medium",
   "vibe": "A friendly and approachable neighbor welcoming you in for a casual catch-up.",
-  "nickname": "Welcoming Neighbor"
+  "nickname": "Welcoming Neighbor",
+  "category": "Everyday Men"
  },
  "Voice 211": {
   "gender": "Female",
@@ -2107,7 +2317,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "An enthusiastic and friendly speaker who exudes warm hospitality and excitement.",
-  "nickname": "Warm Welcomer"
+  "nickname": "Warm Welcomer",
+  "category": "Everyday Women"
  },
  "Voice 212": {
   "gender": "male",
@@ -2117,7 +2328,8 @@
   "accent": "American",
   "energy": "high",
   "vibe": "An enthusiastic and warm neighbor eager to catch up on the latest local news.",
-  "nickname": "Welcoming Neighbor"
+  "nickname": "Welcoming Neighbor",
+  "category": "Deep & Smoky"
  },
  "Voice 213": {
   "gender": "female",
@@ -2127,7 +2339,8 @@
   "accent": "American",
   "energy": "medium-high",
   "vibe": "An inviting and upbeat conversationalist who warmly welcomes listeners into a friendly chat.",
-  "nickname": "Welcoming Neighbor"
+  "nickname": "Welcoming Neighbor",
+  "category": "Everyday Women"
  },
  "Voice 214": {
   "gender": "Female",
@@ -2137,7 +2350,8 @@
   "accent": "American",
   "energy": "Medium",
   "vibe": "Warm and inviting with a conversational tone that feels like catching up with a close friend.",
-  "nickname": "Friendly Neighbor"
+  "nickname": "Friendly Neighbor",
+  "category": "Everyday Women"
  },
  "Voice 215": {
   "gender": "Male",
@@ -2147,7 +2361,8 @@
   "accent": "British",
   "energy": "Medium",
   "vibe": "Warm, welcoming, and naturally conversational with a friendly, inquisitive personality.",
-  "nickname": "Friendly Neighbor"
+  "nickname": "Friendly Neighbor",
+  "category": "Accents from Abroad"
  },
  "Voice 216": {
   "gender": "Female",
@@ -2157,7 +2372,8 @@
   "accent": "General American",
   "energy": "High",
   "vibe": "An inviting, cheerful voice that sounds warm, engaging, and eager to gossip or catch up.",
-  "nickname": "Friendly Neighbor"
+  "nickname": "Friendly Neighbor",
+  "category": "Everyday Women"
  },
  "Voice 217": {
   "gender": "male",
@@ -2167,7 +2383,8 @@
   "accent": "American",
   "energy": "low",
   "vibe": "Warm, inviting, and intimate, ideal for a friendly and casual conversation.",
-  "nickname": "Cozy Confidant"
+  "nickname": "Cozy Confidant",
+  "category": "Deep & Smoky"
  },
  "Voice 218": {
   "gender": "Male",
@@ -2177,7 +2394,8 @@
   "accent": "American",
   "energy": "Moderate-High",
   "vibe": "An enthusiastic, friendly, and welcoming speaker who sounds eager to catch up on news.",
-  "nickname": "Welcoming Friend"
+  "nickname": "Welcoming Friend",
+  "category": "Everyday Men"
  },
  "Voice 219": {
   "gender": "Male",
@@ -2187,7 +2405,8 @@
   "accent": "American",
   "energy": "Medium",
   "vibe": "A friendly and warm conversational voice that feels naturally welcoming and inquisitive.",
-  "nickname": "Friendly Neighbor"
+  "nickname": "Friendly Neighbor",
+  "category": "Everyday Men"
  },
  "Voice 220": {
   "gender": "Male",
@@ -2197,7 +2416,8 @@
   "accent": "General American",
   "energy": "Medium-High",
   "vibe": "An inviting and enthusiastic friend who is warm, engaging, and eager to chat.",
-  "nickname": "Welcoming Casual Friend"
+  "nickname": "Welcoming Casual Friend",
+  "category": "Deep & Smoky"
  },
  "Voice 221": {
   "gender": "Male",
@@ -2207,7 +2427,8 @@
   "accent": "American",
   "energy": "Medium-High",
   "vibe": "An enthusiastic and welcoming speaker who comes across as an approachable, friendly neighbor eager to chat.",
-  "nickname": "Eager Neighbor"
+  "nickname": "Eager Neighbor",
+  "category": "Everyday Men"
  },
  "Voice 222": {
   "gender": "Female",
@@ -2217,7 +2438,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "An enthusiastic and friendly voice that sounds warm, welcoming, and excited to catch up.",
-  "nickname": "Warm Enthusiast"
+  "nickname": "Warm Enthusiast",
+  "category": "Everyday Women"
  },
  "Voice 223": {
   "gender": "Female",
@@ -2227,7 +2449,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "Warm and inviting with an enthusiastic, conversational tone perfect for friendly dialogue.",
-  "nickname": "Welcoming Friend"
+  "nickname": "Welcoming Friend",
+  "category": "Everyday Women"
  },
  "Voice 224": {
   "gender": "Male",
@@ -2237,7 +2460,8 @@
   "accent": "American",
   "energy": "Medium-High",
   "vibe": "Warm, eager, and inviting with a conversational charm.",
-  "nickname": "Welcoming Host"
+  "nickname": "Welcoming Host",
+  "category": "Everyday Men"
  },
  "Voice 225": {
   "gender": "Male",
@@ -2247,7 +2471,8 @@
   "accent": "General American",
   "energy": "Medium",
   "vibe": "A welcoming and conversational tone reminiscent of an approachable neighbor.",
-  "nickname": "Warm Neighbor"
+  "nickname": "Warm Neighbor",
+  "category": "Deep & Smoky"
  },
  "Voice 226": {
   "gender": "Female",
@@ -2257,7 +2482,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "A warm, inviting, and expressive speaker who sounds eager and friendly in a casual conversation.",
-  "nickname": "Enthusiastic Friend"
+  "nickname": "Enthusiastic Friend",
+  "category": "Everyday Women"
  },
  "Voice 227": {
   "gender": "male",
@@ -2267,7 +2493,8 @@
   "accent": "american",
   "energy": "low",
   "vibe": "A warm, relaxed, and welcoming older gentleman sharing stories casually.",
-  "nickname": "Fireside Storyteller"
+  "nickname": "Fireside Storyteller",
+  "category": "Wise & Seasoned"
  },
  "Voice 228": {
   "gender": "Male",
@@ -2277,7 +2504,8 @@
   "accent": "American",
   "energy": "Low",
   "vibe": "Warm and intriguing, inviting the listener in like a friendly storyteller sharing local gossip.",
-  "nickname": "Cozy Storyteller"
+  "nickname": "Cozy Storyteller",
+  "category": "Deep & Smoky"
  },
  "Voice 229": {
   "gender": "Female",
@@ -2287,7 +2515,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "An enthusiastic and bubbly friend who is eager to chat about the latest gossip.",
-  "nickname": "Enthusiastic Chatty Friend"
+  "nickname": "Enthusiastic Chatty Friend",
+  "category": "Everyday Women"
  },
  "Voice 230": {
   "gender": "Female",
@@ -2297,7 +2526,8 @@
   "accent": "American",
   "energy": "Medium-high",
   "vibe": "A warm and welcoming voice that feels like a friendly neighbor eager to chat.",
-  "nickname": "Welcoming Neighbor"
+  "nickname": "Welcoming Neighbor",
+  "category": "Everyday Women"
  },
  "Voice 231": {
   "gender": "Female",
@@ -2307,7 +2537,8 @@
   "accent": "German",
   "energy": "Medium",
   "vibe": "A warm, welcoming, and approachable tone perfect for friendly and conversational roles.",
-  "nickname": "Welcoming Friend"
+  "nickname": "Welcoming Friend",
+  "category": "Accents from Abroad"
  },
  "Voice 232": {
   "gender": "female",
@@ -2317,7 +2548,8 @@
   "accent": "American",
   "energy": "high",
   "vibe": "Warm, welcoming, and upbeat with an approachable, conversational tone.",
-  "nickname": "Welcoming Friend"
+  "nickname": "Welcoming Friend",
+  "category": "Everyday Women"
  },
  "Voice 233": {
   "gender": "Male",
@@ -2327,7 +2559,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "An upbeat and enthusiastic friend eager to welcome you in and chat.",
-  "nickname": "Enthusiastic Neighbor"
+  "nickname": "Enthusiastic Neighbor",
+  "category": "Everyday Men"
  },
  "Voice 234": {
   "gender": "male",
@@ -2337,7 +2570,8 @@
   "accent": "american",
   "energy": "medium",
   "vibe": "A warm, welcoming, and relaxed conversationalist with an inviting, friendly curiosity.",
-  "nickname": "Warm Friendly Neighbor"
+  "nickname": "Warm Friendly Neighbor",
+  "category": "Deep & Smoky"
  },
  "Voice 235": {
   "gender": "Female",
@@ -2347,7 +2581,8 @@
   "accent": "American",
   "energy": "Medium-High",
   "vibe": "Warm and inviting, sounding like an enthusiastic friend eager to catch up.",
-  "nickname": "Welcoming Friend"
+  "nickname": "Welcoming Friend",
+  "category": "Everyday Women"
  },
  "Voice 236": {
   "gender": "Female",
@@ -2357,7 +2592,8 @@
   "accent": "American",
   "energy": "Medium-High",
   "vibe": "An enthusiastic and friendly neighbor eager to catch up on the latest gossip.",
-  "nickname": "Friendly Neighbor"
+  "nickname": "Friendly Neighbor",
+  "category": "Everyday Women"
  },
  "Voice 237": {
   "gender": "Male",
@@ -2367,7 +2603,8 @@
   "accent": "General American",
   "energy": "Medium-high",
   "vibe": "A warm and inviting host who greets you with enthusiastic friendliness and casual warmth.",
-  "nickname": "Welcoming Friend"
+  "nickname": "Welcoming Friend",
+  "category": "Deep & Smoky"
  },
  "Voice 238": {
   "gender": "Male",
@@ -2377,7 +2614,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "An enthusiastic and welcoming friend eager to catch up and hear the latest news.",
-  "nickname": "Welcoming Companion"
+  "nickname": "Welcoming Companion",
+  "category": "Everyday Men"
  },
  "Voice 239": {
   "gender": "Male",
@@ -2387,7 +2625,8 @@
   "accent": "American",
   "energy": "Moderate",
   "vibe": "A warm, approachable, and relaxed voice that feels like a friendly neighbor inviting you over.",
-  "nickname": "Warm Friendly Neighbor"
+  "nickname": "Warm Friendly Neighbor",
+  "category": "Calm & Soothing"
  },
  "Voice 240": {
   "gender": "Male",
@@ -2397,7 +2636,8 @@
   "accent": "American",
   "energy": "Medium-high",
   "vibe": "An approachable and enthusiastic friend eager to catch up on the latest news.",
-  "nickname": "Enthusiastic Pal"
+  "nickname": "Enthusiastic Pal",
+  "category": "Everyday Men"
  },
  "Voice 241": {
   "gender": "male",
@@ -2407,7 +2647,8 @@
   "accent": "american",
   "energy": "medium-high",
   "vibe": "A warm, friendly, and approachable speaker ideal for conversational storytelling and welcoming narration.",
-  "nickname": "Warm Casual Friend"
+  "nickname": "Warm Casual Friend",
+  "category": "Storytellers & Pros"
  },
  "Voice 242": {
   "gender": "Male",
@@ -2417,7 +2658,8 @@
   "accent": "American",
   "energy": "Medium-High",
   "vibe": "An upbeat, welcoming, and friendly individual eager to catch up on local news.",
-  "nickname": "Friendly Host"
+  "nickname": "Friendly Host",
+  "category": "Everyday Men"
  },
  "Voice 243": {
   "gender": "Female",
@@ -2427,7 +2669,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "Warm, enthusiastic, and chatty, perfect for a friendly and expressive character.",
-  "nickname": "Enthusiastic Friend"
+  "nickname": "Enthusiastic Friend",
+  "category": "Everyday Women"
  },
  "Voice 244": {
   "gender": "male",
@@ -2437,7 +2680,8 @@
   "accent": "American",
   "energy": "medium-high",
   "vibe": "An enthusiastic and welcoming conversationalist eager to catch up on the latest news.",
-  "nickname": "Welcoming Conversationalist"
+  "nickname": "Welcoming Conversationalist",
+  "category": "Everyday Men"
  },
  "Voice 245": {
   "gender": "Female",
@@ -2447,7 +2691,8 @@
   "accent": "American",
   "energy": "Medium-High",
   "vibe": "Warm, inviting, and enthusiastically conversational, like a friendly neighbor inviting you in for chat.",
-  "nickname": "Welcoming Neighbor"
+  "nickname": "Welcoming Neighbor",
+  "category": "Deep & Smoky"
  },
  "Voice 246": {
   "gender": "Female",
@@ -2457,7 +2702,8 @@
   "accent": "American",
   "energy": "Medium-high",
   "vibe": "A warm, enthusiastic, and friendly neighbor who loves to chat.",
-  "nickname": "Chatty Neighbor"
+  "nickname": "Chatty Neighbor",
+  "category": "Deep & Smoky"
  },
  "Voice 247": {
   "gender": "Female",
@@ -2467,7 +2713,8 @@
   "accent": "American",
   "energy": "Medium-High",
   "vibe": "Warm, inviting, and eagerly conversational with an expressive, friendly tone.",
-  "nickname": "Inviting Friend"
+  "nickname": "Inviting Friend",
+  "category": "Everyday Women"
  },
  "Voice 248": {
   "gender": "Male",
@@ -2477,7 +2724,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "An enthusiastic and friendly neighbor eager to hear the latest gossip.",
-  "nickname": "Eager Neighbor"
+  "nickname": "Eager Neighbor",
+  "category": "Everyday Men"
  },
  "Voice 249": {
   "gender": "Female",
@@ -2487,7 +2735,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "An enthusiastic, warm, and inviting voice that sounds like a close friend eager for a good chat.",
-  "nickname": "Welcoming Friend"
+  "nickname": "Welcoming Friend",
+  "category": "Everyday Women"
  },
  "Voice 250": {
   "gender": "Male",
@@ -2497,7 +2746,8 @@
   "accent": "American",
   "energy": "Medium",
   "vibe": "A warm, welcoming, and relaxed conversational tone suitable for a trustworthy friend or neighbor.",
-  "nickname": "Warm Friendly Neighbor"
+  "nickname": "Warm Friendly Neighbor",
+  "category": "Deep & Smoky"
  },
  "Voice 251": {
   "gender": "Male",
@@ -2507,7 +2757,8 @@
   "accent": "American (General)",
   "energy": "Medium-high",
   "vibe": "An inviting and enthusiastic friend who is eager to catch up on local gossip.",
-  "nickname": "Eager Conversationalist"
+  "nickname": "Eager Conversationalist",
+  "category": "Deep & Smoky"
  },
  "Voice 252": {
   "gender": "Female",
@@ -2517,7 +2768,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "An enthusiastic and friendly host eager to catch up on local gossip.",
-  "nickname": "Energetic Conversationalist"
+  "nickname": "Energetic Conversationalist",
+  "category": "Everyday Women"
  },
  "Voice 253": {
   "gender": "Male",
@@ -2527,7 +2779,8 @@
   "accent": "American (General)",
   "energy": "High",
   "vibe": "Warm, welcoming, and enthusiastically conversational with an inviting presence.",
-  "nickname": "Welcoming Friend"
+  "nickname": "Welcoming Friend",
+  "category": "Everyday Men"
  },
  "Voice 254": {
   "gender": "female",
@@ -2537,7 +2790,8 @@
   "accent": "American",
   "energy": "medium-high",
   "vibe": "A warm, inquisitive, and welcoming tone that feels like a friendly chat with a neighbor.",
-  "nickname": "Welcoming Neighbor"
+  "nickname": "Welcoming Neighbor",
+  "category": "Everyday Women"
  },
  "Voice 255": {
   "gender": "Female",
@@ -2547,7 +2801,8 @@
   "accent": "Nigerian",
   "energy": "High",
   "vibe": "An enthusiastic and welcoming presence that brings vibrant, conversational warmth to engaging character performances and storytelling.",
-  "nickname": "Vibrant African Warmth"
+  "nickname": "Vibrant African Warmth",
+  "category": "Everyday Women"
  },
  "Voice 256": {
   "gender": "Female",
@@ -2557,7 +2812,8 @@
   "accent": "American",
   "energy": "Medium-High",
   "vibe": "Warm, welcoming, and upbeat, ideal for conversational and friendly character roles.",
-  "nickname": "Welcoming Companion"
+  "nickname": "Welcoming Companion",
+  "category": "Everyday Women"
  },
  "Voice 257": {
   "gender": "Female",
@@ -2567,7 +2823,8 @@
   "accent": "American",
   "energy": "Medium-high",
   "vibe": "A warm, friendly, and curious speaker who makes you feel immediately welcome and at ease.",
-  "nickname": "Friendly Neighbor"
+  "nickname": "Friendly Neighbor",
+  "category": "Everyday Women"
  },
  "Voice 258": {
   "gender": "Female",
@@ -2577,7 +2834,8 @@
   "accent": "African American",
   "energy": "Medium",
   "vibe": "Warm and inviting with an intimate, friendly tone that pulls you into casual conversation.",
-  "nickname": "Cozy Conversationalist"
+  "nickname": "Cozy Conversationalist",
+  "category": "Deep & Smoky"
  },
  "Voice 259": {
   "gender": "Female",
@@ -2587,7 +2845,8 @@
   "accent": "American",
   "energy": "Medium-High",
   "vibe": "Warm, enthusiastic, and inviting with an approachable, conversational tone.",
-  "nickname": "Welcoming Neighbor"
+  "nickname": "Welcoming Neighbor",
+  "category": "Everyday Women"
  },
  "Voice 260": {
   "gender": "male",
@@ -2597,7 +2856,8 @@
   "accent": "American",
   "energy": "high",
   "vibe": "An upbeat and welcoming speaker who sounds genuinely excited to connect.",
-  "nickname": "Friendly Neighbor"
+  "nickname": "Friendly Neighbor",
+  "category": "Everyday Men"
  },
  "Voice 261": {
   "gender": "male",
@@ -2607,7 +2867,8 @@
   "accent": "American",
   "energy": "medium",
   "vibe": "Warm, welcoming, and casual, ideal for approachable and friendly characters.",
-  "nickname": "Friendly Neighbor"
+  "nickname": "Friendly Neighbor",
+  "category": "Everyday Men"
  },
  "Voice 262": {
   "gender": "Female",
@@ -2617,7 +2878,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "A warm and eager friend who loves welcoming guests and catching up on the latest local news.",
-  "nickname": "Chatty Neighbor"
+  "nickname": "Chatty Neighbor",
+  "category": "Everyday Women"
  },
  "Voice 263": {
   "gender": "Male",
@@ -2627,7 +2889,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "An enthusiastic and warm friend who is excited to catch up and hear the latest news.",
-  "nickname": "Warm Welcomer"
+  "nickname": "Warm Welcomer",
+  "category": "Everyday Men"
  },
  "Voice 264": {
   "gender": "Female",
@@ -2637,7 +2900,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "Warm, cheerful, and welcoming with a lively conversational tone.",
-  "nickname": "Enthusiastic Host"
+  "nickname": "Enthusiastic Host",
+  "category": "Everyday Women"
  },
  "Voice 265": {
   "gender": "Female",
@@ -2647,7 +2911,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "An enthusiastic and friendly speaker who sounds warm, welcoming, and eager to chat.",
-  "nickname": "Friendly Neighbor"
+  "nickname": "Friendly Neighbor",
+  "category": "Everyday Women"
  },
  "Voice 266": {
   "gender": "Female",
@@ -2657,7 +2922,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "An expressive and eager conversationalist who brings an inviting, gossipy warmth to casual chats.",
-  "nickname": "Warm Chatty Friend"
+  "nickname": "Warm Chatty Friend",
+  "category": "Everyday Women"
  },
  "Voice 267": {
   "gender": "Female",
@@ -2667,7 +2933,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "Warm, enthusiastic, and inviting with an approachable, conversational style.",
-  "nickname": "Enthusiastic Companion"
+  "nickname": "Enthusiastic Companion",
+  "category": "Everyday Women"
  },
  "Voice 268": {
   "gender": "Female",
@@ -2677,7 +2944,8 @@
   "accent": "General American",
   "energy": "High",
   "vibe": "An upbeat and welcoming presence that instantly engages the listener with warm excitement.",
-  "nickname": "Welcoming Neighbor"
+  "nickname": "Welcoming Neighbor",
+  "category": "Everyday Women"
  },
  "Voice 269": {
   "gender": "Female",
@@ -2687,7 +2955,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "An enthusiastic, friendly, and welcoming host eager for a warm chat.",
-  "nickname": "Enthusiastic Welcomer"
+  "nickname": "Enthusiastic Welcomer",
+  "category": "Everyday Women"
  },
  "Voice 270": {
   "gender": "Female",
@@ -2697,7 +2966,8 @@
   "accent": "American",
   "energy": "Medium",
   "vibe": "An inviting, warm, and friendly voice that feels conversational and approachable.",
-  "nickname": "Friendly Neighbor"
+  "nickname": "Friendly Neighbor",
+  "category": "Everyday Women"
  },
  "Voice 271": {
   "gender": "Female",
@@ -2707,7 +2977,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "Friendly and animated, like an inviting neighbor eager to share the latest local chatter.",
-  "nickname": "Welcoming Neighbor"
+  "nickname": "Welcoming Neighbor",
+  "category": "Everyday Women"
  },
  "Voice 272": {
   "gender": "Male",
@@ -2717,7 +2988,8 @@
   "accent": "American",
   "energy": "Low",
   "vibe": "A warm, welcoming, and relaxed friend or elder inviting you in for a cozy chat.",
-  "nickname": "Cozy Fireside Companion"
+  "nickname": "Cozy Fireside Companion",
+  "category": "Wise & Seasoned"
  },
  "Voice 273": {
   "gender": "Male",
@@ -2727,7 +2999,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "Warm, enthusiastic, and eager to share gossip over a casual chat.",
-  "nickname": "Eager Friendly Host"
+  "nickname": "Eager Friendly Host",
+  "category": "Everyday Men"
  },
  "Voice 274": {
   "gender": "Female",
@@ -2737,7 +3010,8 @@
   "accent": "American",
   "energy": "Medium",
   "vibe": "Warm, welcoming, and conversational with an inviting and friendly tone.",
-  "nickname": "Friendly Neighbor"
+  "nickname": "Friendly Neighbor",
+  "category": "Everyday Women"
  },
  "Voice 275": {
   "gender": "Male",
@@ -2747,7 +3021,8 @@
   "accent": "American",
   "energy": "Medium",
   "vibe": "Sounds like a warm, welcoming, and approachable friend sharing intriguing local news.",
-  "nickname": "Friendly Neighbor"
+  "nickname": "Friendly Neighbor",
+  "category": "Deep & Smoky"
  },
  "Voice 276": {
   "gender": "Male",
@@ -2757,7 +3032,8 @@
   "accent": "American",
   "energy": "Medium",
   "vibe": "An inviting, friendly neighbor who warmly welcomes you in for a casual chat.",
-  "nickname": "Warm Neighborly Host"
+  "nickname": "Warm Neighborly Host",
+  "category": "Deep & Smoky"
  },
  "Voice 277": {
   "gender": "Female",
@@ -2767,7 +3043,8 @@
   "accent": "American",
   "energy": "Medium-high",
   "vibe": "Warm, inviting, and enthusiastic, bringing a friendly and welcoming tone to casual conversations.",
-  "nickname": "Warm Conversationalist"
+  "nickname": "Warm Conversationalist",
+  "category": "Everyday Women"
  },
  "Voice 278": {
   "gender": "male",
@@ -2777,7 +3054,8 @@
   "accent": "American",
   "energy": "low",
   "vibe": "A warm, welcoming, and relaxed tone perfect for a friendly neighbor or local storyteller.",
-  "nickname": "Friendly Neighbor"
+  "nickname": "Friendly Neighbor",
+  "category": "Deep & Smoky"
  },
  "Voice 279": {
   "gender": "Female",
@@ -2787,7 +3065,8 @@
   "accent": "American (General)",
   "energy": "Medium",
   "vibe": "Warm, welcoming, and conversational with a friendly, inviting tone.",
-  "nickname": "Friendly Neighbor"
+  "nickname": "Friendly Neighbor",
+  "category": "Everyday Women"
  },
  "Voice 280": {
   "gender": "Male",
@@ -2797,7 +3076,8 @@
   "accent": "American",
   "energy": "Low",
   "vibe": "A secretive and mysterious speaker sharing intriguing rumors in a quiet, hushed tone.",
-  "nickname": "Raspy Whisperer"
+  "nickname": "Raspy Whisperer",
+  "category": "Deep & Smoky"
  },
  "Voice 281": {
   "gender": "Male",
@@ -2807,7 +3087,8 @@
   "accent": "American",
   "energy": "Moderate",
   "vibe": "An inviting and friendly speaker with a relaxed, casual conversational style.",
-  "nickname": "Welcoming Neighbor"
+  "nickname": "Welcoming Neighbor",
+  "category": "Deep & Smoky"
  },
  "Voice 282": {
   "gender": "Female",
@@ -2817,7 +3098,8 @@
   "accent": "General American",
   "energy": "High",
   "vibe": "An enthusiastic, friendly, and welcoming voice perfect for warm and casual conversations.",
-  "nickname": "Warm Welcomer"
+  "nickname": "Warm Welcomer",
+  "category": "Everyday Women"
  },
  "Voice 283": {
   "gender": "Female",
@@ -2827,7 +3109,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "A warm and inviting friend eager to hear the latest news.",
-  "nickname": "Chatty Welcoming Friend"
+  "nickname": "Chatty Welcoming Friend",
+  "category": "Everyday Women"
  },
  "Voice 284": {
   "gender": "Male",
@@ -2837,7 +3120,8 @@
   "accent": "General American",
   "energy": "High",
   "vibe": "An enthusiastic and welcoming friend eager to catch up on the latest news.",
-  "nickname": "Eager Conversationalist"
+  "nickname": "Eager Conversationalist",
+  "category": "Everyday Men"
  },
  "Voice 285": {
   "gender": "Male",
@@ -2847,7 +3131,8 @@
   "accent": "American (Southern)",
   "energy": "High",
   "vibe": "An overly enthusiastic and welcoming host bursting with theatrical excitement.",
-  "nickname": "Boisterous Southern Host"
+  "nickname": "Boisterous Southern Host",
+  "category": "Southern & Country"
  },
  "Voice 286": {
   "gender": "Male",
@@ -2857,7 +3142,8 @@
   "accent": "American Southern",
   "energy": "High",
   "vibe": "An enthusiastic and boisterous Southern character eager for local gossip and friendly banter.",
-  "nickname": "Boisterous Southern Local"
+  "nickname": "Boisterous Southern Local",
+  "category": "Wise & Seasoned"
  },
  "Voice 287": {
   "gender": "male",
@@ -2867,7 +3153,8 @@
   "accent": "Southern American",
   "energy": "high",
   "vibe": "A warm, boisterous Southern host eager to catch up on local gossip.",
-  "nickname": "Boisterous Southern Host"
+  "nickname": "Boisterous Southern Host",
+  "category": "Southern & Country"
  },
  "Voice 288": {
   "gender": "Male",
@@ -2877,7 +3164,8 @@
   "accent": "General American",
   "energy": "High",
   "vibe": "An enthusiastic, friendly, and inquisitive neighbor ready for casual gossip.",
-  "nickname": "Enthusiastic Neighbor"
+  "nickname": "Enthusiastic Neighbor",
+  "category": "Everyday Men"
  },
  "Voice 289": {
   "gender": "Male",
@@ -2887,7 +3175,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "Energetic and welcoming, eager to catch up and hear the latest gossip.",
-  "nickname": "Welcoming Neighbor"
+  "nickname": "Welcoming Neighbor",
+  "category": "Everyday Men"
  },
  "Voice 290": {
   "gender": "Male",
@@ -2897,7 +3186,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "An enthusiastic and friendly elder who welcomes you warmly like a longtime neighbor.",
-  "nickname": "Welcoming Neighbor"
+  "nickname": "Welcoming Neighbor",
+  "category": "Wise & Seasoned"
  },
  "Voice 291": {
   "gender": "Male",
@@ -2907,7 +3197,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "An enthusiastic and friendly neighbor who is eager to hear the latest neighborhood news.",
-  "nickname": "Excited Neighbor"
+  "nickname": "Excited Neighbor",
+  "category": "Deep & Smoky"
  },
  "Voice 292": {
   "gender": "Male",
@@ -2917,7 +3208,8 @@
   "accent": "American",
   "energy": "Medium-high",
   "vibe": "An enthusiastic and friendly peer eager to catch up on local news.",
-  "nickname": "Enthusiastic Neighbor"
+  "nickname": "Enthusiastic Neighbor",
+  "category": "Everyday Men"
  },
  "Voice 293": {
   "gender": "Female",
@@ -2927,7 +3219,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "Warm, welcoming, and enthusiastically friendly, perfect for lighthearted conversations.",
-  "nickname": "Warm Conversationalist"
+  "nickname": "Warm Conversationalist",
+  "category": "Everyday Women"
  },
  "Voice 294": {
   "gender": "Female",
@@ -2937,7 +3230,8 @@
   "accent": "General American",
   "energy": "Medium",
   "vibe": "Warm and inviting, like a friendly neighbor eager to catch up over casual conversation.",
-  "nickname": "Welcoming Friend"
+  "nickname": "Welcoming Friend",
+  "category": "Everyday Women"
  },
  "Voice 295": {
   "gender": "Female",
@@ -2947,7 +3241,8 @@
   "accent": "American",
   "energy": "Medium-high",
   "vibe": "An inviting and enthusiastic friend who is eager to chat about the latest news over coffee.",
-  "nickname": "Warm Neighbor"
+  "nickname": "Warm Neighbor",
+  "category": "Everyday Women"
  },
  "Voice 296": {
   "gender": "Female",
@@ -2957,7 +3252,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "Enthusiastic, warm, and conversational, perfect for a friendly neighbor or outgoing best friend.",
-  "nickname": "Energetic Bestie"
+  "nickname": "Energetic Bestie",
+  "category": "Everyday Women"
  },
  "Voice 297": {
   "gender": "Female",
@@ -2967,7 +3263,8 @@
   "accent": "American",
   "energy": "Medium",
   "vibe": "Warm, welcoming, and naturally inquisitive with a friendly, conversational tone.",
-  "nickname": "Welcoming Gossip"
+  "nickname": "Welcoming Gossip",
+  "category": "Everyday Women"
  },
  "Voice 298": {
   "gender": "Female",
@@ -2977,7 +3274,8 @@
   "accent": "General American",
   "energy": "High",
   "vibe": "Warm, enthusiastic, and welcoming with an inviting conversational tone.",
-  "nickname": "Bubbly Host"
+  "nickname": "Bubbly Host",
+  "category": "Everyday Women"
  },
  "Voice 299": {
   "gender": "Male",
@@ -2987,7 +3285,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "Warm, enthusiastic, and welcoming, like a friendly neighbor eager to chat over local news.",
-  "nickname": "Friendly Neighbor"
+  "nickname": "Friendly Neighbor",
+  "category": "Everyday Men"
  },
  "Voice 300": {
   "gender": "Female",
@@ -2997,7 +3296,8 @@
   "accent": "General American",
   "energy": "Upbeat",
   "vibe": "Welcoming and conversational, like an approachable friend eager to catch up.",
-  "nickname": "Friendly Neighbor"
+  "nickname": "Friendly Neighbor",
+  "category": "Everyday Women"
  },
  "Voice 301": {
   "gender": "Female",
@@ -3007,7 +3307,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "Warm, bubbly, and eagerly conversational.",
-  "nickname": "Welcoming Friend"
+  "nickname": "Welcoming Friend",
+  "category": "Everyday Women"
  },
  "Voice 302": {
   "gender": "Female",
@@ -3017,7 +3318,8 @@
   "accent": "American",
   "energy": "Medium-High",
   "vibe": "A warm, inviting friend eager to catch up on the latest news.",
-  "nickname": "Welcoming Friend"
+  "nickname": "Welcoming Friend",
+  "category": "Everyday Women"
  },
  "Voice 303": {
   "gender": "Female",
@@ -3027,7 +3329,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "An expressive and overly welcoming neighbor who thrives on lively local gossip.",
-  "nickname": "Excited Chatty Neighbor"
+  "nickname": "Excited Chatty Neighbor",
+  "category": "Everyday Women"
  },
  "Voice 304": {
   "gender": "Male",
@@ -3037,7 +3340,8 @@
   "accent": "Australian",
   "energy": "High",
   "vibe": "An upbeat, warm, and highly engaging Australian speaker.",
-  "nickname": "Energetic Aussie Mate"
+  "nickname": "Energetic Aussie Mate",
+  "category": "Accents from Abroad"
  },
  "Voice 305": {
   "gender": "male",
@@ -3047,7 +3351,8 @@
   "accent": "american",
   "energy": "low",
   "vibe": "A sinister, hushed, and secretive tone perfect for dark, villainous, or mysterious characters.",
-  "nickname": "Shadowy Whispers"
+  "nickname": "Shadowy Whispers",
+  "category": "Characters & Creatures"
  },
  "Voice 306": {
   "gender": "Female",
@@ -3057,7 +3362,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "Warm, welcoming, and enthusiastically friendly with an inviting tone.",
-  "nickname": "Bubbly Host"
+  "nickname": "Bubbly Host",
+  "category": "Everyday Women"
  },
  "Voice 307": {
   "gender": "Female",
@@ -3067,7 +3373,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "Warm, conversational, and inviting with an enthusiastic, friendly tone.",
-  "nickname": "Warm Neighbor"
+  "nickname": "Warm Neighbor",
+  "category": "Everyday Women"
  },
  "Voice 308": {
   "gender": "Female",
@@ -3077,7 +3384,8 @@
   "accent": "American",
   "energy": "Medium-High",
   "vibe": "Warm, welcoming, and enthusiastically conversational like a friendly host.",
-  "nickname": "Welcoming Host"
+  "nickname": "Welcoming Host",
+  "category": "Everyday Women"
  },
  "Voice 309": {
   "gender": "Male",
@@ -3087,7 +3395,8 @@
   "accent": "American",
   "energy": "Medium",
   "vibe": "A warm, welcoming, and inquisitive conversational partner.",
-  "nickname": "Warm Welcomer"
+  "nickname": "Warm Welcomer",
+  "category": "Everyday Men"
  },
  "Voice 310": {
   "gender": "Female",
@@ -3097,7 +3406,8 @@
   "accent": "General American",
   "energy": "Medium-High",
   "vibe": "A warm and inviting friend eager to catch up on the latest local news.",
-  "nickname": "Warm Chatty Neighbor"
+  "nickname": "Warm Chatty Neighbor",
+  "category": "Everyday Women"
  },
  "Voice 311": {
   "gender": "Male",
@@ -3107,7 +3417,8 @@
   "accent": "American (Southern)",
   "energy": "Low",
   "vibe": "A friendly and welcoming rural elder inviting you in for a casual chat.",
-  "nickname": "Country Storyteller"
+  "nickname": "Country Storyteller",
+  "category": "Wise & Seasoned"
  },
  "Voice 312": {
   "gender": "male",
@@ -3117,7 +3428,8 @@
   "accent": "American",
   "energy": "high",
   "vibe": "An enthusiastic and friendly buddy who is eager to hear the latest news.",
-  "nickname": "Excited Neighbor"
+  "nickname": "Excited Neighbor",
+  "category": "Everyday Men"
  },
  "Voice 313": {
   "gender": "Male",
@@ -3127,7 +3439,8 @@
   "accent": "Scottish",
   "energy": "Medium",
   "vibe": "A friendly and welcoming companion inviting you in for a cozy chat.",
-  "nickname": "Friendly Scottish Neighbor"
+  "nickname": "Friendly Scottish Neighbor",
+  "category": "Accents from Abroad"
  },
  "Voice 314": {
   "gender": "Female",
@@ -3137,7 +3450,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "Warm, enthusiastic, and welcoming with a friendly, conversational tone.",
-  "nickname": "Enthusiastic Companion"
+  "nickname": "Enthusiastic Companion",
+  "category": "Everyday Women"
  },
  "Voice 315": {
   "gender": "Male",
@@ -3147,7 +3461,8 @@
   "accent": "American",
   "energy": "Medium-High",
   "vibe": "An inviting and enthusiastic friend who is eager to chat and catch up on news.",
-  "nickname": "Friendly Neighbor"
+  "nickname": "Friendly Neighbor",
+  "category": "Everyday Men"
  },
  "Voice 316": {
   "gender": "Female",
@@ -3157,7 +3472,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "An upbeat, welcoming, and friendly conversationalist.",
-  "nickname": "Friendly Enthusiast"
+  "nickname": "Friendly Enthusiast",
+  "category": "Everyday Women"
  },
  "Voice 317": {
   "gender": "Female",
@@ -3167,7 +3483,8 @@
   "accent": "Southern American",
   "energy": "High",
   "vibe": "A warm and hospitable Southern friend always ready for a cozy chat.",
-  "nickname": "Southern Welcoming Friend"
+  "nickname": "Southern Welcoming Friend",
+  "category": "Southern & Country"
  },
  "Voice 318": {
   "gender": "male",
@@ -3177,7 +3494,8 @@
   "accent": "American",
   "energy": "medium-high",
   "vibe": "Warm, conversational, and instantly approachable like a chatty next-door neighbor.",
-  "nickname": "Welcoming Neighbor"
+  "nickname": "Welcoming Neighbor",
+  "category": "Deep & Smoky"
  },
  "Voice 319": {
   "gender": "Female",
@@ -3187,7 +3505,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "Warm, enthusiastic, and conversational, perfect for a welcoming friend or upbeat presenter.",
-  "nickname": "Enthusiastic Friend"
+  "nickname": "Enthusiastic Friend",
+  "category": "Everyday Women"
  },
  "Voice 320": {
   "gender": "male",
@@ -3197,7 +3516,8 @@
   "accent": "Southern American",
   "energy": "low",
   "vibe": "A warm and casual conversationalist who sounds like an inviting neighbor sharing the local scoop.",
-  "nickname": "Friendly Porch Neighbor"
+  "nickname": "Friendly Porch Neighbor",
+  "category": "Southern & Country"
  },
  "Voice 321": {
   "gender": "Female",
@@ -3207,7 +3527,8 @@
   "accent": "General American",
   "energy": "High",
   "vibe": "An inviting, friendly, and enthusiastic speaker who creates an instant sense of warmth and excitement.",
-  "nickname": "Welcoming Companion"
+  "nickname": "Welcoming Companion",
+  "category": "Everyday Women"
  },
  "Voice 322": {
   "gender": "Male",
@@ -3217,7 +3538,8 @@
   "accent": "American",
   "energy": "Low",
   "vibe": "An inviting and friendly voice that feels intimate, casual, and warm.",
-  "nickname": "Warm Conversationalist"
+  "nickname": "Warm Conversationalist",
+  "category": "Deep & Smoky"
  },
  "Voice 323": {
   "gender": "male",
@@ -3227,7 +3549,8 @@
   "accent": "American (Southern)",
   "energy": "high",
   "vibe": "An enthusiastic, friendly local who is always eager to catch up on the latest neighborhood gossip.",
-  "nickname": "Folksy Gossip"
+  "nickname": "Folksy Gossip",
+  "category": "Southern & Country"
  },
  "Voice 324": {
   "gender": "Female",
@@ -3237,7 +3560,8 @@
   "accent": "American",
   "energy": "Medium-High",
   "vibe": "Welcoming and enthusiastic, giving off a warm, friendly, and approachable conversational tone.",
-  "nickname": "Friendly Neighbor"
+  "nickname": "Friendly Neighbor",
+  "category": "Everyday Women"
  },
  "Voice 325": {
   "gender": "Female",
@@ -3247,7 +3571,8 @@
   "accent": "American",
   "energy": "High",
   "vibe": "An upbeat and eager young child excited to hear stories.",
-  "nickname": "Eager Young Kid"
+  "nickname": "Eager Young Kid",
+  "category": "Kids & Teens"
  },
  "Voice 326": {
   "gender": "Female",
@@ -3257,7 +3582,8 @@
   "accent": "General American",
   "energy": "High",
   "vibe": "An inviting, enthusiastic, and warm conversational voice ideal for friendly roles.",
-  "nickname": "Welcoming Friend"
+  "nickname": "Welcoming Friend",
+  "category": "Everyday Women"
  },
  "Voice 327": {
   "gender": "Female",
@@ -3269,10 +3595,11 @@
   "vibe": "A warm, friendly, and conversational voice that feels intimate and inviting.",
   "nickname": "Kade calm and casual",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Me as a Calm Inspirational Narrator",
-  "picker_label": "Voice 327 (Beta) Kade calm and casual",
-  "described": "2026-07-22"
+  "picker_label": "Voice 327 Kade calm and casual",
+  "described": "2026-07-22",
+  "category": "Calm & Soothing",
+  "graduated": "2026-07-23"
  },
  "Voice 328": {
   "gender": "Female",
@@ -3284,10 +3611,11 @@
   "vibe": "A chatty and hospitable Southern woman welcoming a guest into her home with warmth and enthusiasm.",
   "nickname": "Hospitable Southern Belle",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Monstertruck synthwoman",
-  "picker_label": "Voice 328 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 328",
+  "described": "2026-07-22",
+  "category": "Characters & Creatures",
+  "graduated": "2026-07-23"
  },
  "Voice 329": {
   "gender": "Female",
@@ -3299,10 +3627,11 @@
   "vibe": "A warm, engaging, and friendly voice that sounds genuinely welcoming and conversational.",
   "nickname": "Welcoming Conversationalist",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Shy teacher synthwoman",
-  "picker_label": "Voice 329 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 329",
+  "described": "2026-07-22",
+  "category": "Storytellers & Pros",
+  "graduated": "2026-07-23"
  },
  "Voice 330": {
   "gender": "Female",
@@ -3314,10 +3643,11 @@
   "vibe": "A warm, bright, and expressive voice that radiates friendly enthusiasm.",
   "nickname": "Welcoming Friend",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Crazy KG teacher synthwoman",
-  "picker_label": "Voice 330 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 330",
+  "described": "2026-07-22",
+  "category": "Storytellers & Pros",
+  "graduated": "2026-07-23"
  },
  "Voice 331": {
   "gender": "Male",
@@ -3329,10 +3659,11 @@
   "vibe": "A warm and inviting Southern host welcoming a visitor with enthusiastic hospitality.",
   "nickname": "Welcoming Southern Neighbor",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Toaster2 synthman",
-  "picker_label": "Voice 331 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 331",
+  "described": "2026-07-22",
+  "category": "Characters & Creatures",
+  "graduated": "2026-07-23"
  },
  "Voice 332": {
   "gender": "Male",
@@ -3344,10 +3675,11 @@
   "vibe": "A warm, welcoming Southern gentleman inviting you in for a friendly chat.",
   "nickname": "Friendly Southern Gentleman",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Toaster synthman",
-  "picker_label": "Voice 332 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 332",
+  "described": "2026-07-22",
+  "category": "Characters & Creatures",
+  "graduated": "2026-07-23"
  },
  "Voice 333": {
   "gender": "Male",
@@ -3359,10 +3691,11 @@
   "vibe": "An inviting, enthusiastic, and approachable voice with a warm, conversational charm.",
   "nickname": "Warm Host",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Car-guy synthman",
-  "picker_label": "Voice 333 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 333",
+  "described": "2026-07-22",
+  "category": "Everyday Men",
+  "graduated": "2026-07-23"
  },
  "Voice 334": {
   "gender": "Male",
@@ -3374,10 +3707,11 @@
   "vibe": "A warm, enthusiastic, and welcoming voice full of friendly energy and excitement.",
   "nickname": "Enthusiastic Host",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Synico Synthman",
-  "picker_label": "Voice 334 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 334",
+  "described": "2026-07-22",
+  "category": "Characters & Creatures",
+  "graduated": "2026-07-23"
  },
  "Voice 335": {
   "gender": "Female",
@@ -3389,10 +3723,11 @@
   "vibe": "A warm and animated Southern matriarch eager to catch up with enthusiastic affection.",
   "nickname": "Welcoming Southern Matriarch",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Southern nansy synthwoman",
-  "picker_label": "Voice 335 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 335",
+  "described": "2026-07-22",
+  "category": "Wise & Seasoned",
+  "graduated": "2026-07-23"
  },
  "Voice 336": {
   "gender": "Female",
@@ -3404,10 +3739,11 @@
   "vibe": "An enthusiastic, conversational, and welcoming Southern matriarch overflowing with chatty energy.",
   "nickname": "Chatty Southern Matriarch",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Mad granny synthwoman",
-  "picker_label": "Voice 336 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 336",
+  "described": "2026-07-22",
+  "category": "Wise & Seasoned",
+  "graduated": "2026-07-23"
  },
  "Voice 337": {
   "gender": "Female",
@@ -3419,10 +3755,11 @@
   "vibe": "A warm and welcoming southern voice that exudes friendly hospitality and conversational charm.",
   "nickname": "Warm Southern Hostess",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Southern granny Synthwoman",
-  "picker_label": "Voice 337 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 337",
+  "described": "2026-07-22",
+  "category": "Wise & Seasoned",
+  "graduated": "2026-07-23"
  },
  "Voice 338": {
   "gender": "Female",
@@ -3434,10 +3771,11 @@
   "vibe": "A warm, enthusiastic, and inviting voice that feels naturally expressive and conversational.",
   "nickname": "Warm Conversationalist",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Tired flight attendant synthwoman",
-  "picker_label": "Voice 338 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 338",
+  "described": "2026-07-22",
+  "category": "Storytellers & Pros",
+  "graduated": "2026-07-23"
  },
  "Voice 339": {
   "gender": "Male",
@@ -3449,10 +3787,11 @@
   "vibe": "A warm, welcoming Southern voice with a friendly tone and a hint of gravel.",
   "nickname": "Warm Southern Welcome",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Auctioneer synthman",
-  "picker_label": "Voice 339 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 339",
+  "described": "2026-07-22",
+  "category": "Wise & Seasoned",
+  "graduated": "2026-07-23"
  },
  "Voice 340": {
   "gender": "Male",
@@ -3464,10 +3803,11 @@
   "vibe": "An enthusiastic and animated speaker who warmly welcomes the listener with high energy.",
   "nickname": "Enthusiastic Host",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Planty synthman",
-  "picker_label": "Voice 340 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 340",
+  "described": "2026-07-22",
+  "category": "Everyday Men",
+  "graduated": "2026-07-23"
  },
  "Voice 341": {
   "gender": "Male",
@@ -3479,10 +3819,11 @@
   "vibe": "An inviting and jovial voice that feels warm, friendly, and eager to share a story.",
   "nickname": "Welcoming Host",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Evil support synthman",
-  "picker_label": "Voice 341 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 341",
+  "described": "2026-07-22",
+  "category": "Characters & Creatures",
+  "graduated": "2026-07-23"
  },
  "Voice 342": {
   "gender": "Female",
@@ -3494,10 +3835,11 @@
   "vibe": "A warm, enthusiastic, and welcoming voice that feels instantly friendly and approachable.",
   "nickname": "Enthusiastic Host",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Shopping-host synthwoman",
-  "picker_label": "Voice 342 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 342",
+  "described": "2026-07-22",
+  "category": "Storytellers & Pros",
+  "graduated": "2026-07-23"
  },
  "Voice 343": {
   "gender": "Male",
@@ -3509,10 +3851,11 @@
   "vibe": "A warm, welcoming, and conversational tone that feels intimate and inviting.",
   "nickname": "Welcoming Host",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Water-guy synthman",
-  "picker_label": "Voice 343 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 343",
+  "described": "2026-07-22",
+  "category": "Deep & Smoky",
+  "graduated": "2026-07-23"
  },
  "Voice 344": {
   "gender": "Male",
@@ -3524,10 +3867,11 @@
   "vibe": "A deep, intimate British voice that sounds welcoming, comforting, and quietly conversational.",
   "nickname": "Warm British Confidant",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Nature-brit synthman",
-  "picker_label": "Voice 344 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 344",
+  "described": "2026-07-22",
+  "category": "Accents from Abroad",
+  "graduated": "2026-07-23"
  },
  "Voice 345": {
   "gender": "Male",
@@ -3539,10 +3883,11 @@
   "vibe": "A hospitable and cheerful Southern voice radiating warmth and friendly enthusiasm.",
   "nickname": "Welcoming Southern Host",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Preacher synthman",
-  "picker_label": "Voice 345 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 345",
+  "described": "2026-07-22",
+  "category": "Wise & Seasoned",
+  "graduated": "2026-07-23"
  },
  "Voice 346": {
   "gender": "Female",
@@ -3554,10 +3899,11 @@
   "vibe": "An enthusiastic and hospitable Southern voice that feels chatty, warm, and instantly welcoming.",
   "nickname": "Southern Hospitality",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Preacher synthwoman",
-  "picker_label": "Voice 346 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 346",
+  "described": "2026-07-22",
+  "category": "Southern & Country",
+  "graduated": "2026-07-23"
  },
  "Voice 347": {
   "gender": "Female",
@@ -3569,10 +3915,11 @@
   "vibe": "A warm, enthusiastic Southern woman who exudes hospitable charm and friendly excitement.",
   "nickname": "Welcoming Southern Matriarch",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Southern preacher synthwoman",
-  "picker_label": "Voice 347 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 347",
+  "described": "2026-07-22",
+  "category": "Wise & Seasoned",
+  "graduated": "2026-07-23"
  },
  "Voice 348": {
   "gender": "Male",
@@ -3584,10 +3931,11 @@
   "vibe": "A warm, enthusiastic Southern voice full of welcoming charm and boisterous energy.",
   "nickname": "Welcoming Southern Host",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Southern preacher synthman",
-  "picker_label": "Voice 348 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 348",
+  "described": "2026-07-22",
+  "category": "Southern & Country",
+  "graduated": "2026-07-23"
  },
  "Voice 349": {
   "gender": "Male",
@@ -3599,10 +3947,11 @@
   "vibe": "An enthusiastic and theatrical male voice that delivers a warm, welcoming, and animated tone.",
   "nickname": "Enthusiastic Host",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Evil scientist Synthman",
-  "picker_label": "Voice 349 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 349",
+  "described": "2026-07-22",
+  "category": "Characters & Creatures",
+  "graduated": "2026-07-23"
  },
  "Voice 350": {
   "gender": "Male",
@@ -3614,10 +3963,11 @@
   "vibe": "A warm, welcoming, and expressive male voice with a friendly, conversational tone.",
   "nickname": "Welcoming Host",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Nutso Synthman",
-  "picker_label": "Voice 350 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 350",
+  "described": "2026-07-22",
+  "category": "Everyday Men",
+  "graduated": "2026-07-23"
  },
  "Voice 351": {
   "gender": "Male",
@@ -3629,10 +3979,11 @@
   "vibe": "A warm, expressive, and inviting voice that sounds like a friendly companion eager to catch up.",
   "nickname": "Friendly Companion",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Barker synthman",
-  "picker_label": "Voice 351 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 351",
+  "described": "2026-07-22",
+  "category": "Deep & Smoky",
+  "graduated": "2026-07-23"
  },
  "Voice 352": {
   "gender": "Male",
@@ -3644,10 +3995,11 @@
   "vibe": "A warm, folksy, and hospitable voice full of friendly, welcoming charm.",
   "nickname": "Folksy Southern Host",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Tough-tex Synthman",
-  "picker_label": "Voice 352 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 352",
+  "described": "2026-07-22",
+  "category": "Wise & Seasoned",
+  "graduated": "2026-07-23"
  },
  "Voice 353": {
   "gender": "Male",
@@ -3659,10 +4011,11 @@
   "vibe": "A warm, welcoming, and friendly Australian male voice inviting you in for a chat.",
   "nickname": "Friendly Aussie Host",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Ausie Synthman",
-  "picker_label": "Voice 353 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 353",
+  "described": "2026-07-22",
+  "category": "Accents from Abroad",
+  "graduated": "2026-07-23"
  },
  "Voice 354": {
   "gender": "Male",
@@ -3674,10 +4027,11 @@
   "vibe": "An enthusiastic, theatrical, and welcoming speaker bursting with warmth and friendly charm.",
   "nickname": "Animated British Host",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Untruthful narrator",
-  "picker_label": "Voice 354 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 354",
+  "described": "2026-07-22",
+  "category": "Accents from Abroad",
+  "graduated": "2026-07-23"
  },
  "Voice 355": {
   "gender": "Male",
@@ -3689,10 +4043,11 @@
   "vibe": "An intimate, hushed male voice with a warm, breathy rasp that creates a cozy and conversational atmosphere.",
   "nickname": "Intimate Raspy Storyteller",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Creepy latenight dj",
-  "picker_label": "Voice 355 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 355",
+  "described": "2026-07-22",
+  "category": "Characters & Creatures",
+  "graduated": "2026-07-23"
  },
  "Voice 356": {
   "gender": "Male",
@@ -3704,10 +4059,11 @@
   "vibe": "An inviting, enthusiastic, and conversational voice that conveys genuine warmth and friendliness.",
   "nickname": "Welcoming Host",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Ozark-grand synthman",
-  "picker_label": "Voice 356 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 356",
+  "described": "2026-07-22",
+  "category": "Southern & Country",
+  "graduated": "2026-07-23"
  },
  "Voice 357": {
   "gender": "Male",
@@ -3719,10 +4075,11 @@
   "vibe": "A warm, welcoming, and intimate voice that feels instantly friendly and engaging.",
   "nickname": "Warm Conversationalist",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Copper synthman",
-  "picker_label": "Voice 357 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 357",
+  "described": "2026-07-22",
+  "category": "Calm & Soothing",
+  "graduated": "2026-07-23"
  },
  "Voice 358": {
   "gender": "Male",
@@ -3734,10 +4091,11 @@
   "vibe": "An upbeat and overly enthusiastic speaker with a warm, animated, and inviting conversational tone.",
   "nickname": "Enthusiastic Welcoming Friend",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Jockman synthteen",
-  "picker_label": "Voice 358 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 358",
+  "described": "2026-07-22",
+  "category": "Everyday Men",
+  "graduated": "2026-07-23"
  },
  "Voice 359": {
   "gender": "Female",
@@ -3749,10 +4107,11 @@
   "vibe": "An enthusiastic and welcoming voice that feels warm, personal, and full of expressive energy.",
   "nickname": "Welcoming Companion",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Mean-girl synthteen",
-  "picker_label": "Voice 359 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 359",
+  "described": "2026-07-22",
+  "category": "Everyday Women",
+  "graduated": "2026-07-23"
  },
  "Voice 360": {
   "gender": "Male",
@@ -3764,10 +4123,11 @@
   "vibe": "A warm, energetic, and welcoming male voice that exudes enthusiasm and friendly charm.",
   "nickname": "Welcoming Friend",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Game-guy synthman",
-  "picker_label": "Voice 360 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 360",
+  "described": "2026-07-22",
+  "category": "Everyday Men",
+  "graduated": "2026-07-23"
  },
  "Voice 361": {
   "gender": "Male",
@@ -3779,10 +4139,11 @@
   "vibe": "An inviting, enthusiastic, and warm voice that feels like catching up with an old friend.",
   "nickname": "Friendly Host",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Male-nerd synth-teen",
-  "picker_label": "Voice 361 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 361",
+  "described": "2026-07-22",
+  "category": "Deep & Smoky",
+  "graduated": "2026-07-23"
  },
  "Voice 362": {
   "gender": "Female",
@@ -3794,10 +4155,11 @@
   "vibe": "A warm, upbeat, and welcoming voice that feels friendly and inviting.",
   "nickname": "Welcoming Friend",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Tough-girl synthteen",
-  "picker_label": "Voice 362 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 362",
+  "described": "2026-07-22",
+  "category": "Everyday Women",
+  "graduated": "2026-07-23"
  },
  "Voice 363": {
   "gender": "Male",
@@ -3809,10 +4171,11 @@
   "vibe": "A warm, inviting, and friendly voice that sounds eager to share a personal conversation.",
   "nickname": "Friendly Hospitable Host",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Skater dude synthteen",
-  "picker_label": "Voice 363 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 363",
+  "described": "2026-07-22",
+  "category": "Deep & Smoky",
+  "graduated": "2026-07-23"
  },
  "Voice 364": {
   "gender": "Male",
@@ -3824,10 +4187,11 @@
   "vibe": "A warm, welcoming, and relaxed male voice that feels like a friendly conversation over coffee.",
   "nickname": "Warm Companion",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Emo Synthteen",
-  "picker_label": "Voice 364 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 364",
+  "described": "2026-07-22",
+  "category": "Deep & Smoky",
+  "graduated": "2026-07-23"
  },
  "Voice 365": {
   "gender": "Female",
@@ -3839,10 +4203,11 @@
   "vibe": "An upbeat, warm, and inviting voice that sounds genuinely excited to connect.",
   "nickname": "Warm Enthusiast",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Teena synthteen",
-  "picker_label": "Voice 365 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 365",
+  "described": "2026-07-22",
+  "category": "Everyday Women",
+  "graduated": "2026-07-23"
  },
  "Voice 366": {
   "gender": "Female",
@@ -3854,10 +4219,11 @@
   "vibe": "A bubbly, enthusiastic, and cheerful young voice full of friendly excitement.",
   "nickname": "Bubbly Kid",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Brattley",
-  "picker_label": "Voice 366 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 366",
+  "described": "2026-07-22",
+  "category": "Kids & Teens",
+  "graduated": "2026-07-23"
  },
  "Voice 367": {
   "gender": "Female",
@@ -3869,10 +4235,11 @@
   "vibe": "An upbeat and enthusiastic voice that radiates warmth and welcoming excitement.",
   "nickname": "Cheerful Host",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Marivia synthchild",
-  "picker_label": "Voice 367 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 367",
+  "described": "2026-07-22",
+  "category": "Everyday Women",
+  "graduated": "2026-07-23"
  },
  "Voice 368": {
   "gender": "Female",
@@ -3884,10 +4251,11 @@
   "vibe": "An enthusiastic and friendly young voice overflowing with bubbly warmth and excitement.",
   "nickname": "Bubbly Playmate",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Natasha, female black teen",
-  "picker_label": "Voice 368 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 368",
+  "described": "2026-07-22",
+  "category": "Kids & Teens",
+  "graduated": "2026-07-23"
  },
  "Voice 369": {
   "gender": "Male",
@@ -3899,10 +4267,11 @@
   "vibe": "An overly enthusiastic and theatrical male voice with a warm, raspy tone.",
   "nickname": "Overenthusiastic Host",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "New york male Energetic Sales Voice",
-  "picker_label": "Voice 369 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 369",
+  "described": "2026-07-22",
+  "category": "Deep & Smoky",
+  "graduated": "2026-07-23"
  },
  "Voice 370": {
   "gender": "Female",
@@ -3914,10 +4283,11 @@
   "vibe": "A bright, cheerful, and welcoming young woman eagerly sharing news.",
   "nickname": "Cheerful Welcomer",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Female preschool Lively Event Host",
-  "picker_label": "Voice 370 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 370",
+  "described": "2026-07-22",
+  "category": "Everyday Women",
+  "graduated": "2026-07-23"
  },
  "Voice 371": {
   "gender": "Female",
@@ -3929,10 +4299,11 @@
   "vibe": "A warm, intimate, and inviting voice with a soft, breathy quality that feels friendly and conversational.",
   "nickname": "Warm Conversationalist",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Ren, Clear Young Narrator",
-  "picker_label": "Voice 371 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 371",
+  "described": "2026-07-22",
+  "category": "Storytellers & Pros",
+  "graduated": "2026-07-23"
  },
  "Voice 372": {
   "gender": "Female",
@@ -3944,10 +4315,11 @@
   "vibe": "A warm, expressive, and welcoming senior female voice with a lively, inviting charm.",
   "nickname": "Welcoming Matriarch",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Retro strict female teacher",
-  "picker_label": "Voice 372 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 372",
+  "described": "2026-07-22",
+  "category": "Wise & Seasoned",
+  "graduated": "2026-07-23"
  },
  "Voice 373": {
   "gender": "Female",
@@ -3959,10 +4331,11 @@
   "vibe": "A bubbly and cheerful child's voice bursting with welcoming, enthusiastic energy.",
   "nickname": "Bubbly Young Storyteller",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Scarla female commercial child",
-  "picker_label": "Voice 373 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 373",
+  "described": "2026-07-22",
+  "category": "Kids & Teens",
+  "graduated": "2026-07-23"
  },
  "Voice 374": {
   "gender": "Female",
@@ -3974,10 +4347,11 @@
   "vibe": "An upbeat, welcoming, and friendly voice full of expressive enthusiasm.",
   "nickname": "Welcoming Friend",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Worried woman2",
-  "picker_label": "Voice 374 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 374",
+  "described": "2026-07-22",
+  "category": "Everyday Women",
+  "graduated": "2026-07-23"
  },
  "Voice 375": {
   "gender": "Male",
@@ -3989,10 +4363,11 @@
   "vibe": "An exceptionally enthusiastic and friendly Southern host who radiates warmth and eager conversation.",
   "nickname": "Energetic Southern Greeter",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Southern used car guy",
-  "picker_label": "Voice 375 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 375",
+  "described": "2026-07-22",
+  "category": "Southern & Country",
+  "graduated": "2026-07-23"
  },
  "Voice 376": {
   "gender": "Female",
@@ -4004,10 +4379,11 @@
   "vibe": "A cheerful and welcoming young child eager to share news.",
   "nickname": "Cheerful Young Girl",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Silvia, female child",
-  "picker_label": "Voice 376 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 376",
+  "described": "2026-07-22",
+  "category": "Kids & Teens",
+  "graduated": "2026-07-23"
  },
  "Voice 377": {
   "gender": "Female",
@@ -4019,10 +4395,11 @@
   "vibe": "A warm and cheerful young Southern voice welcoming a friend with eager enthusiasm.",
   "nickname": "Warm Southern Girl",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Chill southern child",
-  "picker_label": "Voice 377 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 377",
+  "described": "2026-07-22",
+  "category": "Kids & Teens",
+  "graduated": "2026-07-23"
  },
  "Voice 378": {
   "gender": "Female",
@@ -4034,10 +4411,11 @@
   "vibe": "An inviting and friendly voice with a relaxed, intimate, and welcoming tone.",
   "nickname": "Warm Welcoming Friend",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Snarky woman",
-  "picker_label": "Voice 378 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 378",
+  "described": "2026-07-22",
+  "category": "Calm & Soothing",
+  "graduated": "2026-07-23"
  },
  "Voice 379": {
   "gender": "Female",
@@ -4049,10 +4427,11 @@
   "vibe": "A cheerful and welcoming child's voice filled with warmth and excitement.",
   "nickname": "Playful Child",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "The cutest synth child",
-  "picker_label": "Voice 379 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 379",
+  "described": "2026-07-22",
+  "category": "Kids & Teens",
+  "graduated": "2026-07-23"
  },
  "Voice 380": {
   "gender": "Female",
@@ -4064,10 +4443,11 @@
   "vibe": "A warm, inviting, and friendly voice that creates an instant sense of welcoming intimacy.",
   "nickname": "Friendly Host",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Child with unknown accent",
-  "picker_label": "Voice 380 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 380",
+  "described": "2026-07-22",
+  "category": "Everyday Women",
+  "graduated": "2026-07-23"
  },
  "Voice 381": {
   "gender": "Male",
@@ -4079,10 +4459,11 @@
   "vibe": "A jovial, booming, and warmly enthusiastic older man inviting someone in for a friendly chat.",
   "nickname": "Jovial Senior Host",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Vintage stranger danger guy",
-  "picker_label": "Voice 381 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 381",
+  "described": "2026-07-22",
+  "category": "Wise & Seasoned",
+  "graduated": "2026-07-23"
  },
  "Voice 382": {
   "gender": "Male",
@@ -4094,10 +4475,11 @@
   "vibe": "A warm and inviting elderly southern voice full of character and gentle familiarity.",
   "nickname": "Southern Grandpa",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Old guy speech 2",
-  "picker_label": "Voice 382 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 382",
+  "described": "2026-07-22",
+  "category": "Wise & Seasoned",
+  "graduated": "2026-07-23"
  },
  "Voice 383": {
   "gender": "Female",
@@ -4109,10 +4491,11 @@
   "vibe": "A warm, enthusiastic, and friendly voice full of eager hospitality.",
   "nickname": "Cheerful Hostess",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Natia",
-  "picker_label": "Voice 383 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 383",
+  "described": "2026-07-22",
+  "category": "Everyday Women",
+  "graduated": "2026-07-23"
  },
  "Voice 384": {
   "gender": "Female",
@@ -4124,10 +4507,11 @@
   "vibe": "A warm and inviting Southern voice that sounds like a friendly neighbor welcoming you into her home.",
   "nickname": "Welcoming Southern Neighbor",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "DJ velvet",
-  "picker_label": "Voice 384 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 384",
+  "described": "2026-07-22",
+  "category": "Southern & Country",
+  "graduated": "2026-07-23"
  },
  "Voice 385": {
   "gender": "Female",
@@ -4139,10 +4523,11 @@
   "vibe": "A warm, welcoming, and upbeat Irish voice with a friendly conversational tone.",
   "nickname": "Miss A Irish",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Amber Irish",
-  "picker_label": "Voice 385 (Beta) Miss A Irish",
-  "described": "2026-07-22"
+  "picker_label": "Voice 385 Miss A Irish",
+  "described": "2026-07-22",
+  "category": "Accents from Abroad",
+  "graduated": "2026-07-23"
  },
  "Voice 386": {
   "gender": "Female",
@@ -4154,10 +4539,11 @@
   "vibe": "A cute, cheerful, and welcoming young child full of eager enthusiasm.",
   "nickname": "Enthusiastic Young Storyteller",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Honey synth child",
-  "picker_label": "Voice 386 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 386",
+  "described": "2026-07-22",
+  "category": "Kids & Teens",
+  "graduated": "2026-07-23"
  },
  "Voice 387": {
   "gender": "Female",
@@ -4169,10 +4555,11 @@
   "vibe": "An eager and adorable young voice full of friendly warmth and excitement.",
   "nickname": "Cheerful Playmate",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Cody synth child",
-  "picker_label": "Voice 387 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 387",
+  "described": "2026-07-22",
+  "category": "Kids & Teens",
+  "graduated": "2026-07-23"
  },
  "Voice 388": {
   "gender": "Female",
@@ -4184,10 +4571,11 @@
   "vibe": "An enthusiastic and welcoming child's voice perfect for playful characters and animated storytelling.",
   "nickname": "Playful Animated Kid",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "black synth child",
-  "picker_label": "Voice 388 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 388",
+  "described": "2026-07-22",
+  "category": "Kids & Teens",
+  "graduated": "2026-07-23"
  },
  "Voice 389": {
   "gender": "Female",
@@ -4199,10 +4587,11 @@
   "vibe": "An enthusiastic and friendly young child eager to share exciting news.",
   "nickname": "Enthusiastic Playmate",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Synth child2",
-  "picker_label": "Voice 389 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 389",
+  "described": "2026-07-22",
+  "category": "Kids & Teens",
+  "graduated": "2026-07-23"
  },
  "Voice 390": {
   "gender": "Male",
@@ -4214,10 +4603,11 @@
   "vibe": "An enthusiastic and friendly young child bursting with eager energy to share a story.",
   "nickname": "Energetic Young Pal",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Synth child",
-  "picker_label": "Voice 390 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 390",
+  "described": "2026-07-22",
+  "category": "Kids & Teens",
+  "graduated": "2026-07-23"
  },
  "Voice 391": {
   "gender": "Female",
@@ -4229,10 +4619,11 @@
   "vibe": "An inviting and upbeat voice full of friendly warmth and expressive excitement.",
   "nickname": "Miss A animated conversation",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Amber animated conversation",
-  "picker_label": "Voice 391 (Beta) Miss A animated conversation",
-  "described": "2026-07-22"
+  "picker_label": "Voice 391 Miss A animated conversation",
+  "described": "2026-07-22",
+  "category": "Everyday Women",
+  "graduated": "2026-07-23"
  },
  "Voice 392": {
   "gender": "Female",
@@ -4244,10 +4635,11 @@
   "vibe": "An upbeat and cheerful young girl's voice brimming with excitement and friendly warmth.",
   "nickname": "Enthusiastic Young Girl",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Hannah the valley child",
-  "picker_label": "Voice 392 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 392",
+  "described": "2026-07-22",
+  "category": "Kids & Teens",
+  "graduated": "2026-07-23"
  },
  "Voice 393": {
   "gender": "Female",
@@ -4259,10 +4651,11 @@
   "vibe": "A friendly, conversational, and inviting voice that feels welcoming and approachable.",
   "nickname": "Miss A pro reading",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Pro amber reading",
-  "picker_label": "Voice 393 (Beta) Miss A pro reading",
-  "described": "2026-07-22"
+  "picker_label": "Voice 393 Miss A pro reading",
+  "described": "2026-07-22",
+  "category": "Everyday Women",
+  "graduated": "2026-07-23"
  },
  "Voice 394": {
   "gender": "Male",
@@ -4274,10 +4667,11 @@
   "vibe": "A warm, inviting voice with a friendly and seasoned storytelling charm.",
   "nickname": "Warm Storyteller",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Ned",
-  "picker_label": "Voice 394 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 394",
+  "described": "2026-07-22",
+  "category": "Wise & Seasoned",
+  "graduated": "2026-07-23"
  },
  "Voice 395": {
   "gender": "Male",
@@ -4289,10 +4683,11 @@
   "vibe": "A warm, welcoming, and friendly male voice with an inviting and trustworthy quality.",
   "nickname": "Welcoming Storyteller",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Ethan",
-  "picker_label": "Voice 395 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 395",
+  "described": "2026-07-22",
+  "category": "Wise & Seasoned",
+  "graduated": "2026-07-23"
  },
  "Voice 396": {
   "gender": "Male",
@@ -4304,10 +4699,11 @@
   "vibe": "A warm, welcoming, and hospitable senior gentleman inviting a friend in for a chat.",
   "nickname": "Warm Southern Host",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Paul",
-  "picker_label": "Voice 396 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 396",
+  "described": "2026-07-22",
+  "category": "Wise & Seasoned",
+  "graduated": "2026-07-23"
  },
  "Voice 397": {
   "gender": "Male",
@@ -4319,10 +4715,11 @@
   "vibe": "A gentle, welcoming elderly voice that carries warmth, comfort, and quiet wisdom.",
   "nickname": "Kindly Grandfather",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Doc",
-  "picker_label": "Voice 397 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 397",
+  "described": "2026-07-22",
+  "category": "Wise & Seasoned",
+  "graduated": "2026-07-23"
  },
  "Voice 398": {
   "gender": "Male",
@@ -4334,10 +4731,11 @@
   "vibe": "An intimate, soft-spoken voice with a warm and gentle, whisper-like quality.",
   "nickname": "Soft Spoken Confidant",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Jason",
-  "picker_label": "Voice 398 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 398",
+  "described": "2026-07-22",
+  "category": "Deep & Smoky",
+  "graduated": "2026-07-23"
  },
  "Voice 399": {
   "gender": "Female",
@@ -4349,10 +4747,11 @@
   "vibe": "A warm, enthusiastic, and slightly raspy voice with a friendly, welcoming character.",
   "nickname": "Welcoming Storyteller",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Raspia",
-  "picker_label": "Voice 399 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 399",
+  "described": "2026-07-22",
+  "category": "Wise & Seasoned",
+  "graduated": "2026-07-23"
  },
  "Voice 400": {
   "gender": "Female",
@@ -4364,10 +4763,11 @@
   "vibe": "A warm, enthusiastic, and conversational Southern matriarch eager to share friendly local stories.",
   "nickname": "Southern Storyteller",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Miriam",
-  "picker_label": "Voice 400 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 400",
+  "described": "2026-07-22",
+  "category": "Wise & Seasoned",
+  "graduated": "2026-07-23"
  },
  "Voice 401": {
   "gender": "Female",
@@ -4379,10 +4779,11 @@
   "vibe": "An inviting and animated mature voice filled with warmth and eager friendliness.",
   "nickname": "Animated Chatty Neighbor",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Vadalia",
-  "picker_label": "Voice 401 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 401",
+  "described": "2026-07-22",
+  "category": "Deep & Smoky",
+  "graduated": "2026-07-23"
  },
  "Voice 402": {
   "gender": "Female",
@@ -4394,10 +4795,11 @@
   "vibe": "A warm, expressive, and inviting voice that sounds like a friendly neighbor eager to catch up.",
   "nickname": "Warm Welcoming Friend",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Courtland",
-  "picker_label": "Voice 402 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 402",
+  "described": "2026-07-22",
+  "category": "Everyday Women",
+  "graduated": "2026-07-23"
  },
  "Voice 403": {
   "gender": "Male",
@@ -4409,10 +4811,11 @@
   "vibe": "A warm, welcoming older man inviting you in for a casual chat.",
   "nickname": "Welcoming Old Timer",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Maurilla",
-  "picker_label": "Voice 403 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 403",
+  "described": "2026-07-22",
+  "category": "Wise & Seasoned",
+  "graduated": "2026-07-23"
  },
  "Voice 404": {
   "gender": "Female",
@@ -4424,10 +4827,11 @@
   "vibe": "An upbeat and welcoming female voice with a warm, chatty, and enthusiastic personality.",
   "nickname": "Enthusiastic Host",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Maira",
-  "picker_label": "Voice 404 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 404",
+  "described": "2026-07-22",
+  "category": "Deep & Smoky",
+  "graduated": "2026-07-23"
  },
  "Voice 405": {
   "gender": "Female",
@@ -4439,10 +4843,11 @@
   "vibe": "A warm, gossipy, and animated voice with a distinct New York accent and raspy texture.",
   "nickname": "Chatty New Yorker",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Yorkley",
-  "picker_label": "Voice 405 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 405",
+  "described": "2026-07-22",
+  "category": "Deep & Smoky",
+  "graduated": "2026-07-23"
  },
  "Voice 406": {
   "gender": "Male",
@@ -4454,10 +4859,11 @@
   "vibe": "An animated, enthusiastic, and welcoming voice full of friendly warmth and excitement.",
   "nickname": "Lively Welcome",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Kristy",
-  "picker_label": "Voice 406 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 406",
+  "described": "2026-07-22",
+  "category": "Everyday Men",
+  "graduated": "2026-07-23"
  },
  "Voice 407": {
   "gender": "Female",
@@ -4469,10 +4875,11 @@
   "vibe": "A warm, expressive, and welcoming voice full of friendly conversational charm.",
   "nickname": "Warm Expressive Host",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Judith",
-  "picker_label": "Voice 407 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 407",
+  "described": "2026-07-22",
+  "category": "Deep & Smoky",
+  "graduated": "2026-07-23"
  },
  "Voice 408": {
   "gender": "Female",
@@ -4484,10 +4891,11 @@
   "vibe": "A warm, enthusiastic, and inviting voice that sounds like a friendly neighbor inviting you in for a chat.",
   "nickname": "Welcoming Neighbor",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Malla",
-  "picker_label": "Voice 408 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 408",
+  "described": "2026-07-22",
+  "category": "Everyday Women",
+  "graduated": "2026-07-23"
  },
  "Voice 409": {
   "gender": "Female",
@@ -4499,10 +4907,11 @@
   "vibe": "A warm, enthusiastic older Southern woman welcoming a visitor with open arms.",
   "nickname": "Welcoming Southern Grandma",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Marryanne",
-  "picker_label": "Voice 409 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 409",
+  "described": "2026-07-22",
+  "category": "Wise & Seasoned",
+  "graduated": "2026-07-23"
  },
  "Voice 410": {
   "gender": "Female",
@@ -4514,10 +4923,11 @@
   "vibe": "A warm, enthusiastic, and inviting voice with a friendly conversational tone.",
   "nickname": "Warm Welcoming Host",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Sassy",
-  "picker_label": "Voice 410 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 410",
+  "described": "2026-07-22",
+  "category": "Everyday Women",
+  "graduated": "2026-07-23"
  },
  "Voice 411": {
   "gender": "Female",
@@ -4529,10 +4939,11 @@
   "vibe": "An inviting and friendly voice delivering a warm, conversational tone.",
   "nickname": "Inviting Companion",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Danielle",
-  "picker_label": "Voice 411 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 411",
+  "described": "2026-07-22",
+  "category": "Everyday Women",
+  "graduated": "2026-07-23"
  },
  "Voice 412": {
   "gender": "Female",
@@ -4544,10 +4955,11 @@
   "vibe": "A warm, welcoming, and conversational tone that feels intimate and friendly.",
   "nickname": "Friendly Welcomer",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Amanda",
-  "picker_label": "Voice 412 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 412",
+  "described": "2026-07-22",
+  "category": "Calm & Soothing",
+  "graduated": "2026-07-23"
  },
  "Voice 413": {
   "gender": "Female",
@@ -4559,10 +4971,11 @@
   "vibe": "A warm, intimate, and friendly voice that sounds inviting and conversational.",
   "nickname": "Warm Companion",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Tammy  synthetic",
-  "picker_label": "Voice 413 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 413",
+  "described": "2026-07-22",
+  "category": "Calm & Soothing",
+  "graduated": "2026-07-23"
  },
  "Voice 414": {
   "gender": "Female",
@@ -4574,10 +4987,11 @@
   "vibe": "An enthusiastic, friendly, and bubbly voice full of youthful excitement.",
   "nickname": "Bubbly Best Friend",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Valley girl 3",
-  "picker_label": "Voice 414 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 414",
+  "described": "2026-07-22",
+  "category": "Everyday Women",
+  "graduated": "2026-07-23"
  },
  "Voice 415": {
   "gender": "Female",
@@ -4589,10 +5003,11 @@
   "vibe": "An exceptionally bubbly and enthusiastic young voice brimming with friendly energy.",
   "nickname": "Bubbly Enthusiast",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Krista synthetic",
-  "picker_label": "Voice 415 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 415",
+  "described": "2026-07-22",
+  "category": "Everyday Women",
+  "graduated": "2026-07-23"
  },
  "Voice 416": {
   "gender": "Female",
@@ -4604,10 +5019,11 @@
   "vibe": "A warm, intimate, and inviting voice that feels naturally friendly and welcoming.",
   "nickname": "Warm Inviting Friend",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Ashley",
-  "picker_label": "Voice 416 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 416",
+  "described": "2026-07-22",
+  "category": "Calm & Soothing",
+  "graduated": "2026-07-23"
  },
  "Voice 417": {
   "gender": "Female",
@@ -4619,10 +5035,11 @@
   "vibe": "An upbeat, warm, and friendly voice that sounds eager and welcoming.",
   "nickname": "Welcoming Friend",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Fake Francene synthetic",
-  "picker_label": "Voice 417 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 417",
+  "described": "2026-07-22",
+  "category": "Everyday Women",
+  "graduated": "2026-07-23"
  },
  "Voice 418": {
   "gender": "Female",
@@ -4634,10 +5051,11 @@
   "vibe": "An enthusiastic and friendly voice brimming with warm, welcoming energy.",
   "nickname": "Cheerful Host",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Valley girl2 synthetic",
-  "picker_label": "Voice 418 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 418",
+  "described": "2026-07-22",
+  "category": "Everyday Women",
+  "graduated": "2026-07-23"
  },
  "Voice 419": {
   "gender": "Female",
@@ -4649,10 +5067,11 @@
   "vibe": "An upbeat, cheerful, and welcoming voice bursting with enthusiastic energy.",
   "nickname": "Cheerful Host",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Valley girl1",
-  "picker_label": "Voice 419 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 419",
+  "described": "2026-07-22",
+  "category": "Everyday Women",
+  "graduated": "2026-07-23"
  },
  "Voice 420": {
   "gender": "Male",
@@ -4664,10 +5083,11 @@
   "vibe": "A warm, theatrical, and welcoming elderly gentleman eager to share stories.",
   "nickname": "Welcoming Grandfather",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Sappy sammy synthetic",
-  "picker_label": "Voice 420 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 420",
+  "described": "2026-07-22",
+  "category": "Wise & Seasoned",
+  "graduated": "2026-07-23"
  },
  "Voice 421": {
   "gender": "Male",
@@ -4679,10 +5099,11 @@
   "vibe": "A warm, welcoming, and friendly male voice with an inviting, conversational tone.",
   "nickname": "Welcoming Friend",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Ethrage",
-  "picker_label": "Voice 421 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 421",
+  "described": "2026-07-22",
+  "category": "Deep & Smoky",
+  "graduated": "2026-07-23"
  },
  "Voice 422": {
   "gender": "Male",
@@ -4694,10 +5115,11 @@
   "vibe": "A warm, intimate, and welcoming voice that feels like a trusted old friend settling in for a cozy chat.",
   "nickname": "Warm Storyteller",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Rocky synthetic",
-  "picker_label": "Voice 422 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 422",
+  "described": "2026-07-22",
+  "category": "Deep & Smoky",
+  "graduated": "2026-07-23"
  },
  "Voice 423": {
   "gender": "Male",
@@ -4709,10 +5131,11 @@
   "vibe": "A warm and enthusiastic elderly gentleman welcoming a friend with excited chatter.",
   "nickname": "Enthusiastic Senior Storyteller",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Yawning clown synthetic",
-  "picker_label": "Voice 423 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 423",
+  "described": "2026-07-22",
+  "category": "Characters & Creatures",
+  "graduated": "2026-07-23"
  },
  "Voice 424": {
   "gender": "Female",
@@ -4724,10 +5147,11 @@
   "vibe": "An enthusiastic and friendly young voice bursting with cheerful excitement.",
   "nickname": "Kade's child impression",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Me child voice actor",
-  "picker_label": "Voice 424 (Beta) Kade's child impression",
-  "described": "2026-07-22"
+  "picker_label": "Voice 424 Kade's child impression",
+  "described": "2026-07-22",
+  "category": "Kids & Teens",
+  "graduated": "2026-07-23"
  },
  "Voice 425": {
   "gender": "Female",
@@ -4739,10 +5163,11 @@
   "vibe": "A warm, welcoming Southern voice with an upbeat and friendly conversational tone.",
   "nickname": "Friendly Southern Host",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Black teen narrator",
-  "picker_label": "Voice 425 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 425",
+  "described": "2026-07-22",
+  "category": "Southern & Country",
+  "graduated": "2026-07-23"
  },
  "Voice 426": {
   "gender": "Female",
@@ -4754,10 +5179,11 @@
   "vibe": "An upbeat, welcoming, and friendly voice full of youthful enthusiasm.",
   "nickname": "Friendly Conversationalist",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Cassia synthetic",
-  "picker_label": "Voice 426 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 426",
+  "described": "2026-07-22",
+  "category": "Everyday Women",
+  "graduated": "2026-07-23"
  },
  "Voice 427": {
   "gender": "Female",
@@ -4769,10 +5195,11 @@
   "vibe": "A warm, welcoming, and upbeat conversational voice that instantly puts people at ease.",
   "nickname": "Friendly Welcomer",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Mandi synthetic",
-  "picker_label": "Voice 427 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 427",
+  "described": "2026-07-22",
+  "category": "Everyday Women",
+  "graduated": "2026-07-23"
  },
  "Voice 428": {
   "gender": "Female",
@@ -4784,10 +5211,11 @@
   "vibe": "A cheerful and welcoming young voice with an enthusiastic, friendly tone.",
   "nickname": "Playful Young Storyteller",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Elly May synthetic child",
-  "picker_label": "Voice 428 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 428",
+  "described": "2026-07-22",
+  "category": "Kids & Teens",
+  "graduated": "2026-07-23"
  },
  "Voice 429": {
   "gender": "Male",
@@ -4799,10 +5227,11 @@
   "vibe": "A boisterous and booming male voice full of loud, hearty enthusiasm.",
   "nickname": "Booming Enthusiast",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Sargeant synthetic",
-  "picker_label": "Voice 429 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 429",
+  "described": "2026-07-22",
+  "category": "Storytellers & Pros",
+  "graduated": "2026-07-23"
  },
  "Voice 430": {
   "gender": "Male",
@@ -4814,10 +5243,11 @@
   "vibe": "A hearty, exuberant, and intensely welcoming voice brimming with warm, friendly energy.",
   "nickname": "Jovial Boisterous Host",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Boss synthetic",
-  "picker_label": "Voice 430 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 430",
+  "described": "2026-07-22",
+  "category": "Southern & Country",
+  "graduated": "2026-07-23"
  },
  "Voice 431": {
   "gender": "Male",
@@ -4829,10 +5259,11 @@
   "vibe": "A warm and inviting voice with a friendly, intimate tone perfect for welcoming narration.",
   "nickname": "Warm Conversationalist",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Female Rev synthetic",
-  "picker_label": "Voice 431 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 431",
+  "described": "2026-07-22",
+  "category": "Storytellers & Pros",
+  "graduated": "2026-07-23"
  },
  "Voice 432": {
   "gender": "Female",
@@ -4844,10 +5275,11 @@
   "vibe": "A boisterous, eager, and welcoming voice filled with intense enthusiasm and warmth.",
   "nickname": "Boisterous Neighbor",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Mob girl synthetic",
-  "picker_label": "Voice 432 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 432",
+  "described": "2026-07-22",
+  "category": "Deep & Smoky",
+  "graduated": "2026-07-23"
  },
  "Voice 433": {
   "gender": "Female",
@@ -4859,10 +5291,11 @@
   "vibe": "A warm, friendly, and inviting Southern voice that sounds expressive and genuinely hospitable.",
   "nickname": "Warm Southern Host",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Jayda synthetic",
-  "picker_label": "Voice 433 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 433",
+  "described": "2026-07-22",
+  "category": "Southern & Country",
+  "graduated": "2026-07-23"
  },
  "Voice 434": {
   "gender": "Male",
@@ -4874,10 +5307,11 @@
   "vibe": "A warm, boisterous Southern old-timer greeting an old friend with eager familiarity.",
   "nickname": "Folksy Southern Old-Timer",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "CB trucker synthetic",
-  "picker_label": "Voice 434 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 434",
+  "described": "2026-07-22",
+  "category": "Wise & Seasoned",
+  "graduated": "2026-07-23"
  },
  "Voice 435": {
   "gender": "Male",
@@ -4889,10 +5323,11 @@
   "vibe": "A boisterous and welcoming theatrical voice with a warm, energetic tone perfect for classic character work.",
   "nickname": "Boisterous Storyteller",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Vintage gameshow host synthetic",
-  "picker_label": "Voice 435 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 435",
+  "described": "2026-07-22",
+  "category": "Wise & Seasoned",
+  "graduated": "2026-07-23"
  },
  "Voice 436": {
   "gender": "Female",
@@ -4904,10 +5339,11 @@
   "vibe": "A warm and inviting voice with a friendly Southern touch, perfect for intimate storytelling or welcoming prompts.",
   "nickname": "Warm Southern Host",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Sarina urban narrator synthetic",
-  "picker_label": "Voice 436 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 436",
+  "described": "2026-07-22",
+  "category": "Southern & Country",
+  "graduated": "2026-07-23"
  },
  "Voice 437": {
   "gender": "Female",
@@ -4919,10 +5355,11 @@
   "vibe": "A warm and inviting Southern host eager to catch up and share friendly gossip.",
   "nickname": "Welcoming Southern Matriarch",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Scary aunt synthetic",
-  "picker_label": "Voice 437 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 437",
+  "described": "2026-07-22",
+  "category": "Wise & Seasoned",
+  "graduated": "2026-07-23"
  },
  "Voice 438": {
   "gender": "Male",
@@ -4934,10 +5371,11 @@
   "vibe": "A warm, theatrical, and animated narrator with a friendly, gravelly charm.",
   "nickname": "Animated Storyteller",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Shocked Stephen synthetic",
-  "picker_label": "Voice 438 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 438",
+  "described": "2026-07-22",
+  "category": "Storytellers & Pros",
+  "graduated": "2026-07-23"
  },
  "Voice 439": {
   "gender": "Male",
@@ -4949,10 +5387,11 @@
   "vibe": "A gentle, hushed, and intimate voice that conveys warmth and wisdom.",
   "nickname": "Quiet Wisdom Companion",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Scary narrator1 synthetic",
-  "picker_label": "Voice 439 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 439",
+  "described": "2026-07-22",
+  "category": "Wise & Seasoned",
+  "graduated": "2026-07-23"
  },
  "Voice 440": {
   "gender": "Female",
@@ -4964,10 +5403,11 @@
   "vibe": "An upbeat, quirky, and animated Southern voice full of cheerful, inviting enthusiasm.",
   "nickname": "Animated Southern Welcomer",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Ducky mcquackerson synthetic",
-  "picker_label": "Voice 440 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 440",
+  "described": "2026-07-22",
+  "category": "Southern & Country",
+  "graduated": "2026-07-23"
  },
  "Voice 441": {
   "gender": "Female",
@@ -4979,10 +5419,11 @@
   "vibe": "An enthusiastic, friendly, and highly expressive voice that sounds warm and welcoming.",
   "nickname": "Vibrant Host",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Pukin reporter",
-  "picker_label": "Voice 441 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 441",
+  "described": "2026-07-22",
+  "category": "Storytellers & Pros",
+  "graduated": "2026-07-23"
  },
  "Voice 442": {
   "gender": "Male",
@@ -4994,10 +5435,11 @@
   "vibe": "An enthusiastic, theatrical, and welcoming older gentleman with a boisterous tone.",
   "nickname": "Boisterous Storyteller",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Preacher male synthetic",
-  "picker_label": "Voice 442 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 442",
+  "described": "2026-07-22",
+  "category": "Wise & Seasoned",
+  "graduated": "2026-07-23"
  },
  "Voice 443": {
   "gender": "Male",
@@ -5009,10 +5451,11 @@
   "vibe": "A deep, warm, and gravelly voice with a friendly and welcoming storytelling quality.",
   "nickname": "Gravelly Storyteller",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Death metal devil",
-  "picker_label": "Voice 443 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 443",
+  "described": "2026-07-22",
+  "category": "Characters & Creatures",
+  "graduated": "2026-07-23"
  },
  "Voice 444": {
   "gender": "Male",
@@ -5024,10 +5467,11 @@
   "vibe": "A warm, welcoming, and friendly older gentleman with an inviting, conversational tone.",
   "nickname": "Warm Storyteller",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Old brit",
-  "picker_label": "Voice 444 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 444",
+  "described": "2026-07-22",
+  "category": "Wise & Seasoned",
+  "graduated": "2026-07-23"
  },
  "Voice 445": {
   "gender": "Female",
@@ -5039,10 +5483,11 @@
   "vibe": "A warm and inviting Southern voice packed with friendly enthusiasm and hospitable charm.",
   "nickname": "Welcoming Southern Host",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Nova Synthetic",
-  "picker_label": "Voice 445 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 445",
+  "described": "2026-07-22",
+  "category": "Southern & Country",
+  "graduated": "2026-07-23"
  },
  "Voice 446": {
   "gender": "Female",
@@ -5054,10 +5499,11 @@
   "vibe": "An eager, friendly, and welcoming youthful voice filled with cheerful excitement.",
   "nickname": "Enthusiastic Companion",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Lilia synthetic",
-  "picker_label": "Voice 446 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 446",
+  "described": "2026-07-22",
+  "category": "Everyday Women",
+  "graduated": "2026-07-23"
  },
  "Voice 447": {
   "gender": "Female",
@@ -5069,10 +5515,11 @@
   "vibe": "An enthusiastic, cheerful, and inviting young voice with a friendly, cartoon-like charm.",
   "nickname": "Cheerful Cartoon Host",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Libby Synthetic",
-  "picker_label": "Voice 447 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 447",
+  "described": "2026-07-22",
+  "category": "Characters & Creatures",
+  "graduated": "2026-07-23"
  },
  "Voice 448": {
   "gender": "Female",
@@ -5084,10 +5531,11 @@
   "vibe": "A vibrant, expressive, and welcoming older female voice filled with enthusiasm and warmth.",
   "nickname": "Warm African Matriarch",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Jamaiken granny",
-  "picker_label": "Voice 448 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 448",
+  "described": "2026-07-22",
+  "category": "Wise & Seasoned",
+  "graduated": "2026-07-23"
  },
  "Voice 449": {
   "gender": "Female",
@@ -5099,10 +5547,11 @@
   "vibe": "An upbeat and welcoming voice with a friendly, conversational tone.",
   "nickname": "Welcoming Friend",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Kyla Synthetic",
-  "picker_label": "Voice 449 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 449",
+  "described": "2026-07-22",
+  "category": "Everyday Women",
+  "graduated": "2026-07-23"
  },
  "Voice 450": {
   "gender": "Female",
@@ -5114,10 +5563,11 @@
   "vibe": "A warm, expressive, and inviting voice with a friendly, conversational charm.",
   "nickname": "Warm Conversationalist",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Kathlene synthetic",
-  "picker_label": "Voice 450 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 450",
+  "described": "2026-07-22",
+  "category": "Everyday Women",
+  "graduated": "2026-07-23"
  },
  "Voice 451": {
   "gender": "Female",
@@ -5129,10 +5579,11 @@
   "vibe": "A warm, enthusiastic, and inviting voice that sounds friendly and youthful.",
   "nickname": "Cheerful Friendly Host",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Angel Synthetic",
-  "picker_label": "Voice 451 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 451",
+  "described": "2026-07-22",
+  "category": "Everyday Women",
+  "graduated": "2026-07-23"
  },
  "Voice 452": {
   "gender": "Male",
@@ -5144,10 +5595,11 @@
   "vibe": "An inviting and upbeat voice that exudes friendliness, warmth, and genuine enthusiasm.",
   "nickname": "Enthusiastic Host",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Hiphop male 1 synthetic",
-  "picker_label": "Voice 452 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 452",
+  "described": "2026-07-22",
+  "category": "Deep & Smoky",
+  "graduated": "2026-07-23"
  },
  "Voice 453": {
   "gender": "Female",
@@ -5159,10 +5611,11 @@
   "vibe": "A warm, folksy, and chatty Southern grandmother welcoming you in for a visit.",
   "nickname": "Southern Matriarch",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Southern Granny synthetic",
-  "picker_label": "Voice 453 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 453",
+  "described": "2026-07-22",
+  "category": "Wise & Seasoned",
+  "graduated": "2026-07-23"
  },
  "Voice 454": {
   "gender": "Male",
@@ -5174,10 +5627,11 @@
   "vibe": "A warm, welcoming, and conversational voice with a relaxed Southern drawl.",
   "nickname": "Warm Southern Storyteller",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Drunk sounding old man on the phone synthetic",
-  "picker_label": "Voice 454 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 454",
+  "described": "2026-07-22",
+  "category": "Wise & Seasoned",
+  "graduated": "2026-07-23"
  },
  "Voice 455": {
   "gender": "Male",
@@ -5189,10 +5643,11 @@
   "vibe": "A warm, welcoming male voice with an inviting and friendly conversational tone.",
   "nickname": "Friendly Host",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Depressed hipster",
-  "picker_label": "Voice 455 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 455",
+  "described": "2026-07-22",
+  "category": "Deep & Smoky",
+  "graduated": "2026-07-23"
  },
  "Voice 456": {
   "gender": "Female",
@@ -5204,10 +5659,11 @@
   "vibe": "A warm, welcoming, and enthusiastic voice that creates an instant sense of familiarity.",
   "nickname": "Welcoming Companion",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Colbie synthetic",
-  "picker_label": "Voice 456 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 456",
+  "described": "2026-07-22",
+  "category": "Everyday Women",
+  "graduated": "2026-07-23"
  },
  "Voice 457": {
   "gender": "Female",
@@ -5219,10 +5675,11 @@
   "vibe": "A lively, enthusiastic young voice filled with cheerful cartoon energy.",
   "nickname": "Cheerful Cartoon Child",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Cartoonia Synthetic",
-  "picker_label": "Voice 457 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 457",
+  "described": "2026-07-22",
+  "category": "Characters & Creatures",
+  "graduated": "2026-07-23"
  },
  "Voice 458": {
   "gender": "Female",
@@ -5234,10 +5691,11 @@
   "vibe": "An upbeat, friendly, and enthusiastic voice with a youthful, welcoming tone.",
   "nickname": "Cheerful Companion",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Alegra synthetic",
-  "picker_label": "Voice 458 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 458",
+  "described": "2026-07-22",
+  "category": "Kids & Teens",
+  "graduated": "2026-07-23"
  },
  "Voice 459": {
   "gender": "Female",
@@ -5249,10 +5707,11 @@
   "vibe": "A warm and inviting Southern voice that sounds friendly, expressive, and conversational.",
   "nickname": "Warm Southern Host",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Samaria",
-  "picker_label": "Voice 459 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 459",
+  "described": "2026-07-22",
+  "category": "Southern & Country",
+  "graduated": "2026-07-23"
  },
  "Voice 460": {
   "gender": "Female",
@@ -5264,10 +5723,11 @@
   "vibe": "A warm, welcoming, and friendly voice that creates an intimate and conversational atmosphere.",
   "nickname": "Warm Confidante",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Monique synthetic",
-  "picker_label": "Voice 460 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 460",
+  "described": "2026-07-22",
+  "category": "Calm & Soothing",
+  "graduated": "2026-07-23"
  },
  "Voice 461": {
   "gender": "Female",
@@ -5279,10 +5739,11 @@
   "vibe": "A warm and friendly young child's voice delivering an inviting, eager greeting.",
   "nickname": "Welcoming Young Host",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Kid mya, synthetic",
-  "picker_label": "Voice 461 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 461",
+  "described": "2026-07-22",
+  "category": "Kids & Teens",
+  "graduated": "2026-07-23"
  },
  "Voice 462": {
   "gender": "Male",
@@ -5294,10 +5755,11 @@
   "vibe": "A warm, folksy, and welcoming elderly Southern voice with a relaxed storytelling quality.",
   "nickname": "Folksy Southern Grandpa",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Deej",
-  "picker_label": "Voice 462 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 462",
+  "described": "2026-07-22",
+  "category": "Wise & Seasoned",
+  "graduated": "2026-07-23"
  },
  "Voice 463": {
   "gender": "Female",
@@ -5309,10 +5771,11 @@
   "vibe": "A warm, intimate, and gentle voice that conveys quiet comfort and easy closeness.",
   "nickname": "Miss A casual",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Amber casual",
-  "picker_label": "Voice 463 (Beta) Miss A casual",
-  "described": "2026-07-22"
+  "picker_label": "Voice 463 Miss A casual",
+  "described": "2026-07-22",
+  "category": "Deep & Smoky",
+  "graduated": "2026-07-23"
  },
  "Voice 464": {
   "gender": "Female",
@@ -5324,10 +5787,11 @@
   "vibe": "A warm, enthusiastic, and inviting voice that exudes friendly hospitality.",
   "nickname": "Kade conversational",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Me casual",
-  "picker_label": "Voice 464 (Beta) Kade conversational",
-  "described": "2026-07-22"
+  "picker_label": "Voice 464 Kade conversational",
+  "described": "2026-07-22",
+  "category": "Everyday Women",
+  "graduated": "2026-07-23"
  },
  "Voice 465": {
   "gender": "Female",
@@ -5339,10 +5803,11 @@
   "vibe": "A warm, welcoming Southern voice delivered with cheerful and conversational hospitality.",
   "nickname": "Warm Southern Host",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Emani",
-  "picker_label": "Voice 465 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 465",
+  "described": "2026-07-22",
+  "category": "Southern & Country",
+  "graduated": "2026-07-23"
  },
  "Voice 466": {
   "gender": "Female",
@@ -5354,10 +5819,11 @@
   "vibe": "An inviting and intimate voice with a warm, friendly, and conversational tone.",
   "nickname": "Kade Candid",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Me talking casually",
-  "picker_label": "Voice 466 (Beta) Kade Candid",
-  "described": "2026-07-22"
+  "picker_label": "Voice 466 Kade Candid",
+  "described": "2026-07-22",
+  "category": "Calm & Soothing",
+  "graduated": "2026-07-23"
  },
  "Voice 467": {
   "gender": "Female",
@@ -5369,10 +5835,11 @@
   "vibe": "An upbeat, friendly, and animated voice with an inviting conversational tone.",
   "nickname": "Energetic Friend",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Shaina",
-  "picker_label": "Voice 467 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 467",
+  "described": "2026-07-22",
+  "category": "Everyday Women",
+  "graduated": "2026-07-23"
  },
  "Voice 468": {
   "gender": "Female",
@@ -5384,9 +5851,10 @@
   "vibe": "An enthusiastic, friendly child's voice full of warmth and cheerful excitement.",
   "nickname": "Energetic Friendly Child",
   "provider": "fish.audio",
-  "beta": true,
   "fish_title": "Kiddy",
-  "picker_label": "Voice 468 (Beta)",
-  "described": "2026-07-22"
+  "picker_label": "Voice 468",
+  "described": "2026-07-22",
+  "category": "Kids & Teens",
+  "graduated": "2026-07-23"
  }
 }
