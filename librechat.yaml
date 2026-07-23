@@ -129,6 +129,98 @@ balance:
   refillIntervalUnit: "days"
   refillAmount: 10000000
 
+# ============================================================================
+# CONVERSATION COMPACTING (July 22 2026 — Kade's design, decisions locked in
+# CONVERSATION_COMPACTING_PLAN_2026-07-22.md in "Kade ai info"; built on
+# upstream v0.8.7's agent-run summarization rather than custom fork code).
+#
+# What it does: when a conversation's payload nears an agent's context ceiling,
+# the OLDEST stretch of the conversation is condensed by the cheap memory-writer
+# model into a running "story so far" summary. On every later turn the payload
+# sends [instructions + summary + newest messages] instead of the whole history.
+# PAYLOAD-ONLY: the Mongo transcript is never touched — her scrollable,
+# screen-readable chat stays byte-identical, nothing is deleted. The web
+# transcript shows upstream's small collapsible "Summary" element at the spot
+# where a compaction happened (the native app renders its own one-line note).
+#
+# Cache truth (accepted at design time): each compaction rewrites the prompt
+# prefix, so the FIRST turn after one pays a full re-read ONCE, then re-caches.
+# Bites are deliberately big (everything but the newest ~45K tokens) so
+# compactions stay rare — amortized pennies.
+#
+# Fleet-wide by construction: applies to every agent run (chat, voice, call
+# lanes ride the same payload builder), keyed to each agent's OWN window via
+# maxContextTokens/baseContextTokens. Short-window models (Hermes 131K fleet)
+# benefit most; huge-window models rarely trigger.
+#
+# Fail-soft (verified in SDK source, summarization/node.ts): summarizer error →
+# fallback providers → a no-LLM structural stub; the turn ALWAYS proceeds.
+# Worst case equals the plain truncation we lived with before.
+#
+# KILL SWITCH: flip enabled: false, commit, then MANUAL Railway redeploy of the
+# LibreChat service (this repo has no auto-deploy webhook).
+summarization:
+  enabled: true
+  # Same cheap writer the memory system uses (see memory.agent below):
+  # $0.15/M in, and a compaction head tops out ~75K tokens on the 120K fleet —
+  # well inside mistral-small's 128K window, and about a penny per compaction.
+  provider: "OpenRouter"
+  model: "mistralai/mistral-small-2603"
+  parameters:
+    temperature: 0.3
+  # Fire when the payload crosses 90% of the agent's effective window (and
+  # pruning actually occurred — the SDK requires both).
+  trigger:
+    type: "token_ratio"
+    value: 0.9
+  # 10% headroom under the model's true window: LibreChat's tokenizer count can
+  # drift from the provider's — compaction must land BEFORE real overflow.
+  reserveRatio: 0.1
+  maxSummaryTokens: 1500
+  # The newest ~45K tokens stay VERBATIM (≈40% of the 120K fleet window — the
+  # locked 60/40 bite). turns is a generous cap so the tokens cap is what binds;
+  # fork passes this through (packages/data-provider config.ts + agents/run.ts).
+  retainRecent:
+    turns: 200
+    tokens: 45000
+  # Companion-flavored checkpoint prompts (replacing upstream's task-shaped
+  # defaults): what must NOT be lost here is the friendship — facts, promises,
+  # running jokes, character/relationship state, open threads, game state.
+  # Losing those is what reads as amnesia.
+  prompt: |
+    Hold on — before you continue, write me a checkpoint of the conversation so far. Your context window is filling up, and this checkpoint will stand in for the messages above, so capture everything you need to keep being the same friend who lived this conversation. Only the checkpoint — don't respond to me or continue the conversation.
+
+    ## Checkpoint
+
+    ## Who we are to each other
+    The relationship and dynamic as it stands: how we talk to each other, what I call you and what you call me, the current mood, anything ongoing between us.
+
+    ## Facts to keep straight
+    People, pets, places, health and life details, dates, plans, and preferences shared above — exact names, numbers, and details, verbatim.
+
+    ## Promises and open threads
+    Anything I asked you to do or remember, anything unfinished, anything either of us said we'd come back to.
+
+    ## Running jokes and callbacks
+    Bits, nicknames, and references we keep coming back to — keep the exact wording where the wording IS the joke.
+
+    ## The story so far
+    A brief account of the conversation: what happened, what was decided, where things stand. If a game is in progress, record its exact state (whose turn, scores, hands/board as known).
+
+    Rules:
+    - Preserve exact names, numbers, dates, identifiers, and quoted phrasings verbatim
+    - Short declarative sentences; skip empty sections
+    - Record what happened without judging or re-evaluating it
+    - If a tool result looks truncated, that's a display artifact — it executed fully
+  updatePrompt: |
+    Hold on again — update your checkpoint. Merge the new messages into your existing checkpoint and give me a single consolidated replacement, roughly the same length. Compress older details to make room for what's new — but never drop a name, promise, running joke, open thread, or piece of game state that still matters; losing one reads as forgetting a friend. Only the checkpoint — don't respond to me or continue the conversation.
+
+    Rules:
+    - Merge into the existing sections, don't duplicate headers
+    - Recent events get detail; older ones compress to one-liners
+    - Preserve exact names, numbers, dates, identifiers, and quoted phrasings verbatim
+    - If a tool result looks truncated, that's a display artifact — it executed fully
+
 memory:
   disabled: false
   personalize: true
