@@ -88,7 +88,18 @@ endpoints:
       # long/messy conversations instead of reading them — that's where
       # hallucinated titles like "planning for aunt carol's visit" came from.
       # No examples now; an explicit no-invention rule does the work.
-      titlePrompt: "Write a concise, specific title for the conversation: 3 to 7 words naming the actual topic or what the user wanted. Use ONLY words, names, and topics that literally appear in the conversation — NEVER invent people, events, or subjects that are not in it. If the topic is unclear, use the most specific words the user actually said. Plain text only, no surrounding quotes, no trailing punctuation, no emoji. Avoid vague titles like Conversation, User question, or Chat."
+      # ⚠️ ROOT-CAUSED July 27 2026 (Kade: "titles have nothing to do with the
+      # conversation"): since the v0.8.7 rebase, a CUSTOM titlePrompt is the
+      # ENTIRE prompt template — @librechat/agents createCompletionTitleRunnable
+      # interpolates the conversation ONLY where a literal {convo} placeholder
+      # appears (the built-in default prompt has one; the July-18 rewrite here
+      # had none). Result: the title model received these instructions with NO
+      # conversation attached and invented generic titles ("AI for Business
+      # Applications" for a pickle-snack chat; live repro receipts in
+      # PROJECT_STATUS July 27 part 3). Any future edit MUST keep {convo}.
+      # "Output ONLY the title" line added because the blind model had also
+      # started chatting ("Sure, I can do that. The title is:...").
+      titlePrompt: "Write a concise, specific title for the conversation below: 3 to 7 words naming the actual topic or what the user wanted. Use ONLY words, names, and topics that literally appear in the conversation — NEVER invent people, events, or subjects that are not in it. If the topic is unclear, use the most specific words the user actually said. Output ONLY the title itself: plain text, no preamble or explanation, no surrounding quotes, no trailing punctuation, no emoji. Avoid vague titles like Conversation, User question, or Chat.\n\nConversation:\n{convo}"
       # titleTiming (July 16 2026): default 'immediate' generates the title from
       # ONLY the user's first message, in parallel with the reply -- fine when
       # that first message is already specific, but this is a voice-first app
