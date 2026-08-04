@@ -1,10 +1,10 @@
-# Voice Catalog — all 536 TTS voices, described by ear (July 21–22, 2026; additions described July 23, August 3, and August 4; categories RETIRED August 3)
+# Voice Catalog — all 541 TTS voices, described by ear (July 21–22, 2026; additions described July 23, August 3, and August 4 (two waves); categories RETIRED August 3)
 
 Categories: RETIRED from the pickers August 3, 2026 (Kade's call — the buckets were built on the by-ear gender labels and some of those were wrong, so guys and girls ended up mixed; receipt: Voice 431, her own fish title says “Female Rev” but the by-ear pass heard Male). The live picker now serves ONE flat “All Voices” section in ascending numeric order. The old bucket table sits dormant in the proxy (server.js VOICE_CATEGORIES) for a future re-audit; the [Category: …] brackets on the lines below are July-23 history, kept for reference, not served anywhere.
 
 Every Inworld voice was synthesized saying the same audition line and described by an audio-understanding model (Gemini, via the platform's existing Google key — Moonshot's API doesn't accept audio in, so Kimi couldn't do the listening himself; the catalog now serves him anyway). One line per voice, built for screen-reader listening and for automated voice-matching.
 
-Library totals (recomputed August 4, 2026 across all 536): 331 female, 205 male · mostly young-adult American, with children, seniors, British, Australian, Indian, and Southern voices flagged where heard.
+Library totals (recomputed August 4, 2026 across all 541): 336 female, 205 male · mostly young-adult American, with children, seniors, British, Australian, Indian, and Southern voices flagged where heard.
 
 Honest limitation: one warm audition line was used for comparability, which tilts the one-sentence vibes toward 'friendly/welcoming.' The objective fields (gender, age, pitch, texture, accent, energy) are the reliable matching signal; treat the vibe sentence as seasoning.
 
@@ -559,3 +559,8 @@ Voice 533 — Warm Enthusiastic Friend. Female, Young Adult, pitch Medium-High, 
 Voice 534 — Warm Conversationalist. Female, Young Adult, pitch Medium-High, Warm, Smooth, American, energy Medium-High. A warm and inviting conversational voice that sounds friendly and enthusiastic. (Her Inworld voice: “Toyabelle”.)
 Voice 535 — Warm Energetic Host. Female, Young Adult, pitch Medium-High, Warm, Clear, American, energy High. An upbeat, welcoming, and expressive voice that feels instantly friendly and engaging. (Her Inworld voice: “Darce”.)
 Voice 536 — Welcoming Friend. Female, Young Adult, pitch Medium-High, Warm, Clear, Bright, American, energy Medium-High. A warm, enthusiastic, and approachable female voice that feels like talking to an old friend. (Her Inworld voice: “Nivea”.)
+Voice 537 — Warm Southern Host. Female, Young Adult, pitch Medium-Low, Warm, Breathy, Smooth, American (Southern), energy Low. A warm and inviting Southern voice that feels intimate, relaxed, and conversational. (Her fish clone: “Authentic Young Woman”.)
+Voice 538 — Welcoming Host. Female, Young Adult, pitch Medium, Warm, Smooth, American, energy Medium-High. A warm and inviting voice that sounds friendly, animated, and conversational. (Her fish clone: “Warm Confidante”.)
+Voice 539 — Southern Confidante. Female, Middle-aged, pitch Medium, Warm, Breathy, American (Southern), energy Medium-High. A warm, welcoming Southern voice with an intimate and chatty demeanor. (Her fish clone: “Empathetic Young Woman”.)
+Voice 540 — Warm Southern Hospitality. Female, Young Adult, pitch Medium-High, Warm, Breathy, Smooth, American (Southern), energy Medium. A warm, intimate, and inviting voice with a gentle Southern charm. (Her fish clone: “Empathetic Young Female”.)
+Voice 541 — Cheerful Companion. Female, Young Adult, pitch Medium-High, Warm, Clear, American, energy Medium-High. A warm, enthusiastic, and friendly voice that creates an inviting and conversational atmosphere. (Her own professional voice clone; picker label “Kade professional”.)
