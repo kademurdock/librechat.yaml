@@ -1,10 +1,10 @@
-# Voice Catalog — all 528 TTS voices, described by ear (July 21–22, 2026; additions described July 23 and August 3; categories RETIRED August 3)
+# Voice Catalog — all 536 TTS voices, described by ear (July 21–22, 2026; additions described July 23, August 3, and August 4; categories RETIRED August 3)
 
 Categories: RETIRED from the pickers August 3, 2026 (Kade's call — the buckets were built on the by-ear gender labels and some of those were wrong, so guys and girls ended up mixed; receipt: Voice 431, her own fish title says “Female Rev” but the by-ear pass heard Male). The live picker now serves ONE flat “All Voices” section in ascending numeric order. The old bucket table sits dormant in the proxy (server.js VOICE_CATEGORIES) for a future re-audit; the [Category: …] brackets on the lines below are July-23 history, kept for reference, not served anywhere.
 
 Every Inworld voice was synthesized saying the same audition line and described by an audio-understanding model (Gemini, via the platform's existing Google key — Moonshot's API doesn't accept audio in, so Kimi couldn't do the listening himself; the catalog now serves him anyway). One line per voice, built for screen-reader listening and for automated voice-matching.
 
-Library totals (recomputed August 3, 2026 across all 528): 324 female, 204 male · mostly young-adult American, with children, seniors, British, Australian, Indian, and Southern voices flagged where heard.
+Library totals (recomputed August 4, 2026 across all 536): 331 female, 205 male · mostly young-adult American, with children, seniors, British, Australian, Indian, and Southern voices flagged where heard.
 
 Honest limitation: one warm audition line was used for comparability, which tilts the one-sentence vibes toward 'friendly/welcoming.' The objective fields (gender, age, pitch, texture, accent, energy) are the reliable matching signal; treat the vibe sentence as seasoning.
 
@@ -551,3 +551,11 @@ Voice 525 — Welcoming Southern Friend. Female, Middle-aged, pitch Medium-High,
 Voice 526 — Enthusiastic Friend. Female, Young Adult, pitch Medium-High, Bright, American, energy High. An enthusiastic, expressive, and welcoming voice with a friendly, inviting tone. (Her fish clone: “Moxxi”.)
 Voice 527 — Enthusiastic Friend. Female, Young Adult, pitch Medium-High, Warm, Bright, Clear, American, energy High. An upbeat, enthusiastic, and warm voice brimming with friendly, welcoming energy. (Her fish clone: “Brenton”.)
 Voice 528 — Upbeat Companion. Female, Young Adult, pitch Medium-High, Clear, Bright, Warm, American, energy Medium-High. An upbeat and welcoming voice that exudes warmth, enthusiasm, and conversational charm. (Her fish clone: “Lillian”.)
+Voice 529 — Warm Welcoming Host. Female, Young Adult, pitch Medium, Warm, Smooth, Clear, American, energy Medium-High. A warm, welcoming, and upbeat voice with a conversational, inviting charm. (Her Inworld voice: “Raiche”.)
+Voice 530 — Welcoming Friend. Female, Young Adult, pitch Medium-High, Warm, Clear, American, energy Medium-High. Warm, welcoming, and lively, perfect for an approachable and chatty character. (Her Inworld voice: “Kandi”.)
+Voice 531 — Warm Welcoming Friend. Female, Young Adult, pitch Medium-High, Warm, Bright, Clear, American, energy Medium-High. An enthusiastic and friendly voice that feels warm, personal, and inviting. (Her Inworld voice: “Maliah”.)
+Voice 532 — Warm Conversationalist. Male, Middle-aged, pitch Medium-Low, Warm, Smooth, Gravelly, American, energy Medium-High. A warm, enthusiastic, and welcoming male voice that feels immediately friendly and personal. (Her Inworld voice: “Trayvan”.)
+Voice 533 — Warm Enthusiastic Friend. Female, Young Adult, pitch Medium-High, Warm, Bright, Clear, American, energy Medium-High. An inviting and animated voice brimming with friendly enthusiasm. (Her Inworld voice: “Fabricia”.)
+Voice 534 — Warm Conversationalist. Female, Young Adult, pitch Medium-High, Warm, Smooth, American, energy Medium-High. A warm and inviting conversational voice that sounds friendly and enthusiastic. (Her Inworld voice: “Toyabelle”.)
+Voice 535 — Warm Energetic Host. Female, Young Adult, pitch Medium-High, Warm, Clear, American, energy High. An upbeat, welcoming, and expressive voice that feels instantly friendly and engaging. (Her Inworld voice: “Darce”.)
+Voice 536 — Welcoming Friend. Female, Young Adult, pitch Medium-High, Warm, Clear, Bright, American, energy Medium-High. A warm, enthusiastic, and approachable female voice that feels like talking to an old friend. (Her Inworld voice: “Nivea”.)
