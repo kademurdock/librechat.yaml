@@ -595,3 +595,18 @@ Six more Inworld workspace clones added on her word the same night. Picker shows
 - Voice 556 Karreetha: female, young-adult, medium pitch, American accent. Nickname "Soft Echo". Sweet and intimate tone creating a calm and pleasant atmosphere.
 - Voice 557 Synthetic Ki: female, young-adult, medium pitch, American accent. Nickname "Digital Breeze". Neutral and structured tone with a clean, clear cadence.
 - Voice 558 Torana: female, young-adult, high pitch, American accent. Nickname "Bubbly Joy". Playful and excited tone radiating cheerful optimism.
+
+
+## August 6 2026, batch three — the nightcap (Voices 559-567)
+
+Nine more Inworld workspace clones, same night. Numbers-only in the picker; names live here:
+
+- Voice 559 Traymon: male, young-adult, low pitch, American accent. Nickname "Smooth Calm". A relaxed and welcoming greeting delivered with a warm tone.
+- Voice 560 Gianne: female, young-adult, medium pitch, American accent. Nickname "Upbeat Friend". A pleasant and upbeat tone with an inviting presence.
+- Voice 561 Lolo: male, middle-aged, low pitch, American accent. Nickname "Deep Resonance". A deep, grounded voice expressing warm hospitality.
+- Voice 562 Vennya: female, young-adult, high pitch, American accent. Nickname "Lively Spark". An energetic and lively greeting full of enthusiasm.
+- Voice 563 Magnolia: female, young-adult, medium pitch, American accent. Nickname "Soft Charm". An expressive and friendly conversational voice.
+- Voice 564 Navita: female, young-adult, medium pitch, American accent. Nickname "Gentle Grace". A gentle, calm speaker inviting effortless connection.
+- Voice 565 Nomi: female, young-adult, medium pitch, American accent. Nickname "Crisp Clarity". An articulate and composed tone with friendly warmth.
+- Voice 566 Hailya: female, young-adult, high pitch, American accent. Nickname "Bubbly Cheer". A bubbly and excited greeting that radiates optimism.
+- Voice 567 Diamond: female, young-adult, high pitch, American accent. Nickname "Sweet Welcome". A gentle and pleasant voice offering a warm welcome.
