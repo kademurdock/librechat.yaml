@@ -583,3 +583,15 @@ Six Inworld workspace clones plus five fish clones added on her word; Kayshia, D
 - Voice 552 Friendly Young Female (fish): female, young-adult, high pitch, American accent, high energy. Nickname "Upbeat Girl". Cheerful and upbeat voice with an engaging persona.
 
 Ear flag: Voice 549 Doachah fish was heard as FEMALE while Voice 546 Doachah (Inworld) was heard as male — possible clone drift or a crossed sample on the fish side; Kade to adjudicate. The standing hold-outs (Kade*, Amber*/Miss A, Sky, Dale, Keighty, Podcast Keighty fast) remain unregistered per her vet.
+
+
+## August 6 2026, batch two (Voices 553-558)
+
+Six more Inworld workspace clones added on her word the same night. Picker shows numbers only (her rule); names live here:
+
+- Voice 553 Nayeema: female, young-adult, high pitch, American accent. Nickname "Sunny Welcome". Warm and enthusiastic greeting with an upbeat and welcoming tone.
+- Voice 554 Soofy: female, young-adult, low pitch, American accent. Nickname "Gentle Warmth". Smooth and relaxed voice with a calm, inviting presence.
+- Voice 555 Karma rae: female, young-adult, medium pitch, American accent. Nickname "Bright Smile". Friendly and approachable voice delivering a upbeat, sincere welcome.
+- Voice 556 Karreetha: female, young-adult, medium pitch, American accent. Nickname "Soft Echo". Sweet and intimate tone creating a calm and pleasant atmosphere.
+- Voice 557 Synthetic Ki: female, young-adult, medium pitch, American accent. Nickname "Digital Breeze". Neutral and structured tone with a clean, clear cadence.
+- Voice 558 Torana: female, young-adult, high pitch, American accent. Nickname "Bubbly Joy". Playful and excited tone radiating cheerful optimism.
