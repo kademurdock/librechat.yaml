@@ -610,3 +610,19 @@ Nine more Inworld workspace clones, same night. Numbers-only in the picker; name
 - Voice 565 Nomi: female, young-adult, medium pitch, American accent. Nickname "Crisp Clarity". An articulate and composed tone with friendly warmth.
 - Voice 566 Hailya: female, young-adult, high pitch, American accent. Nickname "Bubbly Cheer". A bubbly and excited greeting that radiates optimism.
 - Voice 567 Diamond: female, young-adult, high pitch, American accent. Nickname "Sweet Welcome". A gentle and pleasant voice offering a warm welcome.
+
+
+## August 6 2026, batch four — fish evening (Voices 568-577)
+
+Ten fish.audio clones from her afternoon session. Numbers-only in the picker; names live here:
+
+- Voice 568 Bostonio (fish): male, young-adult, low pitch, American accent. Nickname "Deep Warmth". A relaxed and friendly greeting delivered with a smooth, deep presence.
+- Voice 569 Friendly Young Speaker (fish): male, young-adult, medium pitch, American accent. Nickname "Casual Companion". An approachable and easygoing young male voice welcoming a conversation.
+- Voice 570 Friendly Young Voice (fish): female, young-adult, high pitch, American accent. Nickname "Bright Greeting". A bright and welcoming young female voice expressing genuine warmth.
+- Voice 571 Friendly Youthful Voice (fish): female, young-adult, medium pitch, American accent. Nickname "Gentle Charm". A gentle and friendly female tone with a clear, engaging delivery.
+- Voice 572 Vennayah (fish): female, young-adult, medium pitch, African accent. Nickname "Melodic Warmth". A warm, melodic African female voice conveying sincere friendliness.
+- Voice 573 Energetic Friend (fish): female, young-adult, high pitch, African American accent. Nickname "Vibrant Cheer". An enthusiastic and upbeat female voice full of expressive cheer.
+- Voice 574 Energetic Young Speaker (fish): female, young-adult, high pitch, American accent. Nickname "Lively Spark". A lively and cheerful young speaker delivering an upbeat welcome.
+- Voice 575 Laymarrah (fish): female, young-adult, low pitch, American accent. Nickname "Quiet Husky". A calm and relaxed female voice with an intimate, subtle delivery.
+- Voice 576 Expressive Casual Male (fish): male, young-adult, low pitch, American accent. Nickname "Laidback Cool". A casual, laid-back male voice with a deep and grounded tone.
+- Voice 577 Friendly Young Male (fish): male, young-adult, low pitch, American accent. Nickname "Grounded Friend". A grounded and dependable male voice delivering a friendly greeting.
