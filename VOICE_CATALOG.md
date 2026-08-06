@@ -564,3 +564,22 @@ Voice 538 — Welcoming Host. Female, Young Adult, pitch Medium, Warm, Smooth, A
 Voice 539 — Southern Confidante. Female, Middle-aged, pitch Medium, Warm, Breathy, American (Southern), energy Medium-High. A warm, welcoming Southern voice with an intimate and chatty demeanor. (Her fish clone: “Empathetic Young Woman”.)
 Voice 540 — Warm Southern Hospitality. Female, Young Adult, pitch Medium-High, Warm, Breathy, Smooth, American (Southern), energy Medium. A warm, intimate, and inviting voice with a gentle Southern charm. (Her fish clone: “Empathetic Young Female”.)
 Voice 541 — Cheerful Companion. Female, Young Adult, pitch Medium-High, Warm, Clear, American, energy Medium-High. A warm, enthusiastic, and friendly voice that creates an inviting and conversational atmosphere. (Her own professional voice clone; picker label “Kade professional”.)
+
+
+## August 6 2026 additions (Voices 542-552) — her family-clone batch
+
+Six Inworld workspace clones plus five fish clones added on her word; Kayshia, Doachah, and Londranno exist on BOTH providers (fish twins carry a " fish" suffix in the picker). Ear-described by the standard Gemini pipeline:
+
+- Voice 542 Kayshia (inworld): female, young-adult, high pitch, American accent, high energy. Nickname "Bright Welcomer". Enthusiastic and welcoming greeting delivered with a bright tone.
+- Voice 543 Chancey (inworld): male, young-adult, low pitch, American accent, medium energy. Nickname "Warm Resonance". Warm and grounded male voice with a friendly tone.
+- Voice 544 Nashay (inworld): female, young-adult, medium pitch, American accent, medium energy. Nickname "Friendly Cheer". Friendly and cheerful voice delivering a pleasant greeting.
+- Voice 545 Puddin (inworld): female, young-adult, medium pitch, American accent, medium energy. Nickname "Casual Charm". Casual and approachable tone that feels very inviting.
+- Voice 546 Doachah (inworld): male, young-adult, medium pitch, American accent, medium energy. Nickname "Smooth Friend". Smooth and friendly delivery with an upbeat feel.
+- Voice 547 Londranno (inworld): male, middle-aged, low pitch, American accent, low energy. Nickname "Deep Calm". Deep and calm male voice with a relaxed presence.
+- Voice 548 Kayshia fish (fish): female, young-adult, high pitch, American accent, low energy. Nickname "Soft Whisper". Soft and whimsical voice with a gentle delivery.
+- Voice 549 Doachah fish (fish): female, young-adult, medium pitch, American accent, low energy. Nickname "Breathy Murmur". Quiet and intimate voice spoken in a breathy manner.
+- Voice 550 Londranno fish (fish): male, young-adult, low pitch, American accent, medium energy. Nickname "Grounded Tone". Grounded and straightforward male voice with a relaxed tone.
+- Voice 551 Supportive Friend (fish): male, young-adult, low pitch, American accent, medium energy. Nickname "Supportive Buddy". Reassuring and encouraging voice that sounds dependable.
+- Voice 552 Friendly Young Female (fish): female, young-adult, high pitch, American accent, high energy. Nickname "Upbeat Girl". Cheerful and upbeat voice with an engaging persona.
+
+Ear flag: Voice 549 Doachah fish was heard as FEMALE while Voice 546 Doachah (Inworld) was heard as male — possible clone drift or a crossed sample on the fish side; Kade to adjudicate. The standing hold-outs (Kade*, Amber*/Miss A, Sky, Dale, Keighty, Podcast Keighty fast) remain unregistered per her vet.
