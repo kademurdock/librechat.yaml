@@ -626,3 +626,25 @@ Ten fish.audio clones from her afternoon session. Numbers-only in the picker; na
 - Voice 575 Laymarrah (fish): female, young-adult, low pitch, American accent. Nickname "Quiet Husky". A calm and relaxed female voice with an intimate, subtle delivery.
 - Voice 576 Expressive Casual Male (fish): male, young-adult, low pitch, American accent. Nickname "Laidback Cool". A casual, laid-back male voice with a deep and grounded tone.
 - Voice 577 Friendly Young Male (fish): male, young-adult, low pitch, American accent. Nickname "Grounded Friend". A grounded and dependable male voice delivering a friendly greeting.
+
+
+## August 6 2026, batch five — inworld round four (Voices 578-593)
+
+Sixteen inworld workspace clones. Numbers-only in the picker; names live here. Hold-outs stayed parked per the standing vet (including "Pro amber reading" — an Amber hiding behind a Pro).
+
+- Voice 578 Jadabell: female, 30s, medium pitch, American accent. Nickname "Bright Reflection". Her voice feels like a morning light reflecting off clean glass.
+- Voice 579 Snoley: female, 20s, medium pitch, American accent. Nickname "Playful Bounce". Her voice has a light, bubbly bounce to it.
+- Voice 580 Mobley: female, 30s, high pitch, American accent. Nickname "Warm Breeze". Her voice feels like a friendly greeting on a sunny afternoon.
+- Voice 581 Lanore: female, 40s, medium pitch, American accent. Nickname "Steady Flow". Her voice rolls forward with an easy, confident cadence.
+- Voice 582 Lorissa: female, 30s, high pitch, american accent. Nickname "Bright Optimist". Her bright, smiling voice shines through a cheerful observation about life's surprises.
+- Voice 583 Mayflower: female, 30s, medium pitch, american accent. Nickname "Gentle Comfort". Her smooth, melodic voice carries a warm, reassuring smile.
+- Voice 584 Cooxy: female, 30s, medium pitch, american accent. Nickname "Vibrant Soul". Her rich, energetic voice bounces with a lively, smiling cadence.
+- Voice 585 Ashe: female, 30s, medium pitch, american accent. Nickname "Soft Serenade". Her soft, breathy voice flows with a warm, gentle intimacy.
+- Voice 586 Kellsey: female, 30s, medium pitch, american accent. Nickname "Warm Reflection". This friendly voice sounds like a thoughtful friend sharing a fresh perspective over morning coffee.
+- Voice 587 Casual Ki: female, 40s, medium pitch, american accent. Nickname "Gentle Guidance". This smooth voice sounds like an encouraging mentor offering wise perspective.
+- Voice 588 Melody: female, 40s, medium pitch, american accent. Nickname "Cozy Wisdom". This friendly voice sounds like a wise friend sharing life lessons with a warm smile.
+- Voice 589 Sagen: female, 40s, medium pitch, american accent. Nickname "Bright Optimism". This upbeat voice sounds like an enthusiastic guide sharing an encouraging insight.
+- Voice 590 Pebbsey: female, young-adult, high pitch, American accent. Nickname "Bright Soft Cadence". This voice stands out for its light, smooth American delivery with a gentle, upbeat rhythm.
+- Voice 591 Bevvy: male, young-adult, low pitch, American accent. Nickname "Warm Relaxed Resonant". This voice is unique for its grounded male depth and easygoing, conversational pace.
+- Voice 592 coco: female, young-adult, high pitch, American accent. Nickname "Crisp Airy Melody". This voice is distinguished by its higher-pitched, airy timbre and animated, buoyant inflection.
+- Voice 593 Alissa: female, middle-aged, low pitch, American accent. Nickname "Grounded Mellow Poise". This voice sets itself apart with a deeper, composed female tone and steady, articulate phrasing.
