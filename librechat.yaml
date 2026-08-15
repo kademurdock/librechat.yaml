@@ -81,7 +81,19 @@ endpoints:
       # is the cheapest non-thinking model in the picker: clean one-line titles,
       # faster, fraction of the cost. The fork's sanitizeTitle also got hardened
       # the same day (PUA sentinels, %%% tags, cue tokens, quote wrappers).
-      titleModel: "google/gemini-2.5-flash-lite"
+      # Aug 15 2026 (her call, "who cares how fast they generate"): moved to
+      # deepseek-v4-flash — cheaper than flash-lite on both axes ($0.082/$0.165
+      # vs $0.100/$0.400) and speed is a non-issue here (the fork allows 45s;
+      # flash lands a title in ~2-3s). Her premise was right; the catch was
+      # different: flash left to itself REASONS on this prompt shape and burns
+      # the whole token budget, returning an EMPTY title. That is now impossible
+      # — reframe pins reasoning hard OFF for title/summarizer-shaped calls (no
+      # system message, no tools), so this lane is model-agnostic-safe. With
+      # reasoning off, flash titled all three test conversations correctly
+      # including the deliberately vague opener ("Landlord blowing off broken
+      # back step" from a chat that starts with "hey").
+      # Revert = "google/gemini-2.5-flash-lite" back on this line.
+      titleModel: "deepseek/deepseek-v4-flash"
       # Custom title prompt (July 14 2026; REWRITTEN July 18 2026): the July-14
       # version included literal examples with real names ("Planning Skylee's
       # birthday call") and the small title model COPIED the example pattern on
