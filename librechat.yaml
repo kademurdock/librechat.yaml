@@ -172,11 +172,17 @@ balance:
 # LibreChat service (this repo has no auto-deploy webhook).
 summarization:
   enabled: true
-  # Same cheap writer the memory system uses (see memory.agent below):
-  # $0.15/M in, and a compaction head tops out ~75K tokens on the 120K fleet —
-  # well inside mistral-small's 128K window, and about a penny per compaction.
+  # Same cheap writer the memory system uses (see memory.agent below).
+  # Aug 15 2026 (her call, "switch all those background processes to flash"):
+  # moved off mistral-small-2603 to deepseek-v4-flash — $0.082/$0.165 per M vs
+  # $0.15/$0.60 (cheaper on BOTH axes), 1M context so a ~75K compaction head is
+  # never near the ceiling. Bakeoff on a real transcript before the swap: flash
+  # preserved every fact/number AND caught detail mistral dropped (the appeal
+  # deadline, the emotional context), for half the cost. Slower (3.2s vs 1.4s),
+  # which is free here — compaction is rare and blocks nobody.
+  # Revert = put "mistralai/mistral-small-2603" back on this line.
   provider: "OpenRouter"
-  model: "mistralai/mistral-small-2603"
+  model: "deepseek/deepseek-v4-flash"
   parameters:
     temperature: 0.3
   # Fire when the payload crosses 90% of the agent's effective window (and
@@ -248,11 +254,22 @@ memory:
   agent:
     enabled: true
     provider: "OpenRouter"
-    # Memory writer moved off z-ai/glm-5.2 (July 10 2026): mistral-small-2603 has NATIVE
-    # tool calling through reframe (no shim; proven by the Kiana MIS pilot), writes terse
-    # factual prose, and costs ~5x less on a call that fires after EVERY turn platform-wide
-    # ($0.15/$0.60 vs $0.75/$2.37 per M). Revert = put glm-5.2 back on this line.
-    model: "mistralai/mistral-small-2603"
+    # Memory writer moved off z-ai/glm-5.2 (July 10 2026) to mistral-small-2603, then to
+    # deepseek-v4-flash Aug 15 2026 (her call). Flash is cheaper on BOTH axes
+    # ($0.082/$0.165 vs $0.15/$0.60 per M) on a call that fires after EVERY turn
+    # platform-wide, and it tested BETTER on her own taste rules: given the same
+    # exchange it kept the detail and the feeling ("...haven't talked much since their
+    # dad's funeral — feels a little nervous about it, like there's weight there")
+    # where mistral wrote a flatter clause. Native tool calling VERIFIED before the
+    # swap (3 well-formed set_memory calls; correctly zero calls on a bait question) —
+    # flash is not in reframe's TOOL_SHIM_MODELS, so tools pass through untouched.
+    # ⚠️ Known quirk, harmless: on a nothing-to-save turn flash sometimes answers the
+    # question conversationally instead of saying "nothing to save". That text is
+    # discarded (only tool calls are acted on) — it costs a few output tokens, nothing more.
+    # NOT switched to deepseek-v4-pro on purpose: it is a REASONING model, ~10x the cost
+    # here, and it returned EMPTY content in testing (reasoning ate the whole budget).
+    # Revert = put "mistralai/mistral-small-2603" back on this line.
+    model: "deepseek/deepseek-v4-flash"
     model_parameters:
       temperature: 0.3
     instructions: |
