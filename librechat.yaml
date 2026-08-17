@@ -1,3 +1,24 @@
+# ############################################################################
+# ⚠️⚠️ THIS FILE IS NO LONGER LIVE — moved Aug 17 2026 (Part 72).
+#
+# The LIVE config is `kade-config.yaml` at the ROOT OF THE FORK
+# (kademurdock/LibreChat, branch `kade`), shipped inside the Docker image.
+# CONFIG_PATH on the LibreChat Railway service = /app/kade-config.yaml
+#
+# WHY: CONFIG_PATH used to point at this file's raw.githubusercontent URL, so
+# every boot re-downloaded it. With Railway app-sleep on, the service woke ~79
+# times in 24h and that fetch sometimes failed; a config-less boot has NO custom
+# endpoints, so the next message answered
+#   { "type": "endpoint_models_not_loaded", "info": "OpenRouter" }
+# and Kade got that error in the face on Aug 17 while every pot was funded.
+#
+# EDITS HERE DO NOTHING. Edit the fork's kade-config.yaml and push to `kade` —
+# it auto-deploys. (Bonus: the old manual-redeploy chore for config is gone.)
+#
+# Everything else in this repo (PLATFORM_STATUS.md, VOICE_CATALOG.*) is
+# UNAFFECTED and still live.
+# ############################################################################
+
 version: 1.1.5
 cache: true
 fileStrategy: 's3'
